@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mapdb>
+  <maps>
+    <map>
+      <name image="" text="" />
+      <preview image="" />
+      <size x="128" y="128"/>
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <description></description>
+      <features tileset="jungle" players="2" island="true" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <author authorId="auth:1" />
+      <downloads>
+        <download>www.facebook.com</download>
+      </downloads>
+    </map>
+    <map>
+      <name text="" />
+      <preview image="" />
+      <game versionId="sc:1" />
+      <size x="64" y="64" />
+      <features tileset="jungle" players="4" />
+      <author authorId="auth:0" />
+      <downloads>
+        <download name="asd">www.facebook.com</download>
+        <download>www.myspace.com</download>
+      </downloads>
+    </map>
+  </maps>
+
+  <authors>
+    <author id="auth:0">
+      <name image="" text="Blizzard" />
+      <url>www.blizzard.com</url>
+      <email>contact@blizzard.com</email>
+    </author>
+    <author id="auth:1">
+      <name text="John Doe" />
+    </author>
+  </authors>
+
+  <games>
+    <game id="w">
+      <name text="Warcraft" />
+      <versions>
+        <version id="w">
+          <name text="Warcraft: Orcs and Humans" />
+        </version>
+      </versions>
+    </game>
+    <game id="w2">
+      <name image="" text="Warcraft 2" />
+      <site>http://classic.battle.net/war2/</site>
+      <versions>
+        <version id="w2:1">
+          <name image="" text="Warcraft 2" />
+          <description></description>
+        </version>
+        <version id="w2:2">
+          <name image="" text="Warcraft 2: Beyond the Dark Portal" />
+          <description></description>
+        </version>
+        <version id="w2:3">
+          <name image="" text="Warcraft 2: BNE" />
+          <description></description>
+        </version>
+      </versions>
+    </game>
+    <game id="sc">
+      <name image="" text="Starcraft" />
+      <site>https://starcraft.com/</site>
+      <versions>
+        <version id="sc:0">
+          <name image="" text="Starcraft beta" />
+          <description></description>
+          <download name="">www.facebook.com</download>
+          <download>www.google.com</download>
+        </version>
+        <version id="sc:1">
+          <name image="" text="Starcraft" />
+          <description></description>
+          <downloads>
+            <download name="">www.facebook.com</download>
+          </downloads>
+        </version>
+        <version id="sc:2">
+          <name image="" text="Starcraft: Broodwar" />
+          <description></description>
+          <downloads>
+            <download name="">www.facebook.com</download>
+          </downloads>
+        </version>
+        <version id="sc:3">
+          <name image="" text="Starcraft: Remastered" />
+          <description></description>
+        </version>
+      </versions>
+    </game>
+  </games>
+</mapdb>
