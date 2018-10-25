@@ -63,6 +63,7 @@
             dominance. Command many unique armies and creatures including
             Knights, Archers, Clerics, Warlocks, Daemons, Elementals, and the Dead.
           </description>
+          <release>1994-11-23</release>
         </version>
       </versions>
     </game>
@@ -87,6 +88,7 @@
             as the Alliance has been forged. Now, the last of the once great
             armies of Azeroth seek retribution for the loss of their homeland.
           </description>
+          <release>1995-12-09</release>
         </version>
         <version id="w2:2">
           <name image="" text="Warcraft 2: Beyond the Dark Portal" />
@@ -104,6 +106,7 @@
             shattered Draenor, trapping many of Azeroth's greatest heroes on
             Outland, the damaged remains of the planet.
           </description>
+          <release>1996-04-30</release>
         </version>
         <version id="w2:3">
           <name image="" text="Warcraft 2: Battle.net Edition" />
@@ -116,6 +119,7 @@
             on Battle.net. The game was also ported to be natively supported
             under Windows, unlike the original game which ran under DOS.
           </description>
+          <release>1999-09-30</release>
         </version>
       </versions>
     </game>
@@ -151,6 +155,7 @@
           <downloads>
             <download name="">www.facebook.com</download>
           </downloads>
+          <release>1998-03-31</release>
         </version>
         <version id="sc:2">
           <name image="" text="Starcraft: Broodwar" />
@@ -163,6 +168,7 @@
           <downloads>
             <download name="">www.facebook.com</download>
           </downloads>
+          <release>1998-11-30</release>
         </version>
         <version id="sc:3">
           <name image="" text="Starcraft: Remastered" />
@@ -178,6 +184,7 @@
             Most importantly, the strategy gameplay that StarCraft perfected
             years ago remains unchanged.
           </description>
+          <release>2017-07-30</release>
         </version>
       </versions>
     </game>
