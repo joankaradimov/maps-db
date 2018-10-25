@@ -42,10 +42,27 @@
 
   <games>
     <game id="w">
-      <name text="Warcraft" />
+      <name image="games/warcraft.png" text="Warcraft" />
       <versions>
         <version id="w">
-          <name text="Warcraft: Orcs and Humans" />
+          <name image="games/warcraft.png" text="Warcraft: Orcs and Humans" />
+          <description>
+            Warcraft: Orcs &amp; Humans is the real-time fantasy strategy game
+            from Blizzard Entertainment that quickly became a best seller.
+            Warcraft has not only become a classic, winning many awards, but
+            it has set new standards for multiplayer games. Set in the mythic
+            kingdom of Azeroth, players are given the task of maintaining a
+            thriving economy while building a war machine with which to destroy
+            the enemy.
+
+            By playing either the Humans or the Orcs in this saga, two separate
+            story lines evolve with 12 scenarios per side telling the tale of
+            the battle for Azeroth. From swords to sorcery, all the elements of
+            classic fantasy are here to explore: rich forests, dark dungeons
+            and bubbling swamps await the stalwart troops amassed to fight for
+            dominance. Command many unique armies and creatures including
+            Knights, Archers, Clerics, Warlocks, Daemons, Elementals, and the Dead.
+          </description>
         </version>
       </versions>
     </game>
@@ -54,16 +71,51 @@
       <site>http://classic.battle.net/war2/</site>
       <versions>
         <version id="w2:1">
-          <name image="" text="Warcraft 2" />
-          <description></description>
+          <name image="" text="Warcraft 2: Tides of Darkness" />
+          <description>
+            With the death of the Orcish Warchief Blackhand, his underling
+            Orgrim Doomhammer was quick to seize control over the most powerful
+            of the Orcish forces on Azeroth. Although each day finds other
+            factions growing stronger within the chaotic Horde, it seems certain
+            that all of the clans will follow Orgrim's plans to hunt down and
+            destroy the renegade Azerothiens wherever they choose to run...
+
+            Sir Lothar, in charge of the scattered armies of Azeroth since
+            the death of King Llane, has led his people across the Great Sea
+            to the shores of Lordaeron. By enlisting the armies of Lordaeron,
+            and making new allies in the Elves and Dwarves, a mighty force known
+            as the Alliance has been forged. Now, the last of the once great
+            armies of Azeroth seek retribution for the loss of their homeland.
+          </description>
         </version>
         <version id="w2:2">
           <name image="" text="Warcraft 2: Beyond the Dark Portal" />
-          <description></description>
+          <description>
+            Following the destruction of Azeroth's Dark Portal by the
+            victorious Alliance, the orc shaman Ner'zhul took command of the
+            remaining Horde on Draenor. There, he plotted to create portals
+            to other unspoiled worlds and invade each in turn. To enable the
+            rituals for his dimensional conquest, Ner'zhul sent orcish forces
+            through his world's intact Dark Portal in search of powerful relics
+            on Azeroth. Wary of the Horde's plans, the heroes of the Alliance
+            invaded Draenor to end the orcish threat forever. Facing certain
+            defeat at the hands of his enemies, Ner'zhul succeeded in opening
+            numerous portals to new worlds. The resulting magical stress
+            shattered Draenor, trapping many of Azeroth's greatest heroes on
+            Outland, the damaged remains of the planet.
+          </description>
         </version>
         <version id="w2:3">
-          <name image="" text="Warcraft 2: BNE" />
-          <description></description>
+          <name image="" text="Warcraft 2: Battle.net Edition" />
+          <description>
+            Warcraft II: Battle.net Edition is an Battle.net-enabled version
+            of Warcraft II: Tides of Darkness, with the expansion
+            Warcraft II: Beyond the Dark Portal built in.
+
+            It is essentially the same as Warcraft II, but it allows for usage
+            on Battle.net. The game was also ported to be natively supported
+            under Windows, unlike the original game which ran under DOS.
+          </description>
         </version>
       </versions>
     </game>
@@ -73,27 +125,59 @@
       <versions>
         <version id="sc:0">
           <name image="" text="Starcraft beta" />
-          <description></description>
-          <download name="">www.facebook.com</download>
-          <download>www.google.com</download>
+          <description>
+            An online-only version of Starcraft open for public beta testing.
+          </description>
+          <downloads>
+            <download name="">www.facebook.com</download>
+          </downloads>
         </version>
         <version id="sc:1">
           <name image="" text="Starcraft" />
-          <description></description>
+          <description>
+            StarCraft is set around the early 26th century. Terran exiles from
+            Earth have colonized a distant area of the Milky Way galaxy called
+            the Koprulu Sector, having established several governments.
+            Eventually, a civil war breaks out and ends with the formation of
+            the Terran Dominion.
+
+            However, humanity soon becomes caught in a war between the Protoss
+            and the Zerg, which culminates at the end of StarCraft with the death
+            of the Zerg leader, the Overmind, on the Protoss homeworld of Aiur.
+            Without the Overmind to command, the Zerg rampage mindlessly across
+            Aiur, while the cerebrates—the secondary commanders of the
+            Swarm—attempt to regain control.
+          </description>
           <downloads>
             <download name="">www.facebook.com</download>
           </downloads>
         </version>
         <version id="sc:2">
           <name image="" text="Starcraft: Broodwar" />
-          <description></description>
+          <description>
+            After the discovery of alien life in the Koprulu Sector, the
+            United Earth Directorate (UED) — the international body governing
+            Earth — decides to send an expeditionary force to secure the
+            sector and prevent the aliens from finding Earth.
+          </description>
           <downloads>
             <download name="">www.facebook.com</download>
           </downloads>
         </version>
         <version id="sc:3">
           <name image="" text="Starcraft: Remastered" />
-          <description></description>
+          <description>
+            StarCraft®: Remastered upgrades the essential sci-fi strategy
+            experience from beginning to end. Welcome back to the original
+            game and its award-winning expansion, StarCraft: Brood War.
+
+            We’ve remastered our units, buildings, and environments, improved
+            game audio, and broadened our supported resolutions. Illustrated
+            interludes bring the struggles and victories of heroes like Artanis,
+            Fenix, Tassadar, Raynor and Kerrigan to life like never before.
+            Most importantly, the strategy gameplay that StarCraft perfected
+            years ago remains unchanged.
+          </description>
         </version>
       </versions>
     </game>
