@@ -71,8 +71,8 @@
       <name image="" text="Warcraft 2" />
       <site>http://classic.battle.net/war2/</site>
       <versions>
-        <version id="w2:1">
-          <name image="" text="Warcraft 2: Tides of Darkness" />
+        <version id="w2:td">
+          <name image="games/warcraft2.png" text="Warcraft 2: Tides of Darkness" />
           <description>
             With the death of the Orcish Warchief Blackhand, his underling
             Orgrim Doomhammer was quick to seize control over the most powerful
@@ -90,8 +90,8 @@
           </description>
           <release>1995-12-09</release>
         </version>
-        <version id="w2:2">
-          <name image="" text="Warcraft 2: Beyond the Dark Portal" />
+        <version id="w2:bdp">
+          <name image="games/warcraft2-bdp.png" text="Warcraft 2: Beyond the Dark Portal" />
           <description>
             Following the destruction of Azeroth's Dark Portal by the
             victorious Alliance, the orc shaman Ner'zhul took command of the
@@ -108,8 +108,8 @@
           </description>
           <release>1996-04-30</release>
         </version>
-        <version id="w2:3">
-          <name image="" text="Warcraft 2: Battle.net Edition" />
+        <version id="w2:bne">
+          <name image="games/warcraft2-bne.png" text="Warcraft 2: Battle.net Edition" />
           <description>
             Warcraft II: Battle.net Edition is an Battle.net-enabled version
             of Warcraft II: Tides of Darkness, with the expansion
@@ -124,11 +124,11 @@
       </versions>
     </game>
     <game id="sc">
-      <name image="" text="Starcraft" />
+      <name image="games/starcraft.png" text="Starcraft" />
       <site>https://starcraft.com/</site>
       <versions>
         <version id="sc:0">
-          <name image="" text="Starcraft beta" />
+          <name text="Starcraft beta" />
           <description>
             An online-only version of Starcraft open for public beta testing.
           </description>
@@ -137,7 +137,7 @@
           </downloads>
         </version>
         <version id="sc:1">
-          <name image="" text="Starcraft" />
+          <name image="games/starcraft.png" text="Starcraft" />
           <description>
             StarCraft is set around the early 26th century. Terran exiles from
             Earth have colonized a distant area of the Milky Way galaxy called
@@ -158,7 +158,7 @@
           <release>1998-03-31</release>
         </version>
         <version id="sc:2">
-          <name image="" text="Starcraft: Broodwar" />
+          <name text="Starcraft: Broodwar" />
           <description>
             After the discovery of alien life in the Koprulu Sector, the
             United Earth Directorate (UED) — the international body governing
@@ -171,7 +171,7 @@
           <release>1998-11-30</release>
         </version>
         <version id="sc:3">
-          <name image="" text="Starcraft: Remastered" />
+          <name image="games/starcraft-remastered.png" text="Starcraft: Remastered" />
           <description>
             StarCraft®: Remastered upgrades the essential sci-fi strategy
             experience from beginning to end. Welcome back to the original
