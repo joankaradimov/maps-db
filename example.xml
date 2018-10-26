@@ -27,6 +27,76 @@
         <download>www.myspace.com</download>
       </downloads>
     </map>
+
+    <map>
+      <name image="w2-maps/(6)Beetle Island Logo.png" text="Beetle Island" />
+      <preview image="w2-maps/(6)Beetle Island.jpg" />
+      <size x="128" y="128"/>
+      <game versionId="sw2:bne" />
+      <description>
+        In a remote kingdom, the battle between the Orcs and Humans took place
+        atop a huge creature. Created from the eldritch energies unleashed by
+        Medivh during the birth of the Dark Portal, a giant, carnivorous beetle
+        roamed the lands of Azeroth. Destroying ancient forests to satisfy its
+        voracious appetite and crushing all that stood in it's path, the beetle
+        became a menace to both the noble armies of the seven kingdoms and the
+        savage green-skinned invaders. In an awesome display of sorcery, the likes
+        of which have not been seen to this day, the great creature was polymorphed
+        by the mages of the Violet Citadel just as the Orcish Death Knights
+        unleashed a massive barrage of Decay spells. The result was the death
+        and transformation of the beast into what is now known as Beetle Island.
+
+        Once the greater threat was destroyed, the two armies quickly set upon
+        each other again, of course...
+      </description>
+      <features tileset="Forest" players="6" />
+      <author authorId="auth:0" />
+      <downloads>
+        <download name="Get the creeps">w2-maps/(6)Beetle Island.pud</download>
+      </downloads>
+    </map>
+    <map>
+      <name image="w2-maps/(4)Mountain Pass Logo.gif" text="Mountain Pass" />
+      <preview image="w2-maps/(4)Mountain Pass.jpg" />
+      <size x="128" y="128"/>
+      <game versionId="sw2:bne" />
+      <description>
+        Towering over the fetid swamps of Draenor, the Brokenrock Mountains have
+        long been a vital source of gold. The precious metal, sought after by the
+        Orcish clans to fuel their rampaging war machines, has always been a prize
+        worth fighting for. While an age old pact between the clans grants members
+        of the Horde equal access to the vast riches of the mines, clan chieftains
+        occasionally attempt to seize control of the entire mountain range for
+        themselves. These greed-driven leaders learn all too soon that the
+        "specialized mining techniques" of the Goblin Sappers has made the mountain
+        passes very difficult to hold...
+      </description>
+      <features tileset="Swamp" players="4" />
+      <author authorId="auth:0" />
+      <downloads>
+        <download name="Scale new heights">w2-maps/(4)Mountain Pass.pud</download>
+      </downloads>
+    </map>
+    <map>
+      <name image="w2-maps/(4)Cliffhanger.jpg" text="Cliffhanger" />
+      <preview image="w2-maps/(4)Cliffhanger Logo.jpg" />
+      <size x="128" y="128"/>
+      <game versionId="sw2:bne" />
+      <description>
+        The mountain ranges of Lordaeron hold many unique and mysterious treasures,
+        and the valley below Griffon’s Roost is one of the more spectacular.
+        Surrounded on all sides by extremely steep cliffs, the valley was
+        accidentally discovered when a Dwarvish Flying Machine was blown off course
+        during an unexpected storm. Expeditions have been sent overland to explore
+        the valley, but the foreboding crags and horrific ice storms that sweep over
+        the area have claimed the lives of many who would chart this remote place.
+      </description>
+      <features tileset="Snow" players="4" />
+      <author authorId="auth:0" />
+      <downloads>
+        <download name="Hang on!">w2-maps/(4)Cliffhanger BNE.pud</download>
+      </downloads>
+    </map>
   </maps>
 
   <authors>
