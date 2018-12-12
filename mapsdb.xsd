@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:complexType name="downloads">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" name="download">
+        <xs:complexType>
+          <xs:simpleContent>
+            <xs:extension base="xs:string">
+              <xs:attribute name="name" type="xs:string" use="optional" />
+            </xs:extension>
+          </xs:simpleContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
   <xs:element name="mapdb">
     <xs:complexType>
       <xs:sequence>
@@ -47,21 +62,7 @@
                           <xs:attribute name="authorId" type="xs:string" use="required" />
                         </xs:complexType>
                       </xs:element>
-                      <xs:element name="downloads">
-                        <xs:complexType>
-                          <xs:sequence>
-                            <xs:element maxOccurs="unbounded" name="download">
-                              <xs:complexType>
-                                <xs:simpleContent>
-                                  <xs:extension base="xs:string">
-                                    <xs:attribute name="name" type="xs:string" use="optional" />
-                                  </xs:extension>
-                                </xs:simpleContent>
-                              </xs:complexType>
-                            </xs:element>
-                          </xs:sequence>
-                        </xs:complexType>
-                      </xs:element>
+                      <xs:element name="downloads" type="downloads" />
                       <xs:element minOccurs="0" name="release" type="xs:date" />
                     </xs:choice>
                   </xs:sequence>
@@ -117,21 +118,7 @@
                                   </xs:complexType>
                                 </xs:element>
                                 <xs:element name="description" type="xs:string" />
-                                <xs:element minOccurs="0" name="downloads">
-                                  <xs:complexType>
-                                    <xs:sequence>
-                                      <xs:element name="download">
-                                        <xs:complexType>
-                                          <xs:simpleContent>
-                                            <xs:extension base="xs:string">
-                                              <xs:attribute name="name" type="xs:string" use="required" />
-                                            </xs:extension>
-                                          </xs:simpleContent>
-                                        </xs:complexType>
-                                      </xs:element>
-                                    </xs:sequence>
-                                  </xs:complexType>
-                                </xs:element>
+                                <xs:element minOccurs="0" name="downloads" type="downloads" />
                                 <xs:element minOccurs="0" name="release" type="xs:date" />
                               </xs:sequence>
                               <xs:attribute name="id" type="xs:string" use="required" />
