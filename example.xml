@@ -14,6 +14,7 @@
       <downloads>
         <download>www.facebook.com</download>
       </downloads>
+      <release>2000-10-05</release>
     </map>
     <map>
       <name text="" />
@@ -54,6 +55,7 @@
       <downloads>
         <download name="Get the creeps">w2-maps/(6)Beetle Island.pud</download>
       </downloads>
+      <release>1999-10-29</release>
     </map>
     <map>
       <name image="w2-maps/(4)Mountain Pass Logo.gif" text="Mountain Pass" />
@@ -76,6 +78,7 @@
       <downloads>
         <download name="Scale new heights">w2-maps/(4)Mountain Pass.pud</download>
       </downloads>
+      <release>1999-11-12</release>
     </map>
     <map>
       <name image="w2-maps/(4)Cliffhanger.jpg" text="Cliffhanger" />
@@ -96,6 +99,7 @@
       <downloads>
         <download name="Hang on!">w2-maps/(4)Cliffhanger BNE.pud</download>
       </downloads>
+      <release>2000-01-14</release>
     </map>
   </maps>
 

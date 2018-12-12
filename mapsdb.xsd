@@ -62,6 +62,7 @@
                           </xs:sequence>
                         </xs:complexType>
                       </xs:element>
+                      <xs:element minOccurs="0" name="release" type="xs:date" />
                     </xs:choice>
                   </xs:sequence>
                 </xs:complexType>
