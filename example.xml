@@ -12,7 +12,7 @@
       <author authorId="auth:0" />
       <author authorId="auth:1" />
       <downloads>
-        <download>www.facebook.com</download>
+        <full>www.facebook.com</full>
       </downloads>
       <release>2000-10-05</release>
     </map>
@@ -24,8 +24,8 @@
       <features tileset="jungle" players="4" />
       <author authorId="auth:0" />
       <downloads>
-        <download name="asd">www.facebook.com</download>
-        <download>www.myspace.com</download>
+        <full name="asd">www.facebook.com</full>
+        <full>www.myspace.com</full>
       </downloads>
     </map>
 
@@ -53,7 +53,7 @@
       <features tileset="Forest" players="6" />
       <author authorId="auth:0" />
       <downloads>
-        <download name="Get the creeps">w2-maps/(6)Beetle Island.pud</download>
+        <full name="Get the creeps">w2-maps/(6)Beetle Island.pud</full>
       </downloads>
       <release>1999-10-29</release>
     </map>
@@ -76,7 +76,7 @@
       <features tileset="Swamp" players="4" />
       <author authorId="auth:0" />
       <downloads>
-        <download name="Scale new heights">w2-maps/(4)Mountain Pass.pud</download>
+        <full name="Scale new heights">w2-maps/(4)Mountain Pass.pud</full>
       </downloads>
       <release>1999-11-12</release>
     </map>
@@ -97,7 +97,7 @@
       <features tileset="Snow" players="4" />
       <author authorId="auth:0" />
       <downloads>
-        <download name="Hang on!">w2-maps/(4)Cliffhanger BNE.pud</download>
+        <full name="Hang on!">w2-maps/(4)Cliffhanger BNE.pud</full>
       </downloads>
       <release>2000-01-14</release>
     </map>
@@ -207,7 +207,8 @@
             An online-only version of Starcraft open for public beta testing.
           </description>
           <downloads>
-            <download name="">www.facebook.com</download>
+            <full name="Beta">http://www.blizzardarchive.com:80/pub/Betas/SCBeta.rar</full>
+            <full name="Japanese beta">http://www.blizzardarchive.com:80/pub/Betas/SCJBeta.rar</full>
           </downloads>
         </version>
         <version id="sc:1">
@@ -227,7 +228,9 @@
             Swarm—attempt to regain control.
           </description>
           <downloads>
-            <download name="">www.facebook.com</download>
+            <demo name="Starcraft demo">http://ftp.blizzard.com/pub/starcraft/demos/SCDemo.exe</demo>
+            <patch name="PC 1.16.1">http://ftp.blizzard.com/pub/starcraft/patches/PC/SC-1161.exe</patch>
+            <patch name="MAC 1.16.1">http://ftp.blizzard.com/pub/starcraft/patches/Mac/StarCraft_v1161_OSX.zip</patch>
           </downloads>
           <release>1998-03-31</release>
         </version>
@@ -240,7 +243,8 @@
             sector and prevent the aliens from finding Earth.
           </description>
           <downloads>
-            <download name="">www.facebook.com</download>
+            <patch name="PC 1.16.1">http://ftp.blizzard.com/pub/broodwar/patches/PC/BW-1161.exe</patch>
+            <patch name="MAC 1.16.1">http://ftp.blizzard.com/pub/broodwar/patches/Mac/Brood_War_v1161_OSX.zip</patch>
           </downloads>
           <release>1998-11-30</release>
         </version>
