@@ -73,7 +73,7 @@
         "specialized mining techniques" of the Goblin Sappers has made the mountain
         passes very difficult to hold...
       </description>
-      <features tileset="Swamp" players="4" />
+      <features tileset="Swamp" players="4" teams="2" />
       <author authorId="auth:0" />
       <downloads>
         <full name="Scale new heights">w2-maps/(4)Mountain Pass.pud</full>

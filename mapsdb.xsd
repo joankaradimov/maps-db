@@ -73,6 +73,7 @@
                         <xs:complexType>
                           <xs:attribute name="tileset" type="xs:string" use="required" />
                           <xs:attribute name="players" type="xs:unsignedByte" use="required" />
+                          <xs:attribute name="teams" type="xs:unsignedByte" use="optional" />
                           <xs:attribute name="island" type="xs:boolean" use="optional" />
                           <xs:attribute name="useMapSettings" type="xs:boolean" use="optional" />
                         </xs:complexType>
