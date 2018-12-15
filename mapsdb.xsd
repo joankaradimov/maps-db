@@ -57,8 +57,8 @@
                       <xs:element minOccurs="0" maxOccurs="1" name="preview" type="xs:anyURI" />
                       <xs:element name="size">
                         <xs:complexType>
-                          <xs:attribute name="x" type="xs:unsignedByte" use="required" />
-                          <xs:attribute name="y" type="xs:unsignedByte" use="required" />
+                          <xs:attribute name="x" type="xs:unsignedShort" use="required" />
+                          <xs:attribute name="y" type="xs:unsignedShort" use="required" />
                         </xs:complexType>
                       </xs:element>
                       <xs:element maxOccurs="unbounded" name="game">
