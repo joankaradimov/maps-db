@@ -3,38 +3,6 @@
   <maps>
     <map>
       <title>
-        <name></name>
-      </title>
-      <preview></preview>
-      <size x="128" y="128"/>
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
-      <description></description>
-      <features tileset="jungle" players="2" island="true" useMapSettings="true" />
-      <author authorId="auth:0" />
-      <author authorId="auth:1" />
-      <downloads>
-        <full>www.facebook.com</full>
-      </downloads>
-      <release>2000-10-05</release>
-    </map>
-    <map>
-      <title>
-        <name></name>
-      </title>
-      <preview></preview>
-      <game versionId="sc:1" />
-      <size x="64" y="64" />
-      <features tileset="jungle" players="4" />
-      <author authorId="auth:0" />
-      <downloads>
-        <full name="asd">www.facebook.com</full>
-        <full>www.myspace.com</full>
-      </downloads>
-    </map>
-
-    <map>
-      <title>
         <name>Beetle Island</name>
         <logo>w2-maps/(6)Beetle Island Logo.png</logo>
       </title>
@@ -124,11 +92,6 @@
       </title>
       <url>www.blizzard.com</url>
       <email>contact@blizzard.com</email>
-    </author>
-    <author id="auth:1">
-      <title>
-        <name>John Doe</name>
-      </title>
     </author>
   </authors>
 
@@ -230,88 +193,6 @@
             <logo>games/warcraft2-bne.png</logo>
           </title>
           <release>1999-09-30</release>
-        </version>
-      </versions>
-    </game>
-    <game id="sc">
-      <title>
-        <name>Starcraft</name>
-        <logo>games/starcraft.png</logo>
-      </title>
-      <url>https://starcraft.com/</url>
-      <versions>
-        <version id="sc:0">
-          <title>
-            <name>Starcraft beta</name>
-            <description>
-              An online-only version of Starcraft open for public beta testing.
-            </description>
-          </title>
-          <downloads>
-            <full name="Beta">http://www.blizzardarchive.com:80/pub/Betas/SCBeta.rar</full>
-            <full name="Japanese beta">http://www.blizzardarchive.com:80/pub/Betas/SCJBeta.rar</full>
-          </downloads>
-        </version>
-        <version id="sc:1">
-          <title>
-            <name>Starcraft</name>
-            <description>
-              StarCraft is set around the early 26th century. Terran exiles from
-              Earth have colonized a distant area of the Milky Way galaxy called
-              the Koprulu Sector, having established several governments.
-              Eventually, a civil war breaks out and ends with the formation of
-              the Terran Dominion.
-
-              However, humanity soon becomes caught in a war between the Protoss
-              and the Zerg, which culminates at the end of StarCraft with the death
-              of the Zerg leader, the Overmind, on the Protoss homeworld of Aiur.
-              Without the Overmind to command, the Zerg rampage mindlessly across
-              Aiur, while the cerebrates—the secondary commanders of the
-              Swarm—attempt to regain control.
-            </description>
-            <logo>games/starcraft.png</logo>
-          </title>
-          <downloads>
-            <demo name="Starcraft demo">http://ftp.blizzard.com/pub/starcraft/demos/SCDemo.exe</demo>
-            <patch name="PC 1.16.1">http://ftp.blizzard.com/pub/starcraft/patches/PC/SC-1161.exe</patch>
-            <patch name="MAC 1.16.1">http://ftp.blizzard.com/pub/starcraft/patches/Mac/StarCraft_v1161_OSX.zip</patch>
-          </downloads>
-          <release>1998-03-31</release>
-        </version>
-        <version id="sc:2">
-          <title>
-            <name>Starcraft: Broodwar</name>
-            <description>
-              After the discovery of alien life in the Koprulu Sector, the
-              United Earth Directorate (UED) — the international body governing
-              Earth — decides to send an expeditionary force to secure the
-              sector and prevent the aliens from finding Earth.
-            </description>
-          </title>
-          <downloads>
-            <patch name="PC 1.16.1">http://ftp.blizzard.com/pub/broodwar/patches/PC/BW-1161.exe</patch>
-            <patch name="MAC 1.16.1">http://ftp.blizzard.com/pub/broodwar/patches/Mac/Brood_War_v1161_OSX.zip</patch>
-          </downloads>
-          <release>1998-11-30</release>
-        </version>
-        <version id="sc:3">
-          <title>
-            <name>Starcraft: Remastered</name>
-            <description>
-              StarCraft®: Remastered upgrades the essential sci-fi strategy
-              experience from beginning to end. Welcome back to the original
-              game and its award-winning expansion, StarCraft: Brood War.
-
-              We’ve remastered our units, buildings, and environments, improved
-              game audio, and broadened our supported resolutions. Illustrated
-              interludes bring the struggles and victories of heroes like Artanis,
-              Fenix, Tassadar, Raynor and Kerrigan to life like never before.
-              Most importantly, the strategy gameplay that StarCraft perfected
-              years ago remains unchanged.
-            </description>
-            <logo>games/starcraft-remastered.png</logo>
-          </title>
-          <release>2017-07-30</release>
         </version>
       </versions>
     </game>
