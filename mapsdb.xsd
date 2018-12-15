@@ -39,7 +39,7 @@
     <xs:sequence>
       <xs:element minOccurs="1" maxOccurs="1" name="name" type="xs:string" />
       <xs:element minOccurs="0" maxOccurs="1" name="description" type="xs:string" />
-      <xs:element minOccurs="0" maxOccurs="1" name="logo" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="logo" type="xs:anyURI" />
     </xs:sequence>
   </xs:complexType>
 
@@ -54,11 +54,7 @@
                   <xs:sequence>
                     <xs:choice maxOccurs="unbounded">
                       <xs:element minOccurs="1" maxOccurs="1" name="title" type="title" />
-                      <xs:element name="preview">
-                        <xs:complexType>
-                          <xs:attribute name="image" type="xs:string" use="required" />
-                        </xs:complexType>
-                      </xs:element>
+                      <xs:element minOccurs="0" maxOccurs="1" name="preview" type="xs:anyURI" />
                       <xs:element name="size">
                         <xs:complexType>
                           <xs:attribute name="x" type="xs:unsignedByte" use="required" />

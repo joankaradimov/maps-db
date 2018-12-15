@@ -5,7 +5,7 @@
       <title>
         <name></name>
       </title>
-      <preview image="" />
+      <preview></preview>
       <size x="128" y="128"/>
       <game gameId="sc:1" />
       <game versionId="sc:2" />
@@ -22,7 +22,7 @@
       <title>
         <name></name>
       </title>
-      <preview image="" />
+      <preview></preview>
       <game versionId="sc:1" />
       <size x="64" y="64" />
       <features tileset="jungle" players="4" />
@@ -38,7 +38,7 @@
         <name>Beetle Island</name>
         <logo>w2-maps/(6)Beetle Island Logo.png</logo>
       </title>
-      <preview image="w2-maps/(6)Beetle Island.jpg" />
+      <preview>w2-maps/(6)Beetle Island.jpg</preview>
       <size x="128" y="128"/>
       <game versionId="sw2:bne" />
       <description>
@@ -69,7 +69,7 @@
         <name>Mountain Pass</name>
         <logo>w2-maps/(4)Mountain Pass Logo.gif</logo>
       </title>
-      <preview image="w2-maps/(4)Mountain Pass.jpg" />
+      <preview>w2-maps/(4)Mountain Pass.jpg</preview>
       <size x="128" y="128"/>
       <game versionId="sw2:bne" />
       <description>
@@ -95,7 +95,7 @@
         <name>Cliffhanger</name>
         <logo>w2-maps/(4)Cliffhanger Logo.jpg</logo>
       </title>
-      <preview image="w2-maps/(4)Cliffhanger.jpg" />
+      <preview>w2-maps/(4)Cliffhanger.jpg</preview>
       <size x="128" y="128"/>
       <game versionId="sw2:bne" />
       <description>
