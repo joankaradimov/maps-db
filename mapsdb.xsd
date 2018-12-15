@@ -67,7 +67,6 @@
                           <xs:attribute name="versionId" type="xs:string" use="optional" />
                         </xs:complexType>
                       </xs:element>
-                      <xs:element name="description" />
                       <xs:element name="features">
                         <xs:complexType>
                           <xs:attribute name="tileset" type="xs:string" use="required" />
