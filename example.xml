@@ -169,7 +169,7 @@
         <name>Warcraft 2</name>
         <logo>games/warcraft2.png</logo>
       </title>
-      <site>http://classic.battle.net/war2/</site>
+      <url>http://classic.battle.net/war2/</url>
       <versions>
         <version id="w2:td">
           <title>
@@ -237,7 +237,7 @@
         <name>Starcraft</name>
         <logo>games/starcraft.png</logo>
       </title>
-      <site>https://starcraft.com/</site>
+      <url>https://starcraft.com/</url>
       <versions>
         <version id="sc:0">
           <title>
