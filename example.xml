@@ -120,6 +120,7 @@
     <author id="auth:0">
       <title>
         <name>Blizzard</name>
+        <logo>authors/blizzard-logo.png</logo>
       </title>
       <url>www.blizzard.com</url>
       <email>contact@blizzard.com</email>
