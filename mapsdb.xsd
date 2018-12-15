@@ -35,6 +35,14 @@
     </xs:sequence>
   </xs:complexType>
 
+  <xs:complexType name="title">
+    <xs:sequence>
+      <xs:element minOccurs="1" maxOccurs="1" name="name" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="description" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="logo" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+
   <xs:element name="mapdb">
     <xs:complexType>
       <xs:sequence>
@@ -45,12 +53,7 @@
                 <xs:complexType>
                   <xs:sequence>
                     <xs:choice maxOccurs="unbounded">
-                      <xs:element name="name">
-                        <xs:complexType>
-                          <xs:attribute name="image" type="xs:string" use="optional" />
-                          <xs:attribute name="text" type="xs:string" use="required" />
-                        </xs:complexType>
-                      </xs:element>
+                      <xs:element minOccurs="1" maxOccurs="1" name="title" type="title" />
                       <xs:element name="preview">
                         <xs:complexType>
                           <xs:attribute name="image" type="xs:string" use="required" />
@@ -98,12 +101,7 @@
               <xs:element maxOccurs="unbounded" name="author">
                 <xs:complexType>
                   <xs:sequence>
-                    <xs:element name="name">
-                      <xs:complexType>
-                        <xs:attribute name="image" type="xs:string" use="optional" />
-                        <xs:attribute name="text" type="xs:string" use="required" />
-                      </xs:complexType>
-                    </xs:element>
+                    <xs:element minOccurs="1" maxOccurs="1" name="title" type="title" />
                     <xs:element minOccurs="0" name="url" type="xs:string" />
                     <xs:element minOccurs="0" name="email" type="xs:string" />
                   </xs:sequence>
@@ -119,12 +117,7 @@
               <xs:element maxOccurs="unbounded" name="game">
                 <xs:complexType>
                   <xs:sequence>
-                    <xs:element name="name">
-                      <xs:complexType>
-                        <xs:attribute name="text" type="xs:string" use="required" />
-                        <xs:attribute name="image" type="xs:string" use="optional" />
-                      </xs:complexType>
-                    </xs:element>
+                    <xs:element minOccurs="1" maxOccurs="1" name="title" type="title" />
                     <xs:element minOccurs="0" name="url" type="xs:string" />
                     <xs:element name="versions">
                       <xs:complexType>
@@ -132,13 +125,7 @@
                           <xs:element maxOccurs="unbounded" name="version">
                             <xs:complexType>
                               <xs:sequence>
-                                <xs:element name="name">
-                                  <xs:complexType>
-                                    <xs:attribute name="text" type="xs:string" use="required" />
-                                    <xs:attribute name="image" type="xs:string" use="optional" />
-                                  </xs:complexType>
-                                </xs:element>
-                                <xs:element name="description" type="xs:string" />
+                                <xs:element minOccurs="1" maxOccurs="1" name="title" type="title" />
                                 <xs:element minOccurs="0" name="downloads" type="downloads" />
                                 <xs:element minOccurs="0" name="release" type="xs:date" />
                               </xs:sequence>
