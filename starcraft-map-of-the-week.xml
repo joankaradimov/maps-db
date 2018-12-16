@@ -3,34 +3,755 @@
   <maps>
     <map>
       <title>
-        <name></name>
+        <name>Brushfire</name>
+        <description>
+          The Protoss Templar have long used the ancient ruins of Mendella
+          as a proving ground for promising disciples. The original settlement,
+          built mostly underground, was flooded out during the Aeon of Strife
+          when warring tribes destroyed a nearby reservoir in an attempt to
+          drown their enemies. Recently, when the Zerg invaded Aiur, a nest
+          from the Baelrog brood settled into the resource-rich area, and only
+          a combined force of Protoss and Terran troops was able to cleanse the area.
+        </description>
+        <logo>starcraft-map-of-the-week/(4)Brushfire Logo.gif</logo>
       </title>
-      <preview></preview>
-      <size x="128" y="128"/>
+      <preview>starcraft-map-of-the-week/(4)Brushfire.jpg</preview>
+      <size x="128" y="128" />
       <game gameId="sc:1" />
-      <game versionId="sc:2" />
-      <description></description>
-      <features tileset="jungle" players="2" island="true" useMapSettings="true" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
-      <author authorId="auth:1" />
-      <downloads>
-        <full>www.facebook.com</full>
-      </downloads>
-      <release>2000-10-05</release>
+      <release>1998-05-22</release>
     </map>
     <map>
       <title>
-        <name></name>
+        <name>Divided Factions</name>
+        <description>
+          Even before Arcturus Mengsk and the Sons of Korhol overthrew the
+          Terran Confederacy, several other rebellious factions fought for
+          freedom. One such group, the Colonial Liberation Army, attempted
+          to wrest control of the mining station Tyra by dividing the Confederate
+          forces into smaller groups and fighting a series of skirmishes between
+          opposing squads. In the end, the Confederate forces won the day with
+          their "nuked earth" tactics.
+        </description>
+        <logo>starcraft-map-of-the-week/(6)Divided Factions Logo.gif</logo>
       </title>
-      <preview></preview>
+      <preview>starcraft-map-of-the-week/(6)Divided Factions.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <size x="64" y="64" />
-      <features tileset="jungle" players="4" />
+      <features tileset="space" players="6" teams="2" island="true" useMapSettings="true" />
       <author authorId="auth:0" />
-      <downloads>
-        <full name="asd">www.facebook.com</full>
-        <full>www.myspace.com</full>
-      </downloads>
+      <release>1998-05-29</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Eruption</name>
+        <description>
+          The Zerg chose Char as a launching point not only for its remote
+          location and rich resources, but because the rough terrain provided
+          many hiding places for various Brood hatcheries. While this undoubtedly
+          helped the Zerg conceal their numbers from Terran and Protoss scouts,
+          it worked against them when Kerrigan was forced to hunt down the Dark Templar.
+          This map is typical of the twisting cliffs and magma pools of Char.
+        </description>
+        <logo>starcraft-map-of-the-week/(8)Eruption Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(8)Eruption.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="ash" players="8" teams="2" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-06-05</release>
+    </map>
+    <map>
+      <title>
+        <name>Jacob's Ladder</name>
+        <description>
+          The Protoss Templar train constantly to maintain their fighting skills
+          even during times of peace, rare as they are. Strategic wargames are
+          carried out with a combination of real troops and hallucinations, and
+          battlefields are chosen to allow the combatants an opportunity to hone
+          a variety of tactical skills. This particular battlefield is a prime
+          example and has been used for many inter-tribal competitions.
+        </description>
+        <logo>starcraft-map-of-the-week/(2)Jacobs Ladder Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(2)Jacobs Ladder.jpg</preview>
+      <size x="96" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="2" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-06-12</release>
+    </map>
+    <map>
+      <title>
+        <name>Bunker Command</name>
+        <description>
+          The action is fast and furious as you lead your squad of soldiers
+          on a search-and-destroy mission. You gain points for destroying
+          enemy troops and bunkers, and points bring reinforcements, but beware--
+          if you lose your bunker, your entire team is destroyed and you start over!
+        </description>
+        <logo>starcraft-map-of-the-week/(6)Bunker Command Logo.gif</logo>
+      </title>
+      <size x="96" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="6" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-06-19</release>
+    </map>
+    <map>
+      <title>
+        <name>Elderlands</name>
+        <description>
+          One of the most sacred spots on Aiur is an ancient graveyard known
+          as Ni Monn Adun, "Heart of Adun". Here the greatest of Adun's
+          companions were laid to rest, and their psionic energy permeates
+          the very air around the ancient site. Despite repeated attempts
+          during their invasion, the Zerg were unable to occupy these grounds,
+          for the Protoss fought with incredible ferocity to maintain the
+          purity of Adun's Heart.
+        </description>
+        <logo>starcraft-map-of-the-week/(8)Elderlands Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(8)Elderlands.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="8" teams="2" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-06-26</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Backwoods</name>
+        <description>
+          One reason the Terrans have been able to survive on the mostly-lifeless
+          worlds along the rim for so long is that natural resources such as
+          vespene gas and the mineral ores used in most construction slowly
+          replenish over time, allowing mining companies to reuse decades-old
+          excavation sites. One such site, Stickler Woods on Antiga Prime, became
+          the focus of a series of skirmishes as Terran, Zerg, and Protoss forces
+          alike moved in to take what they could.
+        </description>
+        <logo>starcraft-map-of-the-week/(8)Backwoods Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(8)Backwoods.jpg</preview>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="8" teams="2" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-07-03</release>
+    </map>
+    <map>
+      <title>
+        <name>Zerg Soccer</name>
+        <description>
+          Most people assume that the Zerg are a malicious species with no sense
+          of humor or fun. While they are quite malicious, some Cerebrates have
+          demonstrated both humor and a desire for pure recreation. The recent
+          popularity of soccer among the Swarm is a prime example. Besides
+          sporting a name even a Hydralisk can pronounce, it gives opposing
+          Broods an opportunity to safely compete, and has recently surpassed
+          "Pin your tail through the Terran" as the Zerg sport of choice.
+        </description>
+        <logo>starcraft-map-of-the-week/(2)Zerg Soccer Logo.gif</logo>
+      </title>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="2" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-07-10</release>
+    </map>
+    <map>
+      <title>
+        <name>Expedition</name>
+        <description>
+          The Zerg invasion of Aiur brought untold death and devastation to the
+          planet, but in many ways the darkest days in the history of the Protoss
+          were shortly before the departure of the Dark Templar, when the barely
+          reunited tribes began to fight once more. Old vendettas and ancient
+          prejudices were reborn as the Protoss who refused the way of Khala were
+          branded as traitors and hunted down. Grand battles scarred the surface
+          and many bold warriors were slain in massive engagements. This map allows
+          you to recreate those epic campaigns, and see how the presence of Terran
+          and Zerg forces might have mixed things up.
+        </description>
+        <logo>starcraft-map-of-the-week/(8)Expedition Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(8)Expedition.jpg</preview>
+      <size x="256" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="8" teams="2" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-07-17</release>
+    </map>
+    <map>
+      <title>
+        <name>Nova Station</name>
+        <description>
+          Long known for their clandestine operations, the Confederate's
+          enigmatic Nova Squadron was created not only to gather intelligence
+          on the various "Pirate Militias" that threatened Confederate security,
+          but also to keep tabs on the various operative branches within the
+          Confederate Armed Forces. Once the Confederacy was dissolved, Nova Squadron
+          was forced to go into hiding. Whoever can maintain control of their former
+          headquarters not only commands the most strategically advantageous site
+          in the whole sector, but also has access to whatever priceless intelligence
+          Nova Squadron may have left behind.
+        </description>
+        <logo>starcraft-map-of-the-week/(4)Nova Station Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(4)Nova Station.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="4" teams="2" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-07-24</release>
+    </map>
+    <map>
+      <title>
+        <name>Predators</name>
+        <description>
+          Long ago, the Asari hunting grounds were favored by the mighty Protoss
+          who Stalked through their jungle-infested valleys. Now, as the world
+          of Aiur has been invaded by marauding alien races, the Protoss rush to
+          protect their once sacred lands. The hunters shall hunt again… And no
+          creature shall leave Asari alive.
+        </description>
+        <logo>starcraft-map-of-the-week/(5)Predators Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(5)Predators.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-07-31</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Warp Gates</name>
+        <description>
+          In the Aeon of Strife, Protoss warriors created warp gates to travel
+          great distances instantaneously. The knowledge involved in their
+          creation has been lost, but on some planets, these gates still remain.
+          When these sites are discovered, they spawn some of the most violent
+          battles as great powers try and control these ancient places of power.
+          A series of these gates have been discovered and you and an Allied
+          team have been dispatched to control these gates and discover the
+          mysteries they contain.
+        </description>
+        <logo>starcraft-map-of-the-week/(4)Warp Gates Logo.jpg</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(4)Warp Gates.gif</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="4" teams="2" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-08-07</release>
+    </map>
+    <map>
+      <title>
+        <name>Ghost Town</name>
+        <description>
+          Chau Sara has been a flash point for unparalleled hostilities during
+          the Wars. Seeding the atmosphere with toxic spores, the Zerg enslaved
+          the Terran population that founded the colony and changed the surface
+          of the world to better support their Hive clusters. Then, out of the
+          cold endlessness of space, a great Protoss fleet arrived and, seeking
+          to prevent further infestation, incinerated the planet. Since that time,
+          Chau Sara has been a lifeless world hanging in the void.
+        </description>
+        <logo>starcraft-map-of-the-week/(6)Ghost Town Logo.jpg</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(6)Ghost Town.jpg</preview>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="6" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-08-14</release>
+    </map>
+    <map>
+      <title>
+        <name>Enigma</name>
+        <description>
+          Strange symbols based on ancient, sacred geometries that embodied a
+          comprehensive knowledge of proportion and ratio have been a part of
+          Terran culture since the late 17th century of their recorded history.
+          It was later believed that these symbols were created when alien craft
+          landed in fields -- a theory supported by the fact that aerial
+          phenomenon had been observed in connection with the discovery of
+          these formations.
+
+          When these key shapes began appearing on desolate platforms at the edge
+          of known space, the Terrans dispatched teams of scientists in an attempt
+          to finally learn whether these were simple plasma induced phenomenon
+          or intelligently controlled formations with universal teaching.
+          The truth is out there...
+        </description>
+        <logo>starcraft-map-of-the-week/(8)Enigma Logo.jpg</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(8)Enigma.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="8" teams="2" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-08-21</release>
+    </map>
+    <map>
+      <title>
+        <name>Friends '98</name>
+        <description>
+          The constant strife and warfare that has divided our species has led
+          us now to follow a new and shining path gilded with cooperation. With
+          our new found allies, we shall begin to build an enlightened
+          civilization of truth, honor and beauty. We will forge a new and
+          lasting peace... a peace through superior firepower...
+        </description>
+        <logo>starcraft-map-of-the-week/(8)Friends 98 Logo.jpg</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(8)Friends 98.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="8" teams="2" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-08-21</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Legacy</name>
+        <description>
+          Many religious sites were destroyed in the great war, and the ancient
+          temples of Braken were of no exception. The invasive jungles of this
+          verdant world have all but restored the planet to its natural state.
+          It is still rich -- not only with the resources that fuel the great
+          war machines of the stars -- but also in arcane religious significance.
+          The prophesies foretell that "he who harnesses this world will someday
+          wield great a power, sanctified by the ancient ones". Securing this
+          essential part of the sector would bring great honor, glory and riches
+          to the one who could hold it...
+        </description>
+        <logo>starcraft-map-of-the-week/(6)Legacy Logo.jpg</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(6)Legacy.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="6" teams="2" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-09-04</release>
+    </map>
+    <map>
+      <title>
+        <name>Steal the Beacon</name>
+        <description>
+          Many religious sites were destroyed in the great war, and the ancient
+          temples of Braken were of no exception. The invasive jungles of this
+          verdant world have all but restored the planet to its natural state.
+          It is still rich -- not only with the resources that fuel the great
+          war machines of the stars -- but also in arcane religious significance.
+          The prophesies foretell that "he who harnesses this world will someday
+          wield great a power, sanctified by the ancient ones". Securing this
+          essential part of the sector would bring great honor, glory and riches
+          to the one who could hold it...
+        </description>
+        <logo>starcraft-map-of-the-week/(4)Steal the Beacon Logo.jpg</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(4)Steal the Beacon.jpg</preview>
+      <size x="96" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="installation" players="4" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-09-04</release>
+    </map>
+    <map>
+      <title>
+        <name>Chain Lightning</name>
+        <description>
+          The summer storms that ravage the high plateaus of Aiur appear and
+          vanish in the blink of an eye. Fierce battles for control of the
+          plateaus’ vast mineral fields are as swift as the storms that envelop
+          them. The current devastation wrought upon Aiur has forced the
+          combatants to this new proving ground, where the fighting has begun anew.
+        </description>
+        <logo>starcraft-map-of-the-week/(6)Chain Lightning Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(6)Chain Lightning.jpg</preview>
+      <size x="128" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="6" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-09-11</release>
+    </map>
+    <map>
+      <title>
+        <name>Aurora</name>
+        <description>
+          Now and again a giant platform is seen drifting through space,
+          accompanied by a strange set of lights following in an eerie glow.
+          Rumored to be the remains of an experimental arboretum platform
+          jettisoned during the destruction of Korhal, the platform is said
+          to contain a secret lab dedicated to the creation of strange and
+          exotics plants. Plants, whose purpose remains unknown to this day.
+        </description>
+        <logo>starcraft-map-of-the-week/(8)Aurora Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(8)Aurora.jpg</preview>
+      <size x="256" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="8" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-09-18</release>
+    </map>
+    <map>
+      <title>
+        <name>Inferno</name>
+        <description>
+          When volcanic forces tear a planet apart, it twists the surface world
+          into unrecognizable and bizarre shapes. The planet Wotan II was once
+          a peaceful agrarian world until a confederate extremist detonated a
+          Mercer class doomsday device deep within the planet's core. The
+          explosion brought forth to the surface the natural riches of this world
+          and now many factions struggle to survive the fiery surface long enough
+          to harvest the treasures that this world has to offer.
+        </description>
+        <logo>starcraft-map-of-the-week/(4)Inferno Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(4)Inferno.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="ash" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-09-25</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Labyrinth</name>
+        <description>
+          The Kel-Morian combine has been exploiting the ore deposits of remote
+          worlds for decades. From time to time, their mining teams unearth
+          strange artifacts or other physical evidence ancient civilizations.
+          This was the case when they discovered a monstrous labyrinth at the
+          Warrant VI dig site. Carbon dating shows that this gigantic series of
+          underground caves dates back several millennia. Several Terran scholars
+          have noted strong similarities between this maze and the patterns found
+          in the Labyrinth of Crete, indicating that there may have been alien
+          visitors on Earth long ago. This is, of course, secondary to the discovery
+          of extensive mineral fields within the labyrinth to the Kel-Morian combine,
+          and it seems unlikely that they would be interested in simply turning their
+          find over to "the scientific community" without a fight.
+        </description>
+        <logo>starcraft-map-of-the-week/(4)Labyrinth Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(4)Labyrinth.jpg</preview>
+      <size x="192" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="8" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-10-02</release>
+    </map>
+    <map>
+      <title>
+        <name>Big Game Hunters</name>
+        <description>
+          The Hunt continues with Big Game resources. Terran Wildlife Services,
+          in conjunction with LarsCorp Technologies, has announced the grand
+          opening of their fantastic new hunting preserve known as "Big Game".
+          Spawned from the overwhelming success of their "Hunters" park, this
+          new preserve was created to provide an environment that is safe,
+          controlled, and extremely challenging.
+
+          "Ballistic sporting has been so universally accepted that many citizens
+          in the private sector have even created their own private hunting grounds,"
+          said Todd Coyle, chairman of the Committee for the Recreational Use of
+          Sidearms and High-explosives (CRUSH). "This new facility has even more
+          of what sportsmen have asked for, and we know the true 'Big Game Hunters'
+          will quickly join in the fun."
+        </description>
+        <logo>starcraft-map-of-the-week/(8)Big Game Hunters Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(8)Big Game Hunters.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="8" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-10-09</release>
+    </map>
+    <map>
+      <title>
+        <name>Catwalk Alley</name>
+        <description>
+          [[Universal News Network]]
+          [[Theta Prime Station, Tarsonis]]
+
+          New Station Unveiled
+
+          The Dominion Engineering Corps (a division of the Kel-Morian Combine)
+          has taken up the task of rebuilding the many vital orbital platforms
+          required for a healthy flow of commerce in the aftermath of recent
+          upheaval and subsequent demise of the Terran Confederacy. The DEC is
+          utilizing many new design elements in the construction of these stations,
+          and the Theta Prime supply depot orbiting Tarsonis is a shining example
+          of innovative thinking. Coined "Catwalk Alley" by the project engineers,
+          the ingenious use of elevated catwalks provides a host of improved
+          station functions, including easier maintenance and better defensibility
+          from insurgent forces. The station is expected to serve as a showcase for
+          the power and ingenuity of the Dominion for many centuries.
+
+          [[End News Brief]]
+        </description>
+        <logo>starcraft-map-of-the-week/(4)Catwalk Alley Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(4)Catwalk Alley.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-10-09</release>
+    </map>
+    <map>
+      <title>
+        <name>Polaris Prime</name>
+        <description>
+          Originally designed as a diplomatic enclave, Polaris Prime was envisioned
+          as a place where disparate factions would gather and work out their
+          differences in a peaceful manner. The station, consisting of two central
+          meeting areas and six separated rooms, were well suited for the needs of
+          visiting Ambassadors and their staff. The station gained a well-earned
+          reputation as a haven for those individuals dedicated to peace. That all
+          changed when the Zerg onslaught began. Polaris Prime was quickly abandoned
+          when it fell into the ravenous path of the Swarm. Now, diplomacy of a
+          different kind has begun, as those species that once spoke of peace return
+          to present their arguments in a more aggressive manner.
+        </description>
+        <logo>starcraft-map-of-the-week/(6)Polaris Prime Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(6)Polaris Prime.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="6" island="true" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-10-16</release>
+    </map>
+    <map>
+      <title>
+        <name>The New Gauntlet</name>
+        <description>
+          After the Swarms settled the world where the old Gauntlet had been
+          built and all attempts to dislodge them failed, Emperor Mengsk decreed
+          that a new one be erected. This new Gauntlet was built in a sector of
+          space much harder for the swarms to overrun. The engineers who built
+          this new Gauntlet tried to use the original blueprints, but there is no
+          doubt that some minor but nevertheless important differences crept into
+          its construction.
+        </description>
+        <logo>starcraft-map-of-the-week/(2)The New Gauntlet Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(2)The New Gauntlet.jpg</preview>
+      <size x="128" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="2" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-10-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Proving Grounds</name>
+        <description>
+          The ancient, vicious blood feuds that were born in the Aeon of Strife
+          virtually flooded the proving grounds on Gyras with the life force of
+          thousands of Protoss Warriors. This bloodshed ended when the mystic
+          Khas called upon the forces of the Khaydarin Crystals and destroyed
+          the arena. The ruins that now stand here serve as a grim reminder of
+          both what has passed, and the purpose that this place now serves.
+          Although Khas strove to bring unification and enlightenment to his
+          people, he also knew that some disputes would still demand resolution
+          through force. Therefore, this place was sanctified as an arena of
+          honor, and those who seek to settle personal matters come back to
+          Gyras to prove their mettle in battle.
+        </description>
+        <logo>starcraft-map-of-the-week/(4)Proving Grounds Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(4)Proving Grounds.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-10-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Blast Furnace</name>
+        <description>
+          The temperatures on the planet Char can become so intense that large
+          portions of the planet's surface become completely liquefied. During
+          certain times, when the planet is furthest from the twin suns of the
+          system, small islands form on top of these seas of magma. These bits
+          of land are, not surprisingly, replete with minerals and greatly
+          prized as sources of incredible wealth. These riches are not without
+          cost, however, as more than one potential prospector has met his
+          demise within the fierce heat of Char.
+        </description>
+        <logo>starcraft-map-of-the-week/(6)Blast Furnace Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(6)Blast Furnace.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="ash" players="6" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-10-30</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Turbo</name>
+        <description>
+          Originally designed as a means to test and observe the reactions of
+          prospective battlefield commanders under rapidly changing battlefield
+          conditions, the Arclite Turbo Simulator 2000-- has evolved into a way
+          of life for a section of the military elite. The ATS2000-- duplicates
+          a standard combat environment and then increases the tempo of combat
+          to such a degree that even the most competent officers have trouble
+          keeping up with the ever-changing tide of events. Commanders who can
+          master this simulation will almost certainly be able to dominate their
+          enemies once placed in normal battlefield conditions.
+        </description>
+        <logo>starcraft-map-of-the-week/(6)Blast Furnace Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(6)Blast Furnace.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="8" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-11-06</release>
+    </map>
+    <map>
+      <title>
+        <name>The Highway</name>
+        <description>
+          The Terran frontier has remained a place devoid of any semblance of
+          law and order for decades. On the desolate strips of prefabricated
+          roadway that stretch between border colonies, gangs and outcast
+          aliens terrorize any wayward travelers foolish enough to encroach
+          into their territory. Traders and treasure seekers use these dangerous
+          byways at their own risk. When two or more gangs square off in arguments
+          over salvage rights or in border disputes, these highways host battles
+          unrivaled in their ferocity and violence.
+        </description>
+        <logo>starcraft-map-of-the-week/(4)The Highway Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(4)The Highway.jpg</preview>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="4" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-11-06</release>
+    </map>
+    <map>
+      <title>
+        <name>Garden of Aiur</name>
+        <description>
+          Since its creation at the end of the Aeon of Strife, a sacred garden
+          has been a maintained as a center for peace, tranquility and reflection
+          upon the ways of the Khala. Following the destruction of Aiur's
+          defenders at the hands of the Zerg, the garden became a focal point for
+          pitched conflicts between the ravenous Swarm, mercenary Terrans in search
+          of salvage, and the few remaining Protoss forces. Whether you have come
+          to destroy this place or protect it, the blood of your enemies will
+          ensure that the garden remains well watered.
+        </description>
+        <logo>starcraft-map-of-the-week/(8)Garden Of Aiur Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(8)Garden Of Aiur.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="8" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-11-20</release>
+    </map>
+    <map>
+      <title>
+        <name>Typhoon</name>
+        <description>
+          From the tranquil jungle climate of J'larre to the unrelenting
+          firestorms that rage across the plains of Char, weather patterns
+          across the galaxy can vary radically. It should come as no real
+          surprise that the constant, torrential downpour from the skies
+          over Grissom IV appears to ignore all common laws of meteorological
+          science. The chaotic ferocity of these storms has resulted in the
+          severe erosion of the planet's surface, creating strange shapes in
+          the terrain -- and occasionally uncovering vast amounts of resources.
+          Prospectors foolish enough to tempt the tempests that thunder across
+          this world must be desperate souls indeed.
+        </description>
+        <logo>starcraft-map-of-the-week/(5)Typhoon Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(5)Typhoon.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="5" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-11-25</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Crossroads</name>
+        <description>
+          "All warriors shall come to a crossroads, and there shall fate pass judgement."
+          -Popular Protoss proverb
+
+          The legend of the Crossroads is one that holds great power in the minds
+          of many Protoss warriors. First spoken of by Khas in the sacred scriptures,
+          it is said that, "All true warriors will come to a place they do not expect
+          to be and encounter those they did not expect to find. It is in that place
+          the fate of the true warrior will be decided." The jungles of this remote
+          planet seem to be one such site -- do not expect to enter them and depart
+          unscathed.
+        </description>
+        <logo>starcraft-map-of-the-week/(4)Crossroads Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(4)Crossroads.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-12-04</release>
     </map>
   </maps>
 
