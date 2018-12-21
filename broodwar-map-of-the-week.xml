@@ -1,0 +1,2207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mapdb>
+  <maps>
+    <map>
+      <title>
+        <name>Sarengo Canyon</name>
+        <description>
+          The terrans that colonized the Koprulu sector originally traveled
+          from Earth in four deep-space supercarriers. Three of those gargantuan
+          ships delivered the colonists to their new homes relatively intact,
+          but the fourth ship was not so lucky. The Sarengo crashed into the
+          planet Umoja, killing all 8,000 of its passengers, and carving an
+          immense canyon into the planet's surface. This canyon is now home to
+          drifters, squatters, and other odd characters that hide amongst the
+          broken rocks and scattered wreckage. The Umojan Protectorate has long
+          proclaimed the entire canyon to be a restricted area, and this often
+          leads to fierce conflicts when Protectorate security forces decide to
+          sweep the area of intruders.
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Sarengo Canyon Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Sarengo Canyon.jpg</preview>
+      <size x="128" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="4" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-12-11</release>
+    </map>
+    <map>
+      <title>
+        <name>Tropical Seas</name>
+        <description>
+          The Tropical Seas Resort has offered guests the ultimate in comfort
+          and elegance for over three generations. Peaceful, sandy beaches and
+          gentle palm groves are the natural setting for a stay filled with
+          rest and relaxation. Although the resort has recently been enhanced
+          by a Zerg infestation in the surrounding area, this is no reason to
+          postpone your visit. The spirited fighting that occurs when well-trained
+          Terran Marines dissuade the occasional Zerg incursion adds a new level
+          of excitement to any vacation -- and what a story you will have to tell
+          your friends! Guests can even sign up for an exotic Zerg Adventure--
+          package and partake of a real "hunt in the wild" experience with the
+          assistance of a trained guide. The Tropical Seas Resort promises your
+          upcoming vacation will be unforgettable.
+        </description>
+        <logo>broodwar-map-of-the-week/(8)Tropical Seas Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)Tropical Seas.jpg</preview>
+      <size x="256" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="8" island="true" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-12-18</release>
+    </map>
+    <map>
+      <title>
+        <name>Gemini Station</name>
+        <description>
+          [[Universal News Network]]
+          [[DEC HQ, Moria]]
+
+          New Station Design Available
+
+          The Dominion Engineering Corps (a division of the Kel-Morian Combine)
+          proudly announces the availability of a new, low cost station design.
+          The Gemini Series, a revolutionary step in space platform architecture,
+          is suitable for nearly any orbital application. By utilizing a patented
+          symmetrical structural layout, Gemini Series platforms can be constructed
+          for half the cost of traditional station designs in half the time!
+          Organizations or independently financed groups in need of a spaceborne
+          facility for use in either business or pleasure applications should
+          contact their local DEC representative for a presentation of the Gemini today.
+
+          [[End Sponsored Segment]]
+        </description>
+        <logo>broodwar-map-of-the-week/(2)Gemini Station Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(2)Gemini Station.jpg</preview>
+      <size x="96" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="2" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-12-22</release>
+    </map>
+    <map>
+      <title>
+        <name>Christmas Rush</name>
+        <description>
+          Hearken back with us to those fond memories from childhood when
+          unwrapping presents was a manic and enjoyable time laden with
+          excitement and suspense. Now, imagine placing that joy and
+          enchantment smack dab in the middle of Blizzard's .scm of the week!
+          The result -- Christmas Rush, where you compete to see who can open
+          the most presents. The best part about THESE presents is that they're
+          both fun and functional since you can use them to stop the other
+          players from taking more of YOUR presents! To top it all off, keep a
+          sharp lookout for jolly old St. Nick who just may be stopping by to
+          see if you are being naughty or nice. Happy Holidays from
+          Blizzard Entertainment!
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Christmas Rush Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Christmas Rush.jpg</preview>
+      <size x="128" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="4" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1998-12-31</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Dark Masters</name>
+        <description>
+          From the depths of a dark asteroid that lies deep in uncharted space,
+          they watch and wait. Known only as the Dark Masters, they view all
+          other beings as mere pawns to be manipulated in their quest for
+          galactic dominance. Should they succeed in their plan, all sentient
+          life in the universe will be forced into eternal servitude. Who will
+          survive this galactic epic? The story unfolds Monday nights on the
+          Galactic Entertainment Network -- entertainment for the new GENeration!
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Dark Masters Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Dark Masters.jpg</preview>
+      <size x="96" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="twilight" players="6" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1999-01-08</release>
+    </map>
+    <map>
+      <title>
+        <name>Eldrich Lake</name>
+        <description>
+          Before the Zerg swarm ravaged Aiur, pilgrimages to sacred places across
+          the planet by members of the Templar caste were a common undertaking.
+          Many of these pilgrims traveled to a secret lake high in the mountains
+          that was thought to contain mystic properties. Some went seeking serenity,
+          while others were seeking self-awareness and a greater understanding of the
+          universe. We've captured the essence of that lake in Naiad's new line of
+          bottled water, "Eldritch Spring". Pick up a bottle and feel the magic today!
+        </description>
+        <logo>broodwar-map-of-the-week/(2)Eldrich Lake Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(2)Eldrich Lake.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="2" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-01-15</release>
+    </map>
+    <map>
+      <title>
+        <name>Untamed Wilds</name>
+        <description>
+          Some battles are fought over strategically located space platforms to
+          increase the military's tactical position. Others are matters of honor
+          to be settled on ancient Protoss proving grounds. Most encounters,
+          however, occur by mere chance in the wilderness of the galaxy. In these
+          skirmishes, battlefield intelligence can be scarce and fate does not
+          always provide each combatant with equally defensible terrain. In the
+          wild you can quickly find yourself in a situation that requires you to
+          adapt or be destroyed.
+        </description>
+        <logo>broodwar-map-of-the-week/(8)Untamed Wilds Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)Untamed Wilds.jpg</preview>
+      <size x="256" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="8" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-01-22</release>
+    </map>
+    <map>
+      <title>
+        <name>Glacier Bay</name>
+        <description>
+          "Each Dominion Defense Force recruit must pass a battery of tests that
+          are designed to determine if they are truly worthy to serve with the
+          finest fighting force in the galaxy. The most grueling of these trials
+          is code named Glacier Bay. The recruits are informed that they will be
+          stationed at an outpost overlooking Glacier Bay for routine training
+          exercises. To their dismay, Dropships land them on a nearby island and
+          the prospective soldiers are forced to live off the meager resources
+          that their landing zone provides. This requires these prospective soldiers
+          to work up enough intestinal fortitude -- or disdain for their situation --
+          to swim across the freezing waters to the mainland. This point is pressed
+          once simulated hostile forces are thrown into the exercise."
+
+          -- General Edmund Duke
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Glacier Bay Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Glacier Bay.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="ice" players="4" island="true" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1999-01-29</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Heart Attack</name>
+        <description>
+          V is for Vultures, whose voices are strained
+          A is for Archives, where Templar are trained
+          L is for Larva, the Zerg's working class
+          E is for Extractor, it gets Vespene gas
+          N is for Nexus, a key Protoss factor
+          T is for Titan, the Explorer's reactor
+          I is for Infested, like Terrans exploding
+          N is for Nydus, a canal quite foreboding
+          E is for Ensnare, so you can't get away
+          and this Map is for You, on this Valentine's Day
+        </description>
+        <logo>broodwar-map-of-the-week/(7)Heart Attack Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(7)Heart Attack.jpg</preview>
+      <size x="256" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="ice" players="7" island="true" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-02-12</release>
+    </map>
+    <map>
+      <title>
+        <name>Obsidian</name>
+        <description>
+          "The surface of Char can reach such extreme temperatures that mineral
+          deposits become molten and form rivers of crystal that flow across the
+          planet's surface. A recent application of space geodetic techniques to
+          this phenomenon has measured the amount and spatial pattern of net
+          vertical crustal deformation and shows that these rivers sometimes
+          snake across the planetary mantle in this liquid state for months before
+          finally hardening. Mineral laden pathways are then created and can be
+          seen protruding from the obsidian landscape, serving as both landmarks
+          and rich mining fields."
+
+          -- Kel-Morian Combine GPS Survey Report
+        </description>
+        <logo>broodwar-map-of-the-week/(7)Heart Attack Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(7)Heart Attack.jpg</preview>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="ash" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-02-19</release>
+    </map>
+    <map>
+      <title>
+        <name>Meat Grinder</name>
+        <description>
+          "You can't make me go back there."
+          Sgt. Matthew Murdoch - Veteran of 2 tours of duty on Urthos III
+
+          The small, mineral rich moon of Urthos III was one of the mostly
+          fiercely contested territories during the recent UED conflict. It
+          changed hands so often (and in such a bloody fashion) that the area
+          eventually became known simply as the Meatgrinder. Thousands died
+          there in pitched battles that often involved multiple forces from
+          each species. Although the battlefields there are now quiet, ambitious
+          leaders in search of crystals to fuel their ravenous machines of war
+          tend to forget the costs of holding such a place...
+        </description>
+        <logo>broodwar-map-of-the-week/(7)Heart Attack Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(7)Heart Attack.jpg</preview>
+      <size x="96" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="8" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-02-26</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Shoreline</name>
+        <description>
+          The expansive shoreline of Heimdall IV is a peaceful setting where the
+          bitter memories of battle can be washed away by waves, gently breaking
+          over hundreds of miles of pristine beaches. The natural beauty of this
+          planet has helped make it one of the more fashionable spots in the
+          sector as the smell of the salt air and the bracing spray of the sea
+          can restore the spirits of even the most shell-shocked veteran. The
+          popularity of the sleepy resort setting has caused some unexpected
+          occurrences, however, as members of opposing military forces sometimes
+          decide to vacation there at the same time. It is only a matter of time
+          before someone inevitably kicks sand in someone else's face and then
+          the beaches become an impromptu battleground. Regardless of the outcome,
+          the tropical rains always seem to wash away any signs of strife in time
+          to prepare the beaches for the next gathering of those seeking rest and
+          relaxation.
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Shoreline Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Shoreline.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-03-12</release>
+    </map>
+    <map>
+      <title>
+        <name>Scorpion Ravine</name>
+        <description>
+          The original strain of Scantid grew to a length no greater than 15
+          Centimeters and was a common inhabitant of the desert regions of
+          Korhal. The insect's mild venom, used to repel predatory animals,
+          caused nothing more than mild rash and bothersome itching to those
+          inadvertently stung by the shy animals. After Korhal was ravaged by
+          nuclear fire in the surprise attack by the Confederates, nothing was
+          left alive on the surface of the planet. Although the lowly Scantid
+          survived in their deep underground communal burrows, exposure to
+          massive radiation forever changed the creatures. Where once they had
+          been nothing more than a footnote in Entomology journals, the Scantid
+          were now monstrous beasts with claws capable of ripping a man in half
+          and a stinger filled with an extremely lethal poison. If it were not
+          for their lack of innate aggressiveness and the instinctive reflex to
+          flee when threatened or injured, the Scantid may have over-run the
+          planet, rendering Korhal virtually uninhabitable. Their communal
+          instinct has also survived, and the area known as Scorpion Ravine is
+          home to a large nest of the creatures. Although it seems dangerous,
+          remember that the Scantid is more afraid of you than you are of it
+        </description>
+        <logo>broodwar-map-of-the-week/(8)Scorpion Ravine Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)Scorpion Ravine.jpg</preview>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="desert" players="8" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-03-19</release>
+    </map>
+    <map>
+      <title>
+        <name>Mercenaries</name>
+        <description>
+          [[Universal News Network]]
+          [[Outpost 782XJG, Koprulu sector]]
+
+          The pirates of New Trinidad have been plundering the shipping lanes
+          and outlying outposts across the Koprulu sector for decades. The
+          constant governmental shifts, coupled with the recent UED conflict in
+          that sector, have made the creation of a standing militia strong
+          enough to deal with the threat impossible.
+
+          In an attack launched from their impregnable space station over the
+          empty world of New Trinidad, sustained shelling from Arclite Siege
+          Tanks led to the death of Jacqueline Angel, heiress to the Angel
+          Shipping empire. Reliable sources within the shipping conglomerate
+          have reported the transfer of considerable funds to the accounts of
+          local authorities for the expressed purpose of retaining groups of
+          mercenaries to remove the pirate threat once and for all.
+
+          [[End News Brief]]
+        </description>
+        <logo>broodwar-map-of-the-week/(3)Mercenaries Logo.gif</logo>
+      </title>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="3" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1999-03-26</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Egg Madness</name>
+        <description>
+          [[Universal News Network]]
+          [[Universe Tonight, Special Report]]
+
+          The ceremonies surrounding the celebration of many holidays have
+          changed in both their meaning and nature over the centuries and the
+          study and interpretation of these rituals has been the key focus of
+          a consortium of Terran anthropologists here at the Kel-Morian
+          Research Facility. Although scientists disagree on what the true
+          meaning of the upcoming holiday known as Easter may have been, new
+          findings may give us some idea on how this important event was
+          observed by our ancient ancestors on Earth.
+
+          Recent breakthroughs in data reconstruction have retrieved vital
+          information from the salvaged computer wreckage recovered from the
+          ancient Sarengo crash site. These restored files seems to confirm the
+          current practice of celebrating Easter with gifts of small yellow and
+          pink SynthEggs, cunningly crafted into realistic bird and bunny shapes.
+          The custom of these gifts being delivered by a mysterious giant
+          anthropomorphic Badger that wanders from sealed dome to sealed dome
+          also seems rooted in fact, although the culmination of the day's
+          celebration being a giant chrysalis hunt coupled with the wholesale
+          slaughter of warring factions may be a more recent addition to these
+          historic festivities.
+
+          Wishing you and yours a Happy Easter This is Genna Xann, Universe Tonight
+
+          [[End Transcript]]
+        </description>
+        <logo>broodwar-map-of-the-week/(3)Egg Madness Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(3)Egg Madness.jpg</preview>
+      <size x="96" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="installation" players="6" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1999-04-02</release>
+    </map>
+    <map>
+      <title>
+        <name>Mirage</name>
+        <description>
+          My Brethren,
+
+          Since the time of Khas, the visions have remained the same.
+
+          A dark land of ancient plateaus and oceans of night... Night becomes
+          day, and our ancient fathers aid us... We erase that which blights
+          our face, but not that which lies within... The land that rests in
+          twilight will be the place of our greatest triumph and also our
+          greatest shame.
+
+          Much to my dismay, many ages have passed since the prophecies of the
+          "Place of Visions" have been paid heed. These visions resonate a truth
+          beyond any simplistic comprehension, and I fear that they may foretell
+          grave problems that lie just ahead. As keepers of the Khala, it is our
+          duty to gather our most learned scholars to seek an understanding of
+          these warnings as they may be the key to solving this crisis as yet
+          unseen.
+
+          - Excerpt from "The Letters of Tenarsis"
+          (Dated 3 years before the destruction of Chau Sara)
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Mirage Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Mirage.jpg</preview>
+      <size x="256" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="twilight" players="7" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-04-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Revolution</name>
+        <description>
+          In the dawning moments of the colonization of Sutur V two separate
+          factions disagreed on how the lush green world should be developed.
+          One side believed that a huge sprawling space station should be
+          erected to further interstellar trade, and they could use giant
+          robotic machines to extract the mineral wealth from the planet
+          necessary for the station’s construction. These people managed to
+          build the "Platform" over much of the Northern Hemisphere of the
+          world. The builders and inhabitants of the Platform became known
+          as the Northern Platformers or just the Northerners. Another faction
+          held the life of the planet sacred, and committed to a plan of
+          becoming one with the Planet and all its myriad life forms. These
+          people were known as the Southern Druids, which was eventually
+          shortened to the Southerners. These two opposing sides have been
+          fighting in both the jungles to the south and the space platforms
+          to the north for generations, so long that most of the people
+          fighting and dying no longer know why. These unwilling warriors no
+          longer wish to fight, but the leaders of both sides demand victory at
+          all costs. The wildlife has mostly died out years ago, and the
+          robotic mining machines have ceased to function, but still the war
+          goes on.
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Revolution Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Revolution.jpg</preview>
+      <size x="128" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="6" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-04-30</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Bunker Command II</name>
+        <description>
+          "In this powerful remake of a true action classic, Bunker Command II
+          recreates all of the excitement of the original strategic conflict
+          while including all-new units to command. Lead your squad of
+          experienced marines across a new and dangerous landscape, seeking out
+          enemy bunkers to destroy before they can do the same thing to you. As
+          you eliminate your foes and the bunkers they defend, reinforcements
+          arrive to help carry on the fight for ultimate victory.
+          Bunker Command II will prove to be the leader in the next generation
+          of Real Time Bunker games."
+
+          -Rexx Perry, V.P. of Bunker Command Marketing, UED Region
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Bunker Command II Logo.gif</logo>
+      </title>
+      <size x="96" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="desert" players="8" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1999-05-07</release>
+    </map>
+    <map>
+      <title>
+        <name>Ice Age</name>
+        <description>
+          After the larger of the twin suns supporting the lush pleasure world
+          of Zenn failed, the paradise fell into an age of ice and darkness.
+          Zenn remained in obscurity for decades, serving only as a stopping
+          point and safe haven for smugglers and fringe world miners. This all
+          changed when the frozen planet was named as the site for the New
+          Dominion Winter Olympics, the premiere sporting event in Terran space.
+          All went well until the ill-fated Plasma Rail Bobsled event...
+
+          Although Olympic Security was prepared for possible trouble since
+          Plasma Rail Bobsled fans are renowned as a rowdy and potentially
+          violent bunch, no one could have anticipated the riot that erupted
+          when the team from Korhal upset the favored Braxis crew in the finals.
+          Screams of derision and empty beer canisters hurled in anger rapidly
+          turned into gauss-rifle fire. Clashes in the streets of Zenn broke
+          out between stolen Goliath security combat vehicles. The aggression
+          spread like wildfire across the planet, soon becoming a struggle for
+          survival on this inhospitable world. "The Riot" continues to this day,
+          and though neither the Korhal "HeatBlisters" nor the Braxis "Glaciers"
+          have emerged triumphant, their enthusiasm for the sport of Bobsledding
+          remains undiminished.
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Ice Age Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Ice Age.jpg</preview>
+      <size x="256" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="ice" players="8" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-05-12</release>
+    </map>
+    <map>
+      <title>
+        <name>Up The Creek</name>
+        <description>
+          Terran Wildlife Services, in conjunction with LarsCorp Technologies,
+          is proud to announce the grand opening of another soon to be wildly
+          successful hunting preserve: The Creek. Designed as a small, intimate,
+          and quiet locale with some of the finest combat fishing in the galaxy,
+          the park caters to the tastes of the discriminating sportsman. "This
+          new preserve should serve as a welcome haven for those seeking to
+          avoid the crowds created by the overwhelming success of the better
+          known ‘Hunters’ preserves," noted John Andrews, host of the popular
+          "Better Living through Maximum Firepower" sporting show on the
+          Galactic Entertainment Network.
+        </description>
+        <logo>broodwar-map-of-the-week/(2)Up The Creek Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(2)Up The Creek.jpg</preview>
+      <size x="96" y="64" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="2" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-05-19</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Black Hole</name>
+        <description>
+          The Summeria V station -- heralded as our final, finest hope for
+          peace -- was fraught with problems from the day it opened. From Elder
+          races struggling for political dominance to the drama and personal
+          feuds among the members of the command staff, each week brought new
+          challenges. Finally, the hand of destiny played the unkindest card of
+          all as a small black hole tore through the very center of the vast
+          complex. While some speculate that this fissure was created when a
+          concealed Xel’Naga artifact went awry, others claim that the black
+          hole had been there all along and was merely shifted into our time
+          continuum during unauthorized weapon testing. In any case, the station
+          inhabitants are left to battle both the gravity well of the black hole
+          and the hostile aliens that are stranded at Summeria V until the
+          massive station finally collapses under its own weight.
+        </description>
+        <logo>broodwar-map-of-the-week/(8)Black Hole Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)Black Hole.jpg</preview>
+      <size x="256" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="8" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1999-06-04</release>
+    </map>
+    <map>
+      <title>
+        <name>Byway</name>
+        <description>
+          Byway originally appeared as the multi-player map "Byways" in the
+          Shareware version of StarCraft. It is now being released as a bonus
+          map of the week to allow players to play this map with the full
+          version of StarCraft.
+        </description>
+        <logo>broodwar-map-of-the-week/(8)Black Hole Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)Black Hole.jpg</preview>
+      <size x="96" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="2" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-06-11</release>
+    </map>
+    <map>
+      <title>
+        <name>Slowburn</name>
+        <description>
+          The Interstellar Escape travel agency prides themselves on taking their
+          clients to the most luxurious and pleasant surroundings that the galaxy
+          has to offer. Pleasant sandy beaches and island casinos are the
+          destination for many of these relaxation-seeking tourists. If you are
+          looking for something a little bit more exciting for your upcoming
+          vacation, check out Shipley Enterprises "Extreme Bodily Injury" set
+          of destinations.
+
+          "Slow Burn is our most popular adventure package, taking you to the
+          blisteringly hot planet of Char, once home to the dreaded Overmind.
+          You are shoved out of the dropship with a Kel-Morian multi-functional
+          knife, a compass and three days worth of food. At this point you have
+          one week to cover 350 kilometers of lava strewn Zerg infested rock
+          and reach the pick up site. While this may sound trivial, the
+          fluctuating magnetic fields that cover the surface of Char make the
+          compass unreliable at best, and the cloud of ash that surrounds the
+          planet seldom allows the stars to peek through to the surface. If you
+          want a vacation that will leave your family with something to talk
+          about for years to come, then try the Slow Burn."
+
+          - "One Eye" McAlester, Sales rep for Shipley Enterprises
+        </description>
+        <logo>broodwar-map-of-the-week/(3)Slowburn Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(3)Slowburn.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="ash" players="3" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-06-11</release>
+    </map>
+    <map>
+      <title>
+        <name>Broken Mesa</name>
+        <description>
+          Broken Mesa was the site of a Dominion bio-weapons testing facility
+          on the desert world of Korhal. Shortly before the UED assault on
+          Korhal, Terran scientists created a new and potentially devastating
+          plasma-pulse weapon. As reports of an approaching enemy fleet reached
+          the high command on Korhal, testing was ordered in hopes that the
+          power of this weapon might destroy the UED armada. While in the final
+          testing phase, Senior Scientist Ozmel Dodds turned traitor as he
+          attempted to curry favor with the attacking UED forces. On the day of
+          the final test, Dodds changed the pulse-modulation frequency on the
+          weapon causing the awesome cannon to overload, destroying itself and
+          the research facility that housed it. What happened to the scientist
+          remains a mystery to this day, but the Broken Mesa site still sees
+          occasional conflict as various factions attempt to discover the
+          remains of the weapons lab and the fabled plasma-pulse weapon.
+        </description>
+        <logo>broodwar-map-of-the-week/(5)Broken Mesa Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(5)Broken Mesa.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="desert" players="5" island="true" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-06-18</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Blizzard</name>
+        <description>
+          "It has come to the attention of this committee that one of our
+          esteemed colleagues, Dr. Fredrica Wallis, has proposed a peculiar new
+          theory that could shake the foundations of our very universe. A
+          University sponsored geologic survey team returned six months ago
+          from the icy wastes of Braxis, where they reported the discovery of a
+          carving of immense proportions. Obviously created by sentient beings,
+          this formation that bears some physical similarity to the word
+          'Blizzard' was found in a section of snow measuring approximately two
+          miles wide. Dr. Wallis has seized this report and is holding it up as
+          evidence of her insane theory that our universe is merely a game
+          simulation being played upon the personal computer of a higher life
+          form. This committee refuses to grant this lunacy even the slightest
+          shred of support. If Ms. Wallis wishes to continue with this research,
+          we must recommend her transfer from the Physical Sciences branch of
+          this University to the Metaphysics laboratory. At least in that
+          setting she can ignore reality and continue to spout irrational
+          nonsense to her heart's content. In short, she must not be allowed to
+          infect other students or faculty members with these heretical ideas.
+          We are all real flesh and blood, ladies and gentlemen -- we are not
+          just a simulation."
+
+          Partial transcript of Bian Ari's report
+          Physical Sciences Steering Committee
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Blizzard Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Blizzard.jpg</preview>
+      <size x="256" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="ice" players="6" teams="2" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1999-07-02</release>
+    </map>
+    <map>
+      <title>
+        <name>Mobius</name>
+        <description>
+          The existence of Protoss warp gate technology has conclusively
+          demonstrated that instantaneous travel between the stars is indeed
+          possible via artificial means. This raises the question, "might it
+          then also be possible that such travel could transpire through a
+          naturally occurring phenomenon?" While we have scant evidence to
+          suggest that transdimentional rifts in space spontaneously exist,
+          our understanding of the true nature of space and time is still quite
+          limited. Now, let me show you something interesting. I can take this
+          strip of paper, twist it 180 degrees as such, and then use a small
+          amount of adhesive on the ends to form a loop. Suddenly, I have
+          created a two dimensional object with only one side, commonly referred
+          to as a Mobius Strip. You can trace your finger along the loop forever.
+          A strange little creation, isn't it? What we see in this is a seemingly
+          impossible construct of nature, yet I created it with a simple piece of
+          paper and a bit of glue. Who of us really knows what strange enigmas
+          remain to be unraveled in the vastness of the universe?"
+
+          -Dr. Bazio Thurgood, Astrophysics Professor and host of the
+          "Space is a weird, wacky place!" science show on the
+          Galactic Entertainment Network.
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Mobius Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Mobius.jpg</preview>
+      <size x="256" y="64" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="6" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1999-07-08</release>
+    </map>
+    <map>
+      <title>
+        <name>Pinwheel</name>
+        <description>
+          All across Shakuras lie strange places of power, many of which have
+          not been fully probed by the nomadic Dark Templar who have made the
+          twilight world their adopted home. One of these places is a foreboding
+          and mysterious temple resting in the cracked earth of the remote Isle
+          of Razjan. The four small shrines that lie in the temple connect to
+          each other with almost perfectly symmetrical spiral paths sunken into
+          the ground, forming what could only be a symbol of some cosmic
+          significance. This peculiar complex may once have been a quiet,
+          peaceful place for contemplation of the universe and the infinite
+          beyond, but now the temple sees no such peace. The island temple lies
+          well outside any established Protoss settlement or defensive outpost
+          and this encourages raids on the complex by offworlders lusting for
+          wealth, knowledge, and power.
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Pinwheel Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Pinwheel.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="twilight" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-07-16</release>
+    </map>
+    <map>
+      <title>
+        <name>Multiplication</name>
+        <description>
+          UED Military Academy Commandant's Log
+
+          (Commandant Miloshek) "Gentlemen, we need to give our cadets a new
+          challenge in the training simulators this week. Suggestions?"
+
+          (Major Kilbourne) "Well, sir, it has been several weeks since we have
+          had any deep space combat simulations. The last few exercises have
+          mostly been recreations of ground battles."
+
+          (CM) "An excellent idea, but I'd like to throw a twist into this sim."
+
+          (MK) "Did you have anything specific in mind, sir?"
+
+          (CM) "Hmm... give our Cadets an extreme amount of resources to start
+          the campaign with so they won't feel the need to expand, but then
+          create the additional resource nodes with even more Minerals and
+          Vespene gas. Those that choose to expand should gain a huge advantage
+          over those who simply stay put. I want battlefield commanders that
+          are always on the move, gentlemen -- ones that are always looking for
+          an edge in combat."
+
+          (MK) "Very well, sir. We'll have the scenario programmed for this
+          afternoon's exercise."
+        </description>
+        <logo>broodwar-map-of-the-week/(8)Multiplication Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)Multiplication.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="8" island="true" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-07-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Abattoir</name>
+        <description>
+          I thought I had seen close combat.
+          I thought I had seen the face of death.
+          I thought I would live forever...
+          Then they dropped us into the Abattoir.
+
+          - Diary of Terran Marine 219XMS87632
+          - Final Entry [End of Line]
+        </description>
+        <logo>broodwar-map-of-the-week/(8)Abattoir Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)Abattoir.jpg</preview>
+      <size x="64" y="64" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="twilight" players="8" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-07-30</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Cutthroat</name>
+        <description>
+          "In all my years of duty as a merchant captain in the space cargo
+          lanes, the one thing I can be sure of is that there's pirates out
+          there who will do just about anything to get your cargo. You can
+          also be sure that the customs agents of the Kel-Morian Combine have
+          hearts colder than the void of space, but that's entirely another
+          story. The pirates, though, are always a problem for every honest
+          trader trying to make a buck. Just when you think you've got your
+          cargo home -- BAM -- those bastards come out of the woodwork to ruin
+          your day and your pocketbook. One of these days they'll all get
+          what's coming to them."
+
+          -Captain Roberto Lamas
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Cutthroat Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Cutthroat.jpg</preview>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="6" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-07-30</release>
+    </map>
+    <map>
+      <title>
+        <name>Firestorm</name>
+        <description>
+          When the surface of Korhal was scorched by the nuclear fire unleashed
+          by a salvo of one thousand Apocalype-class missiles, the planet was
+          not the only thing to be permanently scarred. The few survivors of
+          the holocaust saw their families and homes turn to ash in a single,
+          brief, blinding moment. The memory of that horror has hardened the
+          remaining men and women of Korhal into some of the fiercest warriors
+          in the Terran sector. With a complete willingness to use their own
+          nuclear arsenal against any potential enemy, their nuclear firestorms
+          have incinerated many unwary foes.
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Firestorm Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Firestorm.jpg</preview>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="desert" players="6" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-08-13</release>
+    </map>
+    <map>
+      <title>
+        <name>Twisted Trail</name>
+        <description>
+          "Our detractors have accused us of catering to only hunters and
+          combat fishermen with our wildly successful animal parks. Well, I am
+          here to say to you good people that nothing is farther from the truth.
+          Terran Wildlife Services actually has a wide array of parks that are
+          not designed for the pursuit of sport at all. This dedication to the
+          casual naturalist is exemplified in our Twisted Trail Park and
+          Recreation Center. There is no finer hiking path in the sector, and
+          this serene and peaceful area is normally far less crowded than our
+          other reserves. I can't imagine a better spot for a calm, relaxing
+          vacation away from the stress of civilization than in the fine
+          outdoors. It's really a shame so few people ever get to see for
+          themselves the exceptional beauty of this park."
+
+          -Norman Goodfellow
+          Senior Park Ranger, Terran Wildlife Services
+        </description>
+        <logo>broodwar-map-of-the-week/(2)Twisted Trail Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(2)Twisted Trail.jpg</preview>
+      <size x="128" y="64" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="2" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-08-20</release>
+    </map>
+    <map>
+      <title>
+        <name>Mountain Stronghold</name>
+        <description>
+          "The icy wastes of the planet Braxis provide a perfect environment to
+          test both the physical and psychological fortitude of Dominion Defense
+          Force recruits. Our soldiers must remain in fighting form in all
+          possible battlefield conditions, and we have an impressive series of
+          tests to weed out all the undesirables. My favorite training scenario
+          is codenamed "Mountain Stronghold": a treacherous test of willpower
+          and physical conditioning. The recruits must withstand an enemy
+          onslaught for seven days with only three days worth of provisions.
+          When the recruits begin to grow cold, and starvation sets in, we begin
+          to bombard the fortress over a 72 hour stretch, culminating in a
+          massive storming of their defenses by one of our crack assault teams.
+          Those recruits who are able to overcome and survive this attack are
+          rewarded with a new, tougher mission: Glacier Bay. Those who do not--
+          are quickly disposed of."
+
+          --Colonel Francis McCauly
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Mountain Stronghold Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Mountain Stronghold.jpg</preview>
+      <size x="128" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="ice" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-08-27</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Megalopolis</name>
+        <description>
+          "I have a dream, ladies and gentlemen. Mankind has been traveling
+          amongst the heavens for generations, but our kind has never actually
+          called space home. We've built orbital defense space platforms,
+          'space stations' that provide waypoints for trade and commerce, and
+          research facilities in space, but do we ever think of these places
+          as home? No, we do not, and I aim to change that today. I've had the
+          sector's finest engineers and designers build a place in the stars
+          that humans can finally call home: Megalopolis. This new city will
+          provide everything a family could need: great living quarters, great
+          schools for all the kids, and great jobs for parents. We'll be opening
+          up the city for new residents soon, so if you're interested in this
+          wonderful opportunity contact us immediately! Space on the station
+          is quite limited, and you don't want to be left out in the cold!"
+
+          -Alan Johnson, Founder and CEO, Big Sky Inc.
+        </description>
+        <logo>broodwar-map-of-the-week/(8)Megalopolis Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)Megalopolis.jpg</preview>
+      <size x="256" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="8" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-09-03</release>
+    </map>
+    <map>
+      <title>
+        <name>Hellhole</name>
+        <description>
+          "Char? You want me to tell you about Char? Oh man, I still wake up
+          screaming from the nightmares I have about that pit. A thick layer
+          of ash covers everything, and there's this eerie red glow that comes
+          from the magma that seeps up through the surface of the planet. One
+          wrong step and you find yourself wading in a pool of hot lava. You
+          ever hear the scream of a man as he is being burned alive by lava,
+          Major? It's not something you soon forget, let me tell you. And if
+          the infernal planet doesn't get you, there's always the damned Zerg
+          that'll try and finish the job. Those devils were everywhere, and
+          they killed a whole lot of my buddies in ways I don't want to
+          remember. Char was a hellhole, alright, and I rather have you kill
+          me than send me back there again."
+
+          -Debriefing of UED Marine 384DTA47631
+        </description>
+        <logo>broodwar-map-of-the-week/(8)Hellhole Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)Hellhole.jpg</preview>
+      <size x="256" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="ash" players="2" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-09-10</release>
+    </map>
+    <map>
+      <title>
+        <name>Klondike</name>
+        <description>
+          The Koprulu sector has always been filled with prospectors searching
+          the remote regions of planets for new, untapped mineral deposits. The
+          Kel-Morian Combine tries to keep a tight lid on new discoveries to
+          secure their exclusive mining rights, but news of virgin deposits
+          sometimes leaks out. The resulting rush to secure the area by every
+          mining company and private operator in the sector makes the fabled
+          Klondike gold rush on Earth seem rather tame. The fight over a claim
+          now usually sees the use of mercenaries, sabotage, and sometimes even
+          nuclear weaponry...
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Klondike Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Klondike.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="ice" players="6" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-09-17</release>
+    </map>
+    <map>
+      <title>
+        <name>Watering Hole</name>
+        <description>
+          "Not every locale in the Koprulu sector is a hotbed of violence and
+          mayhem. There are actually areas that are quiet, peaceful places to
+          relax as the problems of the universe just pass you by. The secluded
+          oasis known as the Watering Hole on the planet of Helioc III has a
+          set of wonderfully scenic vistas where you can observe the beautiful
+          native wildlife in their natural habitat. If you have the means, I
+          suggest you give it a try as there's way too much stress in the
+          galaxy these days."
+
+          - Uran Golenko, leading stress therapist and featured guest on the
+          popular "Universe Today" talk show
+
+          TRAVEL NOTE: A sudden influx of tourists, coupled with the discovery
+          of considerable mineral wealth on the planet, has left the ecology of
+          Helioc III in a less than optimal state. Once the use of tactical
+          nuclear weaponry has subsided, geologists expect a high level of
+          planetary recovery.
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Klondike Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Klondike.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-09-17</release>
+    </map>
+<map>
+      <title>
+        <name>Watering Hole</name>
+        <description>
+          "Not every locale in the Koprulu sector is a hotbed of violence and
+          mayhem. There are actually areas that are quiet, peaceful places to
+          relax as the problems of the universe just pass you by. The secluded
+          oasis known as the Watering Hole on the planet of Helioc III has a
+          set of wonderfully scenic vistas where you can observe the beautiful
+          native wildlife in their natural habitat. If you have the means, I
+          suggest you give it a try as there's way too much stress in the
+          galaxy these days."
+
+          - Uran Golenko, leading stress therapist and featured guest on the
+          popular "Universe Today" talk show
+
+          TRAVEL NOTE: A sudden influx of tourists, coupled with the discovery
+          of considerable mineral wealth on the planet, has left the ecology of
+          Helioc III in a less than optimal state. Once the use of tactical
+          nuclear weaponry has subsided, geologists expect a high level of
+          planetary recovery.
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Klondike Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Klondike.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-09-17</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Zephyr Cove</name>
+        <description>
+          To the numerous artists who call it home, the colony of Tashai is a
+          place of great inspiration. Nestled on a small island in a sheltered
+          oceanic cove, the colony has idyllic weather throughout the year,
+          and the scenic views of the sea never cease to amaze visitors. Ewan
+          Welke, the greatest living bard of our time, has spent many years at
+          the retreat composing poetry in an ancient form known as haiku. In
+          fact, it was his now well-known verse that gave the colony its name,
+          Zephyr Cove.
+
+          peaceful island cove
+          blessed by the ocean's cool breath
+          the zephyr moves me
+        </description>
+        <logo>broodwar-map-of-the-week/(7)Zephyr Cove Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(7)Zephyr Cove.jpg</preview>
+      <size x="192" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="7" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-10-01</release>
+    </map>
+    <map>
+      <title>
+        <name>New Venice</name>
+        <description>
+          Excerpt from the minutes of a recent meeting of the UED Naming Committee
+
+            (Mr. Johnson) "Ok, ladies and gentlemen, we have been given the task
+            of providing a name for the new orbital space station being built at
+            Reynif II. We have been provided schematics of the station which I
+            will put up on the holoprojector. Initial impressions?"
+
+            (Mr. Smith) "It looks just like all the others - a big platform in
+            space! I mean, come on, we keep getting these mundane assignments
+            and it's getting harder and harder to come up with something memorable."
+
+            (Mr. Johnson) "Be that as it may, Mr. Smith, we still have a job to
+            do. Thoughts?"
+
+            (Ms. Cole) "Well... It has a lot of bridges."
+
+            (Mr. Smith) "Ha, So did ancient Venice -- but that doesn't help us much."
+
+            (Mr. Johnson) "Excellent idea Ed! New Venice it is, then."
+
+            (Mr. Smith) "What? Venice was a beautiful city of waterways, art,
+            and romance. I don't see any of those things represented in the
+            harsh architecture and brutish materials used to construct this
+            station, Mr. Johnson. Why, we would be degrading and dishonoring a
+            classic, nay a sacred icon of our Earth heritage!"
+
+            (Mr. Johnson) "Well then, perhaps we'll have to work through the
+            weekend on this one."
+
+            *pause*
+
+            (Mr. Smith) "I guess I can go with New Venice."
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Zephyr Cove Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Zephyr Cove.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="6" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-10-08</release>
+    </map>
+    <map>
+      <title>
+        <name>Turtle Island</name>
+        <description>
+          The universe is home to some rather odd geological formations that
+          create a rich tapestry for astrologers, whether professional or
+          amateur. On 20th Century Earth, for example, people could swear that
+          there was a face on the surface of Mars. The location of the rocks
+          and the eerie placement of shadows made envisioned mouth and eyes
+          seem all too real. A prominent mountain range on the planet of
+          Uilel IV looks just like a snake winding its way across the surface
+          of the planet. One of the strangest of these planetary anomalies is
+          found on an island just off of the main continent on Mar Sara.
+          Explorers who first saw the island mistook it for a gargantuan
+          turtle -- initially a cause for great alarm. Closer inspection
+          quickly revealed the true nature of the landmass, but to this day
+          nearby residents still call the place "Turtle Island."
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Turtle Island Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Turtle Island.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-10-15</release>
+    </map>
+    <map>
+      <title>
+        <name>Nukes Away</name>
+        <description>
+          "The most popular exercise in the Ghost training regimen is scenario
+          A11-X93, commonly referred to by trainees as "Nukes Away". In this
+          scenario, Ghosts practice a variety of covert infiltration techniques
+          while gaining the technical knowledge necessary for the proper
+          guidance of field-standard tactical nuclear weapons. Since nuclear
+          weaponry is too expensive to be used in live fire training, the
+          exercise is performed using an extremely lifelike holoprojection
+          simulation. The competition between the teams of Ghosts can be extremely
+          intense, and all too commonly we see recruits spending what little
+          leisure time they have inside the simulation, honing their skills."
+
+            -Commander Richard Walker
+        </description>
+        <logo>broodwar-map-of-the-week/(8)Nukes Away Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)Nukes Away.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="desert" players="8" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1999-10-22</release>
+    </map>
+    <map>
+      <title>
+        <name>Nukes Away</name>
+        <description>
+          "The most popular exercise in the Ghost training regimen is scenario
+          A11-X93, commonly referred to by trainees as "Nukes Away". In this
+          scenario, Ghosts practice a variety of covert infiltration techniques
+          while gaining the technical knowledge necessary for the proper
+          guidance of field-standard tactical nuclear weapons. Since nuclear
+          weaponry is too expensive to be used in live fire training, the
+          exercise is performed using an extremely lifelike holoprojection
+          simulation. The competition between the teams of Ghosts can be extremely
+          intense, and all too commonly we see recruits spending what little
+          leisure time they have inside the simulation, honing their skills."
+
+          -Commander Richard Walker
+        </description>
+        <logo>broodwar-map-of-the-week/(8)Nukes Away Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)Nukes Away.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="desert" players="8" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1999-10-22</release>
+    </map>
+    <map>
+      <title>
+        <name>Ricochet</name>
+        <description>
+          In the chaos of the Zerg and UED invasions, their owners deemed many
+          space platforms undefendable. These stations were hastily abandoned
+          and standard operating procedure was to destroy the platform after
+          the inhabitants were safely off to prevent the use of the structure
+          by the enemy. A great many of these abandoned sites, however, escaped
+          destruction. Gambling that the stations would be salvageable after
+          the immediate crisis had ended, more than a few outposts were left
+          intact as their owners figured that it was cheaper to refurbish the
+          damaged platforms rather than completely rebuild. Pirates, bandits
+          and smugglers looking for an out-of-the-way base for their criminal
+          activities found these abandoned stations perfect for their needs.
+          Perfect, that is, until the rightful owners came back...
+        </description>
+        <logo>broodwar-map-of-the-week/(5)Ricochet Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(5)Ricochet.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="5" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-10-29</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Indigo Waters</name>
+        <description>
+          "The destruction of our ancient home of Aiur still pains me. The
+          blackening of our lands, the destruction of our cities and the
+          defilement of our temples by the accursed Zerg leaves a void in my
+          soul that can never again be filled. Now Shakuras is my new home,
+          and I am finally beginning to understand why our exiled Dark Templar
+          brethren settled here. I've spent many days just quietly gazing out
+          at the strangely sad beauty of the water here. The waves hold the
+          color of pure indigo and they mesmerize me and calm my soul. How
+          could anyone leave this place after seeing such sights?"
+
+          -Rassidan, High Templar of the Akiliae Tribe
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Indigo Waters Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Indigo Waters.jpg</preview>
+      <size x="256" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="twilight" players="6" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-11-05</release>
+    </map>
+    <map>
+      <title>
+        <name>Giant Steps</name>
+        <description>
+          "Who designed this [censored] place? What [censored] "engineer"
+          crawled out from his [censored] hole to inflict this [censored]
+          [censored] upon my people? A [censored] platform split into two
+          [censored] halves?
+
+          [CENSORED]!
+
+          Why are there no [censored] bridges on this [censored] platform? Are
+          we just supposed to [censored] leap off one [censored] half to the
+          other? And to top it all off, those [censored] don't even provide
+          enough Vespene [censored] gas for operations! [censored] this place!
+          It's just one big [censored] [censored] [censored] [censored]!"
+
+          -Edited comments of Colonel Riley "[censored]" Bullhorn
+          Commander of Terran Orbital Platform G11-F3
+        </description>
+        <logo>broodwar-map-of-the-week/(2)Giant Steps Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(2)Giant Steps.jpg</preview>
+      <size x="96" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="2" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-11-12</release>
+    </map>
+    <map>
+      <title>
+        <name>Rock Garden</name>
+        <description>
+          Data Entry 1027AM0440:
+
+          It looks like we've finally found a new place to call home. This
+          planet where the Dark Templar have set up shop is very strange,
+          though. I can get over the fact that everything here is blue -- in
+          fact, it's actually kind of relaxing, sometimes. No, the true
+          surrealism of this place is that I have never seen a single plant!
+          No grass, no trees, not even a single bush to break up the landscape.
+          All they do seem to have are lots and lots of rocks. It's damn odd...
+
+          -Personal entry of Engineer's Mate Aaren Ruth, Renegade Battlecruiser Hyperion
+        </description>
+        <logo>broodwar-map-of-the-week/(5)Rock Garden Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(5)Rock Garden.jpg</preview>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="twilight" players="5" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-11-19</release>
+    </map>
+    <map>
+      <title>
+        <name>Outbreak</name>
+        <description>
+          "What is it with the Koprulu Sector, anyhow? It seems like every week
+          there's another skirmish, insurgency, sortie, planned offensive,
+          counter strike, police action, border conflict or plain old-fashioned
+          war breaking out. While the chaos and anarchy are great for a
+          spacefaring merchant vessel that's willing to transport certain cargo
+          of questionable legality, I sometimes have to stop and wonder if this
+          madness will ever end. Of course, this is also right about the time
+          the Captain slaps me upside the head and...
+
+          "(external entry) Bailey, stop daydreaming and get back to work!"
+
+          -Personal entry of First Mate Norris Bailey
+          Recovery Vessel Starheaper
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Outbreak Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Outbreak.jpg</preview>
+      <size x="256" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="6" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-11-24</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Turnaround</name>
+        <description>
+          "Let your rapidity be that of the wind, your compactness that of the
+          forest. In raiding and plundering be like fire, in immovability like
+          a mountain. Let your plans be dark and impenetrable as night, and
+          when you move, fall like a thunderbolt."
+
+          Sun-Tzu, The Art of War
+        </description>
+        <logo>broodwar-map-of-the-week/(2)Turnaround Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(2)Turnaround.jpg</preview>
+      <size x="128" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="ice" players="2" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-12-03</release>
+    </map>
+    <map>
+      <title>
+        <name>Vulcan's Forge</name>
+        <description>
+          During the brief occupation of Char by the United Earth Directorate's
+          Expeditionary Force, Admiral DuGalle instituted a series of intense
+          training exercises on the forbidding surface of the planet. With the
+          security of the now-tamed Overmind being the linchpin of further
+          military success in the Koprulu sector, DuGalle needed to know that
+          the harsh environment of Char would not make this task impossible.
+          The horrifying firestorms and boiling pools of lava -- combined with
+          the thick layer of ash that covered man and machine -- could cause
+          serious physical and psychological strain on even hardened soldiers.
+          Forces that were able to function on Char stayed and served as a
+          garrison force. Those that couldn't "take the heat" were stationed
+          elsewhere...
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Vulcan's Forge Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Vulcan's Forge.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="ash" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-12-10</release>
+    </map>
+    <map>
+      <title>
+        <name>Deep Freeze</name>
+        <description>
+          "Hell's supposed to be some kind of torture chamber filled with fire
+          and brimstone, right? Well, after serving a tour of duty in the ice
+          and snow of Braxis, the only difference I see is that at least Hell
+          would be a lot warmer..."
+
+          -Corporal Max Redius
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Vulcan's Forge Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Vulcan's Forge.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="ice" players="6" teams="3" island="true" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>1999-12-17</release>
+    </map>
+    <map>
+      <title>
+        <name>Twelve Days of Starcraft</name>
+        <description>
+          On the Twelfth Day Of Christmas, Blizzard gave to me...
+
+          Twelve Arbiters
+          Eleven Science Vessels
+          Ten Ultralisks
+          Nine Battlecruisers
+          Eight Archons Burning
+          Seven Zerglings Swarming
+          Six Zealots Fighting
+          Five Newborn Queens!
+          Four Hydralisks
+          Three Marines
+          Two Terran Wraiths
+          And a brand new SCV!
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Twelve Days of Starcraft Logo.gif</logo>
+      </title>
+      <size x="192" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="ice" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-12-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Mousetrap</name>
+        <description>
+          "The Bengalaas are not only one of the most colorful creatures in the
+          universe, but are also counted amongst it's most feared predators.
+          These jungle cats love to toy with their prey and have been observed
+          slapping smaller creatures about in a sadistically playful manner for
+          several minutes before finally making the kill with one swift bite to
+          the neck. The predatory habits of the Bengalaas are not limited to
+          small or defenseless animals, however. Exhibiting acutely intelligent
+          hunting tactics, packs of Bengalaas can bring down an aggressive,
+          dangerous target that is several times their own size. These noble
+          cats are truly one of nature's finest and deadliest creations."
+
+            - Benjamin Slater, Doctor of Zoology
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Mousetrap Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Mousetrap.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="3" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1999-12-30</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Crossfire</name>
+        <description>
+          "I used to think that defeating the Zerg would take precise military
+          maneuvers, clever tactics and strong leadership. I was wrong. You
+          can't out-think the swarm, you can't out-maneuver the swarm, and you
+          certainly can't break the morale of the swarm. I hate to admit this,
+          but I could do my job just as well if I ordered all my men to simply
+          shoot anything that moves."
+
+          -Colonel Ronald "Hardcore" Jackson
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Crossfire Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Crossfire.jpg</preview>
+      <size x="192" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="ice" players="4" teams="2" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>2000-01-07</release>
+    </map>
+    <map>
+      <title>
+        <name>Dead End</name>
+        <description>
+          "I reserve a particularly large chunk of bile in my stomach for the
+          city of Graschek. My company and I were ordered to enter the town and
+          destroy an enemy logistics base at that location. To make a long,
+          intense, and particularly bloody story short, we lost our bearings en
+          route and I lost half of my men. Admiral DuGalle himself probably
+          would have become lost in that maze of streets and sewers. After my
+          tour of duty is up, I'm going to find Graschek's city planners and
+          kill them all with my bare hands..."
+
+            -Lieutenant Thomas Dufay
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Dead End Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Dead End.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-01-14</release>
+    </map>
+    <map>
+      <title>
+        <name>Exile Station</name>
+        <description>
+          "To my dearest mother,
+
+          I've been stationed out here at this deep space refueling depot now
+          for three months, and the isolation here is maddening. Nearby
+          astronomical phenomenon make normal communications difficult to the
+          rest of the sector, and this only adds to our sense of being alone
+          out here. Hopefully this message will get to you some time soon. I
+          gave it to the captain of our monthly resupply vessel to forward to
+          you. I love you, and miss you.
+
+          Oscar
+
+          P.S. I need new underwear, so if you send me some I'd really
+          appreciate it. I know how you hate me wearing old, dirty underwear."
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Exile Station Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Exile Station.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="6" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-01-21</release>
+    </map>
+    <map>
+      <title>
+        <name>Execution</name>
+        <description>
+          "It’s been a long, arduous session for you cadets, and some of you
+          must be getting really nervous that the final exam is almost upon you.
+          You’ve heard plenty of pep talks from myself and the other trainers
+          before this, so I will just say one last thing and then let you all
+          start the simulation. Live as if your were to die tomorrow. Learn as
+          if you were to live forever."
+
+          - Training Coordinator Max Herai
+        </description>
+        <logo>broodwar-map-of-the-week/(2)Execution Logo.gif</logo>
+      </title>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="twilight" players="2" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>2000-01-28</release>
+    </map>
+
+    <map>
+      <title>
+        <name>New Aegean Sea</name>
+        <description>
+          MEMO 3451GS12
+          FROM: Office of the Surveyor General
+          RE: Naming Policies
+          In the last few months I have seen a rash of new planets, continents,
+          oceans, seas, lakes, rivers, mountains, plains and valleys with
+          suggested nomenclature based on geographic features found on Earth.
+          While I do not wish to single out any specific survey team as being
+          particularly uncreative, it was brought to my attention that just
+          today a body of water located on Exgelia IV was given the name
+          "New Aegean Sea". I have examined the maps and photographs of the
+          area in great detail and have read the survey report thoroughly.
+          Although this body of water does indeed bear some resemblance to the
+          Aegean Sea located off the coast of Greece and Turkey on Earth, it is
+          with great hesitancy and reluctance that I give this name my final
+          approval. Be advised that the next of these uninspired reports that
+          comes across the desk of this office will be immediately rejected.
+
+          WSM/es
+        </description>
+        <logo>broodwar-map-of-the-week/(8)New Aegean Sea Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)New Aegean Sea.jpg</preview>
+      <size x="256" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="8" island="true" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-02-04</release>
+    </map>
+    <map>
+      <title>
+        <name>Hailstorm</name>
+        <description>
+          "What’s that Command? A storm moving onto our position and we should
+          seek shelter immediately? Sir, with all due respect, my men have been
+          to the far reaches of the sector and fought off bandits, rebels,
+          Protoss and even the Zerg. We are not afraid of some...
+          [STATIC -- END OF LINE]."
+
+          - Last transmission of Captain Jonathan Rogers,
+          KIA during a freak hailstorm on Grnaki Prime
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Hailstorm Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Hailstorm.jpg</preview>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="ice" players="4" island="true" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-02-11</release>
+    </map>
+    <map>
+      <title>
+        <name>Wide Horizons</name>
+        <description>
+          "I love a good desert. There's something about a huge expanse of
+          seemingly barren wasteland that stirs something deeply in my soul.
+          The blistering heat purges away all the outside cares of the world,
+          leaving only the fragile core of my innermost being in its wake. The
+          experience is just magical. Oh, and you can get a really awesome tan.
+          Chicks dig a nice tan."
+
+          - Gregory Raj, author and self-proclaimed "Guru of the Stars"
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Wide Horizons Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Wide Horizons.jpg</preview>
+      <size x="256" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="desert" players="6" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-02-18</release>
+    </map>
+    <map>
+      <title>
+        <name>Endurance</name>
+        <description>
+          "I don't understand how High Command can believe success is possible
+          in this new "mission". We've fought back and triumphed against vastly
+          superior odds before, but the prospect of facing SIX well- equipped
+          strike teams worries even me. There's only so long a human can stay
+          alert and fit in combat before finally succumbing to the need to rest.
+          We're not robots here -- we're men and women made out of flesh and
+          blood. If we are going to have any shot at coming out of this mess
+          with our heads still attached we need to end the fight quickly. We
+          can't let this fight turn into a war of attrition because if that
+          happens, we won't have the resources or endurance to continue that
+          kind of fight for long. Now you all know what's ahead of us, so let's
+          go, go, go!"
+
+            - General Tyco Eiche
+        </description>
+        <logo>broodwar-map-of-the-week/(2)Endurance Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(2)Endurance.jpg</preview>
+      <size x="256" y="64" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="2" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>2000-02-25</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Bull's Eye</name>
+        <description>
+          "Ok. I finally asked for a [censored] transfer. For once in their
+          [censored] [censored] lives, High [censored] Command decides to do me
+          a [censored] favor. So I move halfway across the [censored] sector to
+          take command of my new station. What do I [censored] find?
+
+          A [censored] [censored] more [censored] [censored] orbital platform
+          then the last [censored] of [censored] that I was on!
+
+          Some [censored] out there is just trying to [censored] with me, that
+          HAS to be [censored] it. What [censored], [censored], [censored],
+          [CENSORED] decided to build a [censored] Bull's Eye into the center
+          of the [censored] platform? Can we make possibly things a little less
+          [censored] easy for the [censored] enemy?
+
+          [CENSORED]! "
+
+          -Edited comments of Colonel Riley "[censored]" Bullhorn
+          New Commander of Terran Orbital Platform K4-J19
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Bull's Eye Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Bull's Eye.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-03-03</release>
+    </map>
+    <map>
+      <title>
+        <name>Pyroclasm</name>
+        <description>
+          "I saw some horrible things on Char. Packs of Zerglings ripping
+          entire platoons of Marines apart limb from limb. Broodlings bursting
+          from the chests of my friends. Siege Tanks melting from a Guardian's
+          acid spray. The worst thing I witnessed wasn't the Zerg, however, but
+          how the planet itself decided to get involved in the killing. We were
+          fighting near a large mountain when the top of it exploded. A cloud
+          began rolling down the mountain, and it came at us FAST. I barely got
+          out of its way, but over half of my platoon wasn't so lucky. This
+          cloud just melted them all into twisted, sickening shapes that I will
+          never be able to forget. The remainder of my assault team was pulled
+          out of the conflict to regroup and in the debriefing afterwards, an
+          intelligence officer explained what had happened. It seems that my
+          unit was hit by a "pyroclastic flow". According to our scientific
+          research, these "anomalies" can reach speeds of over 100 mph and
+          temperatures higher than 800 degrees Celsius. The scientists can call
+          it whatever they want -- I just know that I'll never forget what it
+          did to my friends."
+
+            -Diary of Corporal Aaron Parkinson
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Pyroclasm Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Pyroclasm.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-03-10</release>
+    </map>
+    <map>
+      <title>
+        <name>Backlash</name>
+        <description>
+          "There's been a lot of talk lately about the banning of wildlive
+          preserves built for the sportsman in mind. Well, I've had enough of
+          that talk. There's nothing more perfect in this world than looking
+          down the barrel of a high powered gauss rifle built to penetrate 2
+          inches of steel plating and seeing a defenseless animal square in the
+          laser targeted, wind corrected, electronically enhanced scope with
+          integrated night vision. NOTHING. Do these zealots understand the
+          consequences of their actions? If we can't shoot a small animal, who
+          knows what we might shoot next?"
+
+          -Excerpt from an interview with Ralph Smith,
+          Leader of the "Hunters are people, too!" organization
+        </description>
+        <logo>broodwar-map-of-the-week/(8)Backlash Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)Backlash.jpg</preview>
+      <size x="128" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="8" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-03-17</release>
+    </map>
+    <map>
+      <title>
+        <name>Whirlwind</name>
+        <description>
+          "The study of weather on alien planets, or Xenometerology, is one
+          of the most exciting fields in Science today. Analyzing the wind and
+          climate patterns of distant worlds will allow us to better predict
+          the occurance of hazardous weather phenomenon that negatively impact
+          our own homes and cities. Some of the weather events we've had the
+          fortune to observe make the devastating whirlwinds back on Earth seem
+          like a cool spring breeze. It is our responsibility to warn new
+          colonists of the potential danger they may face before lives and
+          property are utterly destroyed by the vengeful wrath of an alien
+          Mother Nature."
+
+          - Dr. Ula Isarki, Head of the Koprulu Meterological Institute
+        </description>
+        <logo>broodwar-map-of-the-week/(8)Whirlwind Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)Whirlwind.jpg</preview>
+      <size x="128" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="3" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-03-24</release>
+    </map>
+    <map>
+      <title>
+        <name>Desert Bloom</name>
+        <description>
+          "They cannot scare me with their empty spaces
+          Between stars- on stars where no human race is.
+          I have it in me so much nearer home
+          To scare myself with my own desert places."
+
+          - Robert Frost
+        </description>
+        <logo>broodwar-map-of-the-week/(5)Desert Bloom Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(5)Desert Bloom.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="desert" players="5" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-03-31</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Ursadon Flats</name>
+        <description>
+          "The barren, frozen wastelands of Braxis are some of the most
+          unforgiving places in the sector. A thick layer of permafrost allows
+          little in the way of plant life to thrive and brutal winter storms
+          constantly rage across the plains. Even in such harsh conditions,
+          however, the Ursadon thrives. This majestic beast is truly the lord
+          of the tundra, having no natural enemies. Often found near ice floes,
+          Ursadons are carnivorous creatures that hunt in the icy water for
+          food. Instances of attacks on humans are thankfully rare, but the few
+          recorded instances of an enraged Ursadon attack have always ended in
+          tragedy. The Koprulu Wilderness Society recommends keeping a safe
+          distance from these noble creatures while on Braxis, both for your
+          own safety and that of the Ursadon."
+        </description>
+        <logo>broodwar-map-of-the-week/(5)Desert Bloom Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(5)Desert Bloom.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="ice" players="7" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-04-07</release>
+    </map>
+    <map>
+      <title>
+        <name>Mystique</name>
+        <description>
+          Data Entry 1102AM0441:
+
+          A funny thing happened today. I watched a Protoss Templar doing what
+          he calls "exercises." I was immediately taken back to the birthday
+          party my mother gave me when I turned six years old. All my friends
+          were there and there was more ice cream and cake than I could ever
+          have thought possible. The highlight of the day, though, was the
+          magician my mother hired as entertainment. He pulled a rabbit out of
+          his black top hat and materialized coins out from behind the ears of
+          my friends and, for a brief moment, I belived that magic was real.
+          As an adult, I discovered the magic tricks that had transfixed me as
+          a youth were just bits of misdirection and sleight of hand. I even
+          learned a few of them to show my younger brothers and sisters. They
+          loved those tricks, and I just wish they could see the Protoss. The
+          Templar can do things with their minds that can only be described as
+          real magic...
+
+          -Personal entry of Engineer's Mate Aaren Ruth,
+          Renegade Battlecruiser Hyperion
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Mystique Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Mystique.jpg</preview>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="twilight" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-04-14</release>
+    </map>
+    <map>
+      <title>
+        <name>High Noon</name>
+        <description>
+          "In ancient times dueling was an accepted and honorable means of
+          resolving a dispute between individuals with opposing views. Two men
+          would stand back to back on the field of combat -- their chosen
+          weapons raised in a proud salute -- prepared to fight to the death.
+          Things are a WHOLE lot different now. Lately, "Duels" are resolved
+          with auto-aiming Gauss weaponry, powered combat suits, and even
+          Goliath Combat Walkers! No one has respect for the old traditions
+          anymore..."
+
+            -Admiral David Jones
+        </description>
+        <logo>broodwar-map-of-the-week/(4)High Noon Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)High Noon.jpg</preview>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-04-21</release>
+    </map>
+    <map>
+      <title>
+        <name>Hotspot</name>
+        <description>
+          "Locusts! That's what those infernal Kel-Morian Combine mining teams
+          are! You think you have a good claim all to yourself, but then the
+          Combine comes to ravage everything in sight right from under your
+          nose. They'll leave me with nothing after they're done. Well I'm not
+          going to take it anymore, and I've got just the thing for them! I'll
+          make this a hot spot they'll never forget! I'll show them!"
+
+            -Final Recorded Words of Usagi Hidalgo before the surface detonation
+            of a 20 megaton nuclear device on the planet of Uilila IV
+        </description>
+        <logo>broodwar-map-of-the-week/(7)Hotspot Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(7)Hotspot.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="desert" players="7" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-04-28</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Face Off</name>
+        <description>
+          "Is there anything more tense and exciting in war then looking across
+          the landscape to see your enemy on a hill knowing that he can just as
+          easily see you? There's no where to hide. No complex manuevers or
+          strategies are needed for victory. You butt heads like a pair of
+          rams, determined to crush the enemy before they can do the same to
+          you. It's an exhilirating feeling."
+
+            -Officer's Journal of Colonel Abraham Vahn
+        </description>
+        <logo>broodwar-map-of-the-week/(2)Face Off Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(2)Face Off.jpg</preview>
+      <size x="128" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="ash" players="2" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-05-05</release>
+    </map>
+    <map>
+      <title>
+        <name>Frostbite</name>
+        <description>
+          The advent of the Powered Combat Suit for the common infantryman
+          heralded a revolution in the making of war. For centuries soldiers
+          have had to worry about rain, snow, wind, hostile atmospheres, and
+          the cold hard vacuum of space. Any of these environments could make
+          a soldier miserable and ineffective on the battlefield. Countless
+          wars throughout history have been lost when the attacking army fell
+          under the deep snowy blanket of a cold, cruel winter. How could men
+          and women move with the strength sapped from their legs by the
+          extreme cold? How could a weapon be fired if a trigger finger was
+          numb from frostbite? The Powered Combat Suit has changed the face of
+          modern warfare forever.
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Frostbite Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Frostbite.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="ice" players="4" island="true" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-05-10</release>
+    </map>
+    <map>
+      <title>
+        <name>Tropical Fever</name>
+        <description>
+          "Welcome to the jungle... it gets worse here everyday. You learn to
+          live like an animal in the jungle where we play and if you’ve got a
+          hunger for what you see, you'll take it -- eventually. You can have
+          anything you want, but you better not take it from me..."
+
+          -Speech given to new platoon members by Sergeant Axel "Guns" Enrozes
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Tropical Fever Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Tropical Fever.jpg</preview>
+      <size x="128" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-05-19</release>
+    </map>
+    <map>
+      <title>
+        <name>The Void</name>
+        <description>
+          Status Report
+          Station S630-M71
+          Commanding Officer: Col. James Dather
+
+          It has been two months since I assumed command of this station and
+          I must regretfully report that the mythical reputation of the "Void",
+          the colorful pseudonym for this place, is well deserved. The solar
+          array mysteriously stops providing power once or twice each hour.
+          Replacement parts for the environmental systems vanish into thin air.
+          Quite simply, everything is breaking down. Of even greater concern is
+          that one of the communication technicians died yesterday in the mess
+          hall while eating rehydrated banana pudding. The station's medical
+          officer is baffled, as the autopsy was inconclusive as to the cause
+          of death.
+
+          I have 4 months left in this current assignment and my only goal is
+          to not see my advancement prospects vanish like everything else does
+          in this God forsaken place.
+        </description>
+        <logo>broodwar-map-of-the-week/(6)The Void Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)The Void.jpg</preview>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="6" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-05-26</release>
+    </map>
+  </maps>
+
+  <authors>
+    <author id="auth:0">
+      <title>
+        <name>Blizzard</name>
+        <logo>authors/blizzard-logo.png</logo>
+      </title>
+      <url>www.blizzard.com</url>
+      <email>contact@blizzard.com</email>
+    </author>
+    <author id="auth:1">
+      <title>
+        <name>John Doe</name>
+      </title>
+    </author>
+  </authors>
+
+  <games>
+    <game id="sc">
+      <title>
+        <name>Starcraft</name>
+        <logo>games/starcraft.png</logo>
+      </title>
+      <url>https://starcraft.com/</url>
+      <versions>
+        <version id="sc:0">
+          <title>
+            <name>Starcraft beta</name>
+            <description>
+              An online-only version of Starcraft open for public beta testing.
+            </description>
+          </title>
+          <downloads>
+            <full name="Beta">http://www.blizzardarchive.com:80/pub/Betas/SCBeta.rar</full>
+            <full name="Japanese beta">http://www.blizzardarchive.com:80/pub/Betas/SCJBeta.rar</full>
+          </downloads>
+        </version>
+        <version id="sc:1">
+          <title>
+            <name>Starcraft</name>
+            <description>
+              StarCraft is set around the early 26th century. Terran exiles from
+              Earth have colonized a distant area of the Milky Way galaxy called
+              the Koprulu Sector, having established several governments.
+              Eventually, a civil war breaks out and ends with the formation of
+              the Terran Dominion.
+
+              However, humanity soon becomes caught in a war between the Protoss
+              and the Zerg, which culminates at the end of StarCraft with the death
+              of the Zerg leader, the Overmind, on the Protoss homeworld of Aiur.
+              Without the Overmind to command, the Zerg rampage mindlessly across
+              Aiur, while the cerebrates—the secondary commanders of the
+              Swarm—attempt to regain control.
+            </description>
+            <logo>games/starcraft.png</logo>
+          </title>
+          <downloads>
+            <demo name="Starcraft demo">http://ftp.blizzard.com/pub/starcraft/demos/SCDemo.exe</demo>
+            <patch name="PC 1.16.1">http://ftp.blizzard.com/pub/starcraft/patches/PC/SC-1161.exe</patch>
+            <patch name="MAC 1.16.1">http://ftp.blizzard.com/pub/starcraft/patches/Mac/StarCraft_v1161_OSX.zip</patch>
+          </downloads>
+          <release>1998-03-31</release>
+        </version>
+        <version id="sc:2">
+          <title>
+            <name>Starcraft: Broodwar</name>
+            <description>
+              After the discovery of alien life in the Koprulu Sector, the
+              United Earth Directorate (UED) — the international body governing
+              Earth — decides to send an expeditionary force to secure the
+              sector and prevent the aliens from finding Earth.
+            </description>
+          </title>
+          <downloads>
+            <patch name="PC 1.16.1">http://ftp.blizzard.com/pub/broodwar/patches/PC/BW-1161.exe</patch>
+            <patch name="MAC 1.16.1">http://ftp.blizzard.com/pub/broodwar/patches/Mac/Brood_War_v1161_OSX.zip</patch>
+          </downloads>
+          <release>1998-11-30</release>
+        </version>
+        <version id="sc:3">
+          <title>
+            <name>Starcraft: Remastered</name>
+            <description>
+              StarCraft®: Remastered upgrades the essential sci-fi strategy
+              experience from beginning to end. Welcome back to the original
+              game and its award-winning expansion, StarCraft: Brood War.
+
+              We’ve remastered our units, buildings, and environments, improved
+              game audio, and broadened our supported resolutions. Illustrated
+              interludes bring the struggles and victories of heroes like Artanis,
+              Fenix, Tassadar, Raynor and Kerrigan to life like never before.
+              Most importantly, the strategy gameplay that StarCraft perfected
+              years ago remains unchanged.
+            </description>
+            <logo>games/starcraft-remastered.png</logo>
+          </title>
+          <release>2017-07-30</release>
+        </version>
+      </versions>
+    </game>
+  </games>
+</mapdb>
