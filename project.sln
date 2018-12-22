@@ -3,10 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{841837DE-9797-4630-A43C-F9264D12773E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mapsdb", "mapsdb", "{4F942F2C-09A6-48BB-ABB0-060AABF67F4A}"
 	ProjectSection(SolutionItems) = preProject
-		example.xml = example.xml
-		mapsdb.xsd = mapsdb.xsd
+		mapsdb\broodwar-map-of-the-week.xml = mapsdb\broodwar-map-of-the-week.xml
+		mapsdb\mapsdb.xsd = mapsdb\mapsdb.xsd
+		mapsdb\starcraft-map-of-the-week.xml = mapsdb\starcraft-map-of-the-week.xml
+		mapsdb\warcraft-map-of-the-week.xml = mapsdb\warcraft-map-of-the-week.xml
 	EndProjectSection
 EndProject
 Global
