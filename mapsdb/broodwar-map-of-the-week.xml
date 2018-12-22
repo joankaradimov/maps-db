@@ -1075,39 +1075,7 @@
         </description>
         <logo>broodwar-map-of-the-week/(6)Klondike Logo.gif</logo>
       </title>
-      <preview>broodwar-map-of-the-week/(6)Klondike.jpg</preview>
-      <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
-      <features tileset="jungle" players="4" island="false" useMapSettings="false" />
-      <author authorId="auth:0" />
-      <release>1999-09-17</release>
-    </map>
-<map>
-      <title>
-        <name>Watering Hole</name>
-        <description>
-          "Not every locale in the Koprulu sector is a hotbed of violence and
-          mayhem. There are actually areas that are quiet, peaceful places to
-          relax as the problems of the universe just pass you by. The secluded
-          oasis known as the Watering Hole on the planet of Helioc III has a
-          set of wonderfully scenic vistas where you can observe the beautiful
-          native wildlife in their natural habitat. If you have the means, I
-          suggest you give it a try as there's way too much stress in the
-          galaxy these days."
-
-          - Uran Golenko, leading stress therapist and featured guest on the
-          popular "Universe Today" talk show
-
-          TRAVEL NOTE: A sudden influx of tourists, coupled with the discovery
-          of considerable mineral wealth on the planet, has left the ecology of
-          Helioc III in a less than optimal state. Once the use of tactical
-          nuclear weaponry has subsided, geologists expect a high level of
-          planetary recovery.
-        </description>
-        <logo>broodwar-map-of-the-week/(6)Klondike Logo.gif</logo>
-      </title>
-      <preview>broodwar-map-of-the-week/(6)Klondike.jpg</preview>
+      <preview>broodwar-map-of-the-week/(4)Watering Hole.jpg</preview>
       <size x="192" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
@@ -1217,33 +1185,6 @@
       <features tileset="jungle" players="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-10-15</release>
-    </map>
-    <map>
-      <title>
-        <name>Nukes Away</name>
-        <description>
-          "The most popular exercise in the Ghost training regimen is scenario
-          A11-X93, commonly referred to by trainees as "Nukes Away". In this
-          scenario, Ghosts practice a variety of covert infiltration techniques
-          while gaining the technical knowledge necessary for the proper
-          guidance of field-standard tactical nuclear weapons. Since nuclear
-          weaponry is too expensive to be used in live fire training, the
-          exercise is performed using an extremely lifelike holoprojection
-          simulation. The competition between the teams of Ghosts can be extremely
-          intense, and all too commonly we see recruits spending what little
-          leisure time they have inside the simulation, honing their skills."
-
-            -Commander Richard Walker
-        </description>
-        <logo>broodwar-map-of-the-week/(8)Nukes Away Logo.gif</logo>
-      </title>
-      <preview>broodwar-map-of-the-week/(8)Nukes Away.jpg</preview>
-      <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
-      <features tileset="desert" players="8" island="false" useMapSettings="true" />
-      <author authorId="auth:0" />
-      <release>1999-10-22</release>
     </map>
     <map>
       <title>
