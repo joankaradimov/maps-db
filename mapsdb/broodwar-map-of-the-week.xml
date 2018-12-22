@@ -2401,6 +2401,185 @@
       <author authorId="auth:0" />
       <release>2000-08-25</release>
     </map>
+
+    <map>
+      <title>
+        <name>Trade Masters</name>
+        <description>
+          Urgent Press Release from Transmatter Inc.
+
+          "With the creation of the Gluon-B21 Teleportation System two years
+          ago, many high-ranking military officials believed that they had
+          finally found the ultimate way to reinforce distant armies across the
+          vastness of space. The initial excitement turned to disappointment,
+          however, when members of the 33rd Infantry Battalion proceeded to
+          randomly and spontaneously combust on the battlefield after utilizing
+          the device. The B21 system was quickly shelved for an extensive
+          re-evaluation. Now, after four years of strenuous work and testing,
+          I am proud to announce the vastly improved Muon-B22 Teleportation
+          System is finally ready for live field trials. We are confident in
+          the safety and reliability of the system, and I believe we are seeing
+          the dawn of a new era in military science."
+
+          - Dr. Ulani Tirano - Head Scientist, Transmatter Inc.
+          Editor's Note: The live trials conducted yesterday were immediately
+          halted when soldiers who used the device began what can only be
+          described as "fading out of existence" a few minutes after using the
+          device. Transmatter Inc. has issued a statement calling the apparent
+          loss of life "an unfortunate but minor setback." Maybe they should
+          just ask the Protoss how they do it?
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Trade Masters Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Trade Masters.jpg</preview>
+      <size x="128" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="ice" players="6" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>2000-09-29</release>
+    </map>
+    <map>
+      <title>
+        <name>Deception</name>
+        <description>
+          Cloaked in starlight's absence,
+          We follow paths unseen,
+          Never to be watched or heard,
+          Our senses are too keen.
+
+            - The Kimeran Pirates Motto
+        </description>
+        <logo>broodwar-map-of-the-week/(1)Deception Logo.gif</logo>
+      </title>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="installation" players="1" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>2000-10-27</release>
+    </map>
+    <map>
+      <title>
+        <name>Firing Line</name>
+        <description>
+          "I have yet to see any problem, however complicated, which, when you
+          looked at it in the right way, did not become still more complicated."
+
+            -Poul Anderson
+        </description>
+        <logo>broodwar-map-of-the-week/(1)Firing Line Logo.gif</logo>
+      </title>
+      <size x="64" y="64" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="1" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>2000-11-30</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Operation Claws</name>
+        <description>
+          "My forces are very frightful,
+          And I find your screams delightful,
+          There's no one to whom you can turn,
+          Let it burn, let it burn, let it burn!"
+
+          -Zergrinch
+        </description>
+        <logo>broodwar-map-of-the-week/(2)Operation Claws Logo.gif</logo>
+      </title>
+      <size x="128" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="ice" players="2" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>2001-01-02</release>
+    </map>
+    <map>
+      <title>
+        <name>Mercenaries II</name>
+        <description>
+          "We are the men of intrinsic value, who can strike our fortunes out
+          of ourselves, whose worth is independent of accidents in life, or
+          revolutions in government: we have heads to get money, and hearts to
+          spend it."
+
+          - George Farquhar
+        </description>
+        <logo>broodwar-map-of-the-week/(3)Mercenaries II Logo.gif</logo>
+      </title>
+      <size x="192" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="twilight" players="3" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>2001-01-31</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Last One Standing</name>
+        <description>
+          "Through most of the war we fought as nobles might. Never betraying,
+          never deceitful. But there came a point where tripping the soldier
+          next to you might mean another day of life..."
+
+          -Colonel Fenius Hassad
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Last One Standing Logo.gif</logo>
+      </title>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="desert" players="6" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>2001-03-19</release>
+    </map>
+
+    <map>
+      <title>
+        <name>All Your Base</name>
+        <description>
+          "Sharing is good fun. It lets everyone get joy out of your stuff
+          instead of just you alone. Then they'll share their stuff with you,
+          and everyone will have stuff to share. Then you're all good, and
+          having fun."
+
+          -Barnabuss the pink anthropomorphic lizard
+        </description>
+        <logo>broodwar-map-of-the-week/(6)All Your Base Logo.jpg</logo>
+      </title>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="6" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2001-04-02</release>
+    </map>
+    <map>
+      <title>
+        <name>Bazaar</name>
+        <description>
+          "One day I says to Crazy Bob, 'Bob, I need a big fragging gun.' Well,
+          that there darn Crazy Bob turns to me and says, 'Well Jimmy Jo
+          Jameson, what color do ya want it in?' Then I says to Crazy Bob,
+          'Dang, Bob. You sure take good care of me!"
+
+          -Jimmy Jo Jameson, Satisfied customer
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Bazaar Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Bazaar.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="jungle" players="6" island="true" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>2001-04-18</release>
+    </map>
   </maps>
 
   <authors>
