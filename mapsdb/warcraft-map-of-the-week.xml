@@ -20,7 +20,7 @@
           Once the greater threat was destroyed, the two armies quickly set upon
           each other again, of course...
         </description>
-        <logo>w2-maps/(6)Beetle Island Logo.png</logo>
+        <logo>w2-maps/(6)Beetle Island Logo.gif</logo>
       </title>
       <preview>w2-maps/(6)Beetle Island.jpg</preview>
       <size x="128" y="128"/>
@@ -70,7 +70,7 @@
           the valley, but the foreboding crags and horrific ice storms that sweep over
           the area have claimed the lives of many who would chart this remote place.
         </description>
-        <logo>w2-maps/(4)Cliffhanger Logo.jpg</logo>
+        <logo>w2-maps/(4)Cliffhanger Logo.gif</logo>
       </title>
       <preview>w2-maps/(4)Cliffhanger.jpg</preview>
       <size x="128" y="128"/>
@@ -174,7 +174,7 @@
               shattered Draenor, trapping many of Azeroth's greatest heroes on
               Outland, the damaged remains of the planet.
             </description>
-            <logo>games/warcraft2-bdp.png</logo>
+            <logo>games/warcraft2-exp.png</logo>
           </title>
           <release>1996-04-30</release>
         </version>
