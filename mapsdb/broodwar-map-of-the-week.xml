@@ -2043,6 +2043,364 @@
       <author authorId="auth:0" />
       <release>2000-05-26</release>
     </map>
+
+    <map>
+      <title>
+        <name>Hostile Waters</name>
+        <description>
+          "In the world there is nothing more submissive and weak than water.
+          Yet for attacking that which is hard and strong nothing can surpass it."
+
+          - Lao-Tzu, Legendary Chinese Philosopher
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Hostile Waters Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Hostile Waters.jpg</preview>
+      <size x="192" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="twilight" players="4" island="true" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-06-02</release>
+    </map>
+    <map>
+      <title>
+        <name>Close Quarters</name>
+        <description>
+          MEMO 592JLY03
+          FROM: Commandant L. H. Smith
+          RE: MCT Training Program
+
+          In this modern age of warfare, many new recruits discount the
+          importance of Melee Combat Technique training. While specific
+          attention is paid while learning how to service and fire their Gauss
+          rifles, they never seem to learn how block a thrown punch. Last
+          night, I disciplined a recruit who was leaving his quarters without
+          proper authorization and it was a embarrassingly simple matter to
+          pummel the lad into a weeklong coma. The deplorable shape of the
+          recruits in our charge as well as our training regimen needs to
+          change, ladies and gentleman, and quickly. Platoon leaders should
+          begin to schedule daily sessions with our melee instructors until
+          some noticeable improvement is achieved. I will continue a program
+          of random testing the recruits, placing them in the hospital if need
+          be, until I see that improvement. That is all.
+        </description>
+        <logo>broodwar-map-of-the-week/(2)Close Quarters Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(2)Close Quarters.jpg</preview>
+      <size x="96" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="badlands" players="2" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-06-09</release>
+    </map>
+    <map>
+      <title>
+        <name>Schism</name>
+        <description>
+          War is never pretty, but on the planet of Thanix III two competing
+          factions have been waging a particularly ugly war. The two sides have
+          used anything and everything imaginable to gain an advantage over
+          their enemy. Key leaders have been brutally assassinated, food and
+          water are routinely poisoned in an effort to starve the enemy, and
+          nuclear weapon barrages are a daily occurrence across the battlefield.
+          One key piece of terrain has seen the lion's share of the action in
+          this war, a place known only as the "Schism" between the combatants.
+          A long tar field separates rocky high ground from the outlying
+          deserts, and both sides fight fiercely to control the area. Offworld
+          military observers are convinced that whomever firmly controls the
+          "Schism" will win the war...
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Schism Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Schism.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="desert" players="6" teams="2" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>2000-06-16</release>
+    </map>
+    <map>
+      <title>
+        <name>Pit Traps</name>
+        <description>
+          Excerpt from an interview of Dr. Iliac Weston, Naturalist
+
+          Mr. Weston:
+              "I've been tracking, observing, and trapping rare beasts across
+              this sector for most of my lifetime. I often use extremely
+              precise radar that can track the smallest fly hovering over a
+              pile of dung. I have a set of sophisticated scent detectors that
+              not only tells me what animal made the dung, but what the animal
+              had for breakfast. Thermal sensors can tell me the exact
+              temperature of the dung from a mile away. All of these systems
+              are tied into a sophisticated computer, giving me a complete view
+              of the environment around me. My chosen prey simply has no chance
+              of evading detection."
+
+          CSI Reporter:
+              "So what do you use to actually trap the beast once you have
+              fixed its position?"
+
+          Mr. Weston:
+              "Well, I still have a soft spot for the old classics. We deploy
+              pit traps."
+
+          CSI Reporter:
+              "Pit traps? Why?"
+
+          Mr. Weston:
+              "I do have computer guided tranquilizer tipped homing missiles at
+              my disposal, but using those just seems unfair."
+        </description>
+        <logo>broodwar-map-of-the-week/(6)Pit Traps Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)Pit Traps.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="6" island="true" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-06-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Perdition's Flame</name>
+        <description>
+          The gates of Hell are open night and day;
+          Smooth the descent, and easy is the way:
+          But, to return, and view the cheerful skies;
+          In this, the task and mighty labour lies.
+
+          -Virgil
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Perdition's Flame Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Perdition's Flame.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="4" island="true" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-06-30</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Battle Lines</name>
+        <description>
+          "We have a lot of tests at the Academy that we throw at cadets, and
+          many times the simplest looking tests cause them the most grief.
+          Training Scenario A17 is one of the simplest tests we have available.
+          The basic premise of the mission is team four cadets together and
+          have them fight another team. What makes A17 special is the training
+          environment. We had a special space platform built out of a large
+          number of small metal plates connected by an downright obscene number
+          of bridges. Then we placed resources equidistant from the cadets for
+          them to fight over. The design of the platform is simple, and the
+          savagery of the fight always amazes us. Resource nodes constantly
+          change hands, each bridge is defended and attacked with brutal
+          intensity, and the front line constantly shifts around the
+          battlefield. We always bring plenty of popcorn before setting the
+          cadets loose, observing the carnage on the platform is better than
+          any holovideo."
+
+          -Commandant Uraj Al'Kural
+        </description>
+        <logo>broodwar-map-of-the-week/(8)Battle Lines Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)Battle Lines.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="8" island="false" useMapSettings="true" />
+      <author authorId="auth:0" />
+      <release>2000-07-07</release>
+    </map>
+    <map>
+      <title>
+        <name>Pinnacle</name>
+        <description>
+          "The Gheilia Plateau is one of the most unique land formations on the
+          planet of Ullalah II. Surrounded for hundreds of kilometers by some
+          of the least seismically active flatlands on the planet, the
+          existance of the small plateau has remained a mystery to geologic
+          survey teams for years. Core samples of the earth appeared to
+          indicate that the plateau has always been a feature of the landscape.
+          This is baffling to say the least. Further investigation of the site
+          has unfortunately become impossible, since the vantage point that the
+          Gheilia Plateau provides makes the location of prime military
+          importance to all three sides in the Ullalahian civil war. I am
+          monitoring the military situation on the surface of the planet, and I
+          hope to gain access to the Plateau soon and solve this mystery once
+          and for all."
+
+            - Dr. Oswald Connor
+        </description>
+        <logo>broodwar-map-of-the-week/(3)Pinnacle Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(3)Pinnacle.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="3" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-07-14</release>
+    </map>
+    <map>
+      <title>
+        <name>Permafrost</name>
+        <description>
+          For Immediate Distribution To All Personnel
+
+          From the Office of the Colonel:
+
+          There have been numerous complaints during the course of the campaign
+          on Braxis concerning the indigenous environmental conditions. The
+          vast majority of these are petty issues that have obviously been
+          initiated by individuals who do not have the stomach, or the will, to
+          be called Terran Marines. Further complaints will result in the
+          personal dispensing of immediate and extreme disciplinary action.
+          That being said, one notable issue has been raised. Many squads are
+          having difficulty properly burying the dead in the rock-hard tundra.
+          Until such time as portable heating units can be made available from
+          the Quartermaster General, Firebat squads will be tasked with the
+          duty of melting the permafrost with their Perdition flamethrowers to
+          allow excavation of burial pits for our fallen comrades. That is all.
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Permafrost Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Permafrost.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="ice" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-07-21</release>
+    </map>
+    <map>
+      <title>
+        <name>Kaleidoscope</name>
+        <description>
+          "All things change, nothing is extinguished. . . . There is nothing
+          in the whole world which is permanent. Everything flows onward; all
+          things are brought into being with a changing nature; the ages
+          themselves glide by in constant movement."
+
+          -Ovid
+        </description>
+        <logo>broodwar-map-of-the-week/(8)Kaleidoscope Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(8)Kaleidoscope.jpg</preview>
+      <size x="256" y="256" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="space" players="8" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-07-28</release>
+    </map>
+    <map>
+      <title>
+        <name>Pridelands</name>
+        <description>
+          Welcome to The Amazing Bengalaas Exhibit!
+
+          Safariland is proud to present Bengalaas!, the most technologically
+          advanced animal environment ever created. Our landscape architects
+          and technical engineers have spent over a 3 years designing a habitat
+          that faithfully mimics the actual conditions on Aiur, the homeworld
+          of the Bengalaas. While we don't have any Protoss or Zerg roaming
+          about our jungle, we were able to import several different plants
+          native to Aiur to make these massive cats feel even more at home.
+          Two visitor platforms, protected by specially designed moats, have
+          been erected as close as possible to the cats for the best in viewing
+          and holophotography. Exclusive merchandise is also available at the
+          Bengalaas, Wow! gift shop for those who wish to take home the pride
+          of the jungle.
+        </description>
+        <logo>broodwar-map-of-the-week/(2)Pridelands Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(2)Pridelands.jpg</preview>
+      <size x="96" y="96" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="2" island="true" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-08-04</release>
+    </map>
+    <map>
+      <title>
+        <name>Sidewinder</name>
+        <description>
+          You want a textbook example of the importance of good battlefield
+          reconnaissance? Take a close look at Sidewinder Ravine. Sure you can
+          attack your enemy with ground troops, just don't expect any results.
+          This place has more twists than a pretzel caught in a blender! Even
+          if you do finally get over to the enemy, he'll probably have Siege
+          Tanks on the ridges ready to rain down death and destruction on your
+          troops below. I'd suggest just attacking from the air, and hope your
+          opponent hasn't figured out the near futility of a land based attack.
+
+            - Excerpt from "The Modern Koprulu Sector Battlefield"
+            by Gen. Ulysses Hargrove, Ret.
+        </description>
+        <logo>broodwar-map-of-the-week/(2)Sidewinder Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(2)Sidewinder.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="desert" players="2" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-08-11</release>
+    </map>
+    <map>
+      <title>
+        <name>Ziggurat</name>
+        <description>
+          "I can't believe my eyes. I finally found what I had been looking for
+          all this time on Aiur. After evading the Terran blockade and
+          quarantine of Aiur, dodging countless Zerg patrols both on the ground
+          and in the air, and starving for the last two weeks, I've finally
+          seen my dream take shape before my very eyes. I've found the
+          Ziggurat, and it's more beautiful than I can imagine. I can die now a
+          happy man."
+
+          -Final Transmission of Dr. Frederick Thompson, Xenoarchaelogist
+        </description>
+        <logo>broodwar-map-of-the-week/(4)Ziggurat Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(4)Ziggurat.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="4" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-08-18</release>
+    </map>
+    <map>
+      <title>
+        <name>End of the Line</name>
+        <description>
+          "A work is never completed except by some accident such as weariness,
+          satisfaction, the need to deliver, or death: for, in relation to who
+          or what is making it, it can only be one stage in a series of inner
+          transformations."
+
+            -Paul Valéry, French poet
+        </description>
+        <logo>broodwar-map-of-the-week/(6)End of the Line Logo.gif</logo>
+      </title>
+      <preview>broodwar-map-of-the-week/(6)End of the Line.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:2" />
+      <features tileset="twilight" players="6" island="true" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>2000-08-25</release>
+    </map>
   </maps>
 
   <authors>
