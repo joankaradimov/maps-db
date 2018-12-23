@@ -14,9 +14,23 @@
         margin: auto;
       }
 
+      .row {
+        overflow: hidden;
+      }
+
       .release-date {
         color: white;
         margin-bottom: 10px;
+        font-weight: bold;
+        float: left;
+      }
+
+      .view-map {
+        float: right;
+      }
+
+      .view-map, .view-map:visited, .view-map:hover, .view-map:active {
+        color: inherit;
       }
     </style>
 
@@ -38,8 +52,16 @@
 
   <xsl:template match="map">
     <xsl:apply-templates select="title" />
-    <div class="release-date">
-      <b><xsl:value-of select="release" /></b>
+    <div class="row">
+      <div class="release-date">
+        <xsl:value-of select="release" />
+      </div>
+      <a class="view-map" target="_blank">
+        <xsl:attribute name="href">
+          <xsl:value-of select="preview" />
+        </xsl:attribute>
+        View Map
+      </a>
     </div>
     <div>
       <xsl:value-of select="title/description" />
