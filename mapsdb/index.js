@@ -29,7 +29,7 @@ function displayResult() {
     var xsl = loadXml("db-to-html.xslt");
 
     var transformedXml = transform(xsl, xml);
-    $('#example').append(transformedXml);
+    $('body').append(transformedXml);
 }
 
 window.onload = displayResult;

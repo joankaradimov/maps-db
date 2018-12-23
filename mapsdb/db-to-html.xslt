@@ -2,6 +2,29 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output method="html" indent="yes" />
 
+  <xsl:template match="mapdb">
+    <style>
+      body {
+        background-color: black;
+        color: #aeaedd;
+      }
+
+      .content {
+        width: 650px;
+        margin: auto;
+      }
+
+      .release-date {
+        color: white;
+        margin-bottom: 10px;
+      }
+    </style>
+
+    <div class="content">
+      <xsl:apply-templates select="@* | node()"/>
+    </div>
+  </xsl:template>
+
   <xsl:template match="title">
     <img>
       <xsl:attribute name="src">
@@ -15,8 +38,11 @@
 
   <xsl:template match="map">
     <xsl:apply-templates select="title" />
-    <div>
+    <div class="release-date">
       <b><xsl:value-of select="release" /></b>
+    </div>
+    <div>
+      <xsl:value-of select="title/description" />
     </div>
     <ul>
       <li>
