@@ -25,6 +25,24 @@
       <li>
         Tileset: <xsl:value-of select="features/@tileset" />
       </li>
+      <li>
+        Players: <xsl:value-of select="features/@players" />
+      </li>
+      <xsl:if test="features/@teams">
+        <li>
+          Teams: <xsl:value-of select="features/@teams" />
+        </li>
+      </xsl:if>
+      <xsl:if test="features/@useMapSettings='true'">
+        <li>
+          Use map settings
+        </li>
+      </xsl:if>
+      <xsl:if test="features/@island='true'">
+        <li>
+          Island map
+        </li>
+      </xsl:if>
     </ul>
   </xsl:template>
 </xsl:stylesheet>
