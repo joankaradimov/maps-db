@@ -1234,7 +1234,6 @@
         </description>
         <logo>broodwar-map-of-the-week/(8)Nukes Away Logo.gif</logo>
       </title>
-      <preview>broodwar-map-of-the-week/(8)Nukes Away.jpg</preview>
       <size x="192" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:2" />
@@ -1706,7 +1705,6 @@
         </description>
         <logo>broodwar-map-of-the-week/(2)Endurance Logo.gif</logo>
       </title>
-      <preview>broodwar-map-of-the-week/(2)Endurance.jpg</preview>
       <size x="256" y="64" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
