@@ -34,6 +34,10 @@
       .view-map, .view-map:visited, .view-map:hover, .view-map:active {
         color: inherit;
       }
+
+      .features {
+        padding-bottom: 60px;
+      }
     </style>
 
     <div class="content">
@@ -68,7 +72,7 @@
     <div>
       <xsl:value-of select="title/description" />
     </div>
-    <ul>
+    <ul class="features">
       <li>
         Size: <xsl:value-of select="size/@x"/>&#xd7;<xsl:value-of select="size/@y" />
       </li>
