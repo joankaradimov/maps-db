@@ -1,15 +1,26 @@
+function text2msxml(xmlString) {
+    var msxml = new ActiveXObject('Microsoft.XMLDOM');
+    msxml.async = 'false';
+    msxml.loadXML(xmlString);
+    return msxml;
+}
+
+function text2xml(xmlString) {
+    var parser = new DOMParser();
+    return parser.parseFromString(xmlString, "text/xml");
+}
+
 function loadXml(filename) {
-    var xhttp = window.ActiveXObject ? new ActiveXObject("Msxml2.XMLHTTP") : new XMLHttpRequest();
-
-    xhttp.open("GET", filename, false);
-    try {
-        xhttp.responseType = "msxml-document";
-    } catch (err) {
-        // Helping IE11
-    }
-
-    xhttp.send("");
-    return xhttp.responseXML;
+    return $.ajax({
+        url: filename,
+        dataType: 'text',
+    }).then(function (xmlString) {
+        try {
+            return text2msxml(xmlString);
+        } catch (error) {
+            return text2xml(xmlString);
+        }
+    });
 }
 
 function transform(xsl, xml) {
@@ -25,11 +36,12 @@ function transform(xsl, xml) {
 }
 
 function displayResult() {
-    var xml = loadXml("broodwar-map-of-the-week.xml");
-    var xsl = loadXml("db-to-html.xslt");
-
-    var transformedXml = transform(xsl, xml);
-    $('body').append(transformedXml);
+    loadXml("broodwar-map-of-the-week.xml").then(function (xml) {
+        loadXml("db-to-html.xslt").then(function (xsl) {
+            var transformedXml = transform(xsl, xml);
+            $('body').append(transformedXml);
+        });
+    });
 }
 
 window.onload = displayResult;
