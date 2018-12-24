@@ -11,6 +11,10 @@
         color: #aeaedd;
       }
 
+      img {
+        max-width: 650px;
+      }
+
       .content {
         width: 650px;
         margin: auto;
