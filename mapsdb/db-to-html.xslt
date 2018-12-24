@@ -66,12 +66,15 @@
       <div class="release-date">
         <xsl:value-of select="release" />
       </div>
-      <a class="view-map" target="_blank">
-        <xsl:attribute name="href">
-          <xsl:value-of select="preview" />
-        </xsl:attribute>
-        View Map
-      </a>
+
+      <xsl:if test="preview">
+        <a class="view-map" target="_blank">
+          <xsl:attribute name="href">
+            <xsl:value-of select="preview" />
+          </xsl:attribute>
+          View Map
+        </a>
+      </xsl:if>
     </div>
     <div>
       <xsl:value-of select="title/description" />
