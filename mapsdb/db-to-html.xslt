@@ -113,4 +113,8 @@
       </xsl:if>
     </ul>
   </xsl:template>
+
+  <xsl:template match="authors" />
+
+  <xsl:template match="games" />
 </xsl:stylesheet>
