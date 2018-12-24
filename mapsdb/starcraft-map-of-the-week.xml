@@ -504,6 +504,32 @@
     </map>
     <map>
       <title>
+        <name>Acropolis</name>
+        <description>
+          Recent explorations have uncovered a previously uncharted island on
+          the jungle planet of Ynoth. Located at the center of this island are
+          six massive citadels surrounding the ruins of a seventh. This has
+          caused a stir amongst the Shelak tribe as the Protoss seer Khyar
+          wrote several cryptic passages concerning an mystic Acropolis
+          referred to "The Six and The One". While it written in his works that,
+          "...the ruler of the Six shall use the One to become the Only..."
+          Khyar was also called the Mad Prophet in more than one historical
+          record. Whether this power is real or merely legend, there is a great
+          deal of interest in controlling this island as well as the ancient
+          citadels.
+        </description>
+        <logo>starcraft-map-of-the-week/(6)Acropolis Logo.gif</logo>
+      </title>
+      <preview>starcraft-map-of-the-week/(6)Acropolis.jpg</preview>
+      <size x="192" y="192" />
+      <game gameId="sc:1" />
+      <game versionId="sc:1" />
+      <features tileset="jungle" players="6" island="false" useMapSettings="false" />
+      <author authorId="auth:0" />
+      <release>1998-10-09</release>
+    </map>
+    <map>
+      <title>
         <name>Catwalk Alley</name>
         <description>
           [[Universal News Network]]
