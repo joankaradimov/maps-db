@@ -909,7 +909,7 @@
       <game versionId="sc:1" />
       <features tileset="jungle" minPlayers="1" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
-      <release>1999-07-30</release>
+      <release>1999-08-06</release>
     </map>
     <map>
       <title>
