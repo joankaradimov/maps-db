@@ -5,6 +5,8 @@
   <xsl:template match="mapdb">
     <style>
       body {
+        font-family: Arial,Helvetica,Sans-Serif;
+        font-size: 10pt;
         background-color: black;
         color: #aeaedd;
       }
