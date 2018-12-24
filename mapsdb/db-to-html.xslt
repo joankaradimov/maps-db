@@ -74,7 +74,17 @@
         Tileset: <xsl:value-of select="features/@tileset" />
       </li>
       <li>
-        Players: <xsl:value-of select="features/@players" />
+        Players:
+        <xsl:choose>
+          <xsl:when test="features/@minPlayers = features/@maxPlayers">
+            <xsl:value-of select="features/@minPlayers" />
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:value-of select="features/@minPlayers" />
+            -
+            <xsl:value-of select="features/@maxPlayers" />
+          </xsl:otherwise>
+        </xsl:choose>
       </li>
       <xsl:if test="features/@teams">
         <li>

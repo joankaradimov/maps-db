@@ -19,7 +19,7 @@
       <size x="128" y="128" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="jungle" players="4" island="false" useMapSettings="false" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-05-22</release>
     </map>
@@ -41,7 +41,7 @@
       <size x="128" y="128" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="space" players="6" teams="2" island="true" useMapSettings="true" />
+      <features tileset="space" minPlayers="4" maxPlayers="6" teams="2" island="true" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-05-29</release>
     </map>
@@ -63,7 +63,7 @@
       <size x="128" y="128" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="ash" players="8" teams="2" useMapSettings="true" />
+      <features tileset="ash" minPlayers="4" maxPlayers="8" teams="2" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-06-05</release>
     </map>
@@ -84,7 +84,7 @@
       <size x="96" y="96" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="jungle" players="2" useMapSettings="false" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="2" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-06-12</release>
     </map>
@@ -102,7 +102,7 @@
       <size x="96" y="96" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="badlands" players="6" useMapSettings="true" />
+      <features tileset="badlands" minPlayers="4" maxPlayers="6" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-06-19</release>
     </map>
@@ -124,7 +124,7 @@
       <size x="192" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="jungle" players="8" teams="2" island="false" useMapSettings="true" />
+      <features tileset="jungle" minPlayers="4" maxPlayers="8" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-06-26</release>
     </map>
@@ -147,7 +147,7 @@
       <size x="192" y="128" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="badlands" players="8" teams="2" island="false" useMapSettings="true" />
+      <features tileset="badlands" minPlayers="4" maxPlayers="8" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-07-03</release>
     </map>
@@ -168,7 +168,7 @@
       <size x="192" y="128" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="jungle" players="2" island="false" useMapSettings="true" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-07-10</release>
     </map>
@@ -192,7 +192,7 @@
       <size x="256" y="256" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="jungle" players="8" teams="2" island="false" useMapSettings="true" />
+      <features tileset="jungle" minPlayers="4" maxPlayers="8" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-07-17</release>
     </map>
@@ -216,7 +216,7 @@
       <size x="128" y="128" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="space" players="4" teams="2" island="false" useMapSettings="true" />
+      <features tileset="space" minPlayers="2" maxPlayers="4" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-07-24</release>
     </map>
@@ -236,7 +236,7 @@
       <size x="128" y="128" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="space" players="4" island="false" useMapSettings="false" />
+      <features tileset="space" minPlayers="2" maxPlayers="5" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-07-31</release>
     </map>
@@ -260,7 +260,7 @@
       <size x="128" y="128" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="jungle" players="4" teams="2" island="false" useMapSettings="true" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="4" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-08-07</release>
     </map>
@@ -282,7 +282,7 @@
       <size x="192" y="128" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="badlands" players="6" island="false" useMapSettings="false" />
+      <features tileset="badlands" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-08-14</release>
     </map>
@@ -310,7 +310,7 @@
       <size x="192" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="space" players="8" teams="2" island="false" useMapSettings="true" />
+      <features tileset="space" minPlayers="2" maxPlayers="8" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-08-21</release>
     </map>
@@ -330,7 +330,7 @@
       <size x="192" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="jungle" players="8" teams="2" island="false" useMapSettings="true" />
+      <features tileset="jungle" minPlayers="4" maxPlayers="8" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-08-21</release>
     </map>
@@ -355,7 +355,7 @@
       <size x="128" y="128" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="jungle" players="6" teams="2" island="false" useMapSettings="true" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="6" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-09-04</release>
     </map>
@@ -379,7 +379,7 @@
       <size x="96" y="96" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="installation" players="4" island="false" useMapSettings="true" />
+      <features tileset="installation" minPlayers="2" maxPlayers="4" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-09-04</release>
     </map>
@@ -399,7 +399,7 @@
       <size x="128" y="96" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="jungle" players="6" island="false" useMapSettings="true" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="6" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-09-11</release>
     </map>
@@ -420,7 +420,7 @@
       <size x="256" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="space" players="8" island="false" useMapSettings="false" />
+      <features tileset="space" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-09-18</release>
     </map>
@@ -442,7 +442,7 @@
       <size x="192" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="ash" players="4" island="false" useMapSettings="false" />
+      <features tileset="ash" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-09-25</release>
     </map>
@@ -470,7 +470,7 @@
       <size x="192" y="256" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="badlands" players="8" island="false" useMapSettings="false" />
+      <features tileset="badlands" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-10-02</release>
     </map>
@@ -498,7 +498,7 @@
       <size x="128" y="128" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="jungle" players="8" island="false" useMapSettings="false" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-10-09</release>
     </map>
@@ -524,7 +524,7 @@
       <size x="192" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="jungle" players="6" island="false" useMapSettings="false" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-10-09</release>
     </map>
@@ -557,7 +557,7 @@
       <size x="128" y="128" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="space" players="4" island="false" useMapSettings="false" />
+      <features tileset="space" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-10-09</release>
     </map>
@@ -582,7 +582,7 @@
       <size x="192" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="space" players="6" island="true" useMapSettings="false" />
+      <features tileset="space" minPlayers="2" maxPlayers="6" island="true" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-10-16</release>
     </map>
@@ -604,7 +604,7 @@
       <size x="128" y="96" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="badlands" players="2" island="false" useMapSettings="false" />
+      <features tileset="badlands" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-10-23</release>
     </map>
@@ -630,7 +630,7 @@
       <size x="128" y="128" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="jungle" players="4" island="false" useMapSettings="false" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-10-23</release>
     </map>
@@ -653,7 +653,7 @@
       <size x="192" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="ash" players="6" island="false" useMapSettings="false" />
+      <features tileset="ash" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-10-30</release>
     </map>
@@ -678,7 +678,7 @@
       <size x="192" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="jungle" players="8" island="false" useMapSettings="true" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="8" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-11-06</release>
     </map>
@@ -701,7 +701,7 @@
       <size x="192" y="128" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="badlands" players="4" island="false" useMapSettings="true" />
+      <features tileset="badlands" minPlayers="2" maxPlayers="4" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-11-06</release>
     </map>
@@ -724,7 +724,7 @@
       <size x="192" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="jungle" players="8" island="false" useMapSettings="true" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="8" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-11-20</release>
     </map>
@@ -749,7 +749,7 @@
       <size x="192" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="badlands" players="5" island="false" useMapSettings="false" />
+      <features tileset="badlands" minPlayers="2" maxPlayers="5" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-11-25</release>
     </map>
@@ -775,7 +775,7 @@
       <size x="192" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="jungle" players="4" island="false" useMapSettings="false" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-12-04</release>
     </map>
