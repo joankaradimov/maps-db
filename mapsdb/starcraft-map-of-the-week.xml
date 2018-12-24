@@ -861,6 +861,20 @@
         </version>
         <version id="sc:3">
           <title>
+            <name>Starcraft 64</name>
+            <description>
+              In 2000, StarCraft 64 was released In North America for the Nintendo 64,
+              co-developed by Blizzard Entertainment and Mass Media Inc. and published
+              by Nintendo. The game featured all of the missions from both StarCraft
+              and the expansion Brood War, as well as some exclusive missions, such as
+              two different tutorials and a new secret mission, Resurrection IV.
+            </description>
+            <logo>games/starcraft-64.png</logo>
+          </title>
+          <release>2000-06-13</release>
+        </version>
+        <version id="sc:4">
+          <title>
             <name>Starcraft: Remastered</name>
             <description>
               StarCraft®: Remastered upgrades the essential sci-fi strategy
