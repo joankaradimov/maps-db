@@ -518,7 +518,7 @@
       <size x="128" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="space" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
+      <features tileset="space" minPlayers="2" maxPlayers="6" teams="2" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-04-30</release>
     </map>
@@ -633,7 +633,7 @@
       <size x="256" y="256" />
       <game gameId="sc:1" />
       <game versionId="sc:1" />
-      <features tileset="space" minPlayers="2" maxPlayers="8" island="false" useMapSettings="true" />
+      <features tileset="space" minPlayers="2" maxPlayers="8" teams="4" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1999-06-04</release>
     </map>
@@ -2464,7 +2464,7 @@
       <size x="128" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:2" />
-      <features tileset="ice" minPlayers="4" maxPlayers="6" island="false" useMapSettings="true" />
+      <features tileset="ice" minPlayers="4" maxPlayers="6" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>2000-09-29</release>
     </map>
@@ -2605,7 +2605,7 @@
       <size x="192" y="192" />
       <game gameId="sc:1" />
       <game versionId="sc:2" />
-      <features tileset="jungle" minPlayers="2" maxPlayers="6" island="true" useMapSettings="true" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="6" teams="2" island="true" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>2001-04-18</release>
     </map>
