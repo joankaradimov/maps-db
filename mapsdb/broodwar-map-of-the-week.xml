@@ -21,8 +21,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Sarengo Canyon.jpg</preview>
       <size x="128" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="4" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-12-11</release>
@@ -48,8 +47,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(8)Tropical Seas.jpg</preview>
       <size x="256" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="8" island="true" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-12-18</release>
@@ -79,8 +77,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(2)Gemini Station.jpg</preview>
       <size x="96" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1998-12-22</release>
@@ -105,8 +102,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Christmas Rush.jpg</preview>
       <size x="128" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="2" maxPlayers="4" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1998-12-31</release>
@@ -128,8 +124,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Dark Masters.jpg</preview>
       <size x="96" y="96" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="twilight" minPlayers="2" maxPlayers="6" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1999-01-08</release>
@@ -150,8 +145,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(2)Eldrich Lake.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-01-15</release>
@@ -173,8 +167,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(8)Untamed Wilds.jpg</preview>
       <size x="256" y="256" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-01-22</release>
@@ -201,8 +194,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Glacier Bay.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="ice" minPlayers="2" maxPlayers="4" island="true" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1999-01-29</release>
@@ -227,8 +219,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(7)Heart Attack.jpg</preview>
       <size x="256" y="256" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="ice" minPlayers="2" maxPlayers="7" island="true" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-02-12</release>
@@ -253,8 +244,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Obsidian.jpg</preview>
       <size x="192" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="ash" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-02-19</release>
@@ -279,8 +269,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(8)Meat Grinder.jpg</preview>
       <size x="96" y="96" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-02-26</release>
@@ -309,8 +298,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Shoreline.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-03-12</release>
@@ -342,8 +330,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(8)Scorpion Ravine.jpg</preview>
       <size x="192" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="desert" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-03-19</release>
@@ -374,8 +361,7 @@
         <logo>broodwar-map-of-the-week/(3)Mercenaries Logo.gif</logo>
       </title>
       <size x="192" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="1" maxPlayers="3" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1999-03-26</release>
@@ -417,8 +403,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Egg Madness.jpg</preview>
       <size x="96" y="96" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="installation" minPlayers="3" maxPlayers="6" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1999-04-02</release>
@@ -446,8 +431,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Easy Money.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-04-16</release>
@@ -481,8 +465,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(7)Mirage.jpg</preview>
       <size x="256" y="256" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="twilight" minPlayers="2" maxPlayers="7" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-04-23</release>
@@ -516,8 +499,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Revolution.jpg</preview>
       <size x="128" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="2" maxPlayers="6" teams="2" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-04-30</release>
@@ -542,8 +524,7 @@
         <logo>broodwar-map-of-the-week/(8)Bunker Command II Logo.gif</logo>
       </title>
       <size x="96" y="96" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="desert" minPlayers="4" maxPlayers="8" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1999-05-07</release>
@@ -577,8 +558,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(8)Ice Age.jpg</preview>
       <size x="256" y="256" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="ice" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-05-12</release>
@@ -602,8 +582,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(2)Up The Creek.jpg</preview>
       <size x="96" y="64" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-05-19</release>
@@ -631,8 +610,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(8)Black Hole.jpg</preview>
       <size x="256" y="256" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="2" maxPlayers="8" teams="4" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1999-06-04</release>
@@ -650,8 +628,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(2)Byway.jpg</preview>
       <size x="96" y="96" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-06-11</release>
@@ -686,8 +663,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(3)Slowburn.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="ash" minPlayers="2" maxPlayers="3" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-06-11</release>
@@ -715,8 +691,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(5)Broken Mesa.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="desert" minPlayers="2" maxPlayers="5" island="true" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-06-18</release>
@@ -754,8 +729,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Blizzard.jpg</preview>
       <size x="256" y="256" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="ice" minPlayers="2" maxPlayers="6" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1999-07-02</release>
@@ -789,8 +763,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Mobius.jpg</preview>
       <size x="256" y="64" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="6" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1999-07-08</release>
@@ -817,8 +790,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Pinwheel.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="twilight" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-07-16</release>
@@ -855,8 +827,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(8)Multiplication.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="2" maxPlayers="8" island="true" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-07-23</release>
@@ -877,8 +848,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(8)Abattoir.jpg</preview>
       <size x="64" y="64" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="twilight" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-07-30</release>
@@ -905,8 +875,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(3)Cutthroat.jpg</preview>
       <size x="192" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="1" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-08-06</release>
@@ -929,8 +898,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Firestorm.jpg</preview>
       <size x="192" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="desert" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-08-13</release>
@@ -959,8 +927,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(2)Twisted Trail.jpg</preview>
       <size x="128" y="64" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-08-20</release>
@@ -990,8 +957,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Mountain Stronghold.jpg</preview>
       <size x="128" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="ice" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-08-27</release>
@@ -1021,8 +987,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(8)Megalopolis.jpg</preview>
       <size x="256" y="256" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-09-03</release>
@@ -1050,8 +1015,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(2)Hellhole.jpg</preview>
       <size x="256" y="256" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="ash" minPlayers="1" maxPlayers="2" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-09-10</release>
@@ -1074,8 +1038,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Klondike.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="ice" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-09-17</release>
@@ -1106,8 +1069,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Watering Hole.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-09-17</release>
@@ -1134,8 +1096,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(7)Zephyr Cove.jpg</preview>
       <size x="192" y="256" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="7" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-10-01</release>
@@ -1181,8 +1142,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)New Venice.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-10-08</release>
@@ -1209,8 +1169,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Turtle Island.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-10-15</release>
@@ -1235,8 +1194,7 @@
         <logo>broodwar-map-of-the-week/(8)Nukes Away Logo.gif</logo>
       </title>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="desert" minPlayers="2" maxPlayers="8" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1999-10-22</release>
@@ -1262,8 +1220,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(5)Ricochet.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="2" maxPlayers="5" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-10-29</release>
@@ -1289,8 +1246,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Indigo Waters.jpg</preview>
       <size x="256" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="twilight" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-11-05</release>
@@ -1319,8 +1275,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(2)Giant Steps.jpg</preview>
       <size x="96" y="96" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-11-12</release>
@@ -1345,8 +1300,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(5)Rock Garden.jpg</preview>
       <size x="192" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="twilight" minPlayers="2" maxPlayers="5" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-11-19</release>
@@ -1373,8 +1327,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Outbreak.jpg</preview>
       <size x="256" y="256" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-11-24</release>
@@ -1395,8 +1348,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(2)Turnaround.jpg</preview>
       <size x="128" y="96" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="ice" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-12-03</release>
@@ -1422,8 +1374,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Vulcan's Forge.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="ash" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-12-10</release>
@@ -1443,8 +1394,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Deep Freeze.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="ice" minPlayers="2" maxPlayers="6" teams="3" island="true" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>1999-12-17</release>
@@ -1471,8 +1421,7 @@
         <logo>broodwar-map-of-the-week/(4)Twelve Days of Starcraft Logo.gif</logo>
       </title>
       <size x="192" y="256" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="ice" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-12-23</release>
@@ -1498,8 +1447,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(3)Mousetrap.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="3" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>1999-12-30</release>
@@ -1522,8 +1470,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Crossfire.jpg</preview>
       <size x="192" y="96" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="ice" minPlayers="2" maxPlayers="4" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>2000-01-07</release>
@@ -1547,8 +1494,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Dead End.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-01-14</release>
@@ -1576,8 +1522,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Exile Station.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-01-21</release>
@@ -1598,8 +1543,7 @@
         <logo>broodwar-map-of-the-week/(2)Execution Logo.gif</logo>
       </title>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="twilight" minPlayers="2" maxPlayers="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>2000-01-28</release>
@@ -1632,8 +1576,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(8)New Aegean Sea.jpg</preview>
       <size x="256" y="256" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="8" island="true" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-02-04</release>
@@ -1655,8 +1598,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Hailstorm.jpg</preview>
       <size x="192" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="ice" minPlayers="2" maxPlayers="4" island="true" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-02-11</release>
@@ -1678,8 +1620,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Wide Horizons.jpg</preview>
       <size x="256" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="desert" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-02-18</release>
@@ -1706,8 +1647,7 @@
         <logo>broodwar-map-of-the-week/(2)Endurance Logo.gif</logo>
       </title>
       <size x="256" y="64" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>2000-02-25</release>
@@ -1740,8 +1680,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Bull's Eye.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-03-03</release>
@@ -1774,8 +1713,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Pyroclasm.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-03-10</release>
@@ -1801,8 +1739,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(8)Backlash.jpg</preview>
       <size x="128" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-03-17</release>
@@ -1828,8 +1765,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(3)Whirlwind.jpg</preview>
       <size x="128" y="96" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="3" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-03-24</release>
@@ -1849,8 +1785,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(5)Desert Bloom.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="desert" minPlayers="2" maxPlayers="5" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-03-31</release>
@@ -1877,8 +1812,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(7)Ursadon Flats.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="ice" minPlayers="2" maxPlayers="7" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-04-07</release>
@@ -1911,8 +1845,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Mystique.jpg</preview>
       <size x="192" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="twilight" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-04-14</release>
@@ -1936,8 +1869,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)High Noon.jpg</preview>
       <size x="192" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-04-21</release>
@@ -1960,8 +1892,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(7)Hotspot.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="desert" minPlayers="2" maxPlayers="7" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-04-28</release>
@@ -1984,8 +1915,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(2)Face Off.jpg</preview>
       <size x="128" y="96" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="ash" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-05-05</release>
@@ -2010,8 +1940,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Frostbite.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="ice" minPlayers="2" maxPlayers="4" island="true" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-05-10</release>
@@ -2031,8 +1960,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Tropical Fever.jpg</preview>
       <size x="128" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-05-19</release>
@@ -2064,8 +1992,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)The Void.jpg</preview>
       <size x="192" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-05-26</release>
@@ -2084,8 +2011,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Hostile Waters.jpg</preview>
       <size x="192" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="twilight" minPlayers="2" maxPlayers="4" island="true" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-06-02</release>
@@ -2116,8 +2042,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(2)Close Quarters.jpg</preview>
       <size x="96" y="96" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-06-09</release>
@@ -2143,8 +2068,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Schism.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="desert" minPlayers="2" maxPlayers="6" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>2000-06-16</release>
@@ -2186,8 +2110,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Pit Traps.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="6" island="true" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-06-23</release>
@@ -2207,8 +2130,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Perdition's Flame.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="4" island="true" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-06-30</release>
@@ -2240,8 +2162,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(8)Battle Lines.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="2" maxPlayers="8" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>2000-07-07</release>
@@ -2270,8 +2191,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(3)Pinnacle.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="3" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-07-14</release>
@@ -2301,8 +2221,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Permafrost.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="ice" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-07-21</release>
@@ -2322,8 +2241,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(8)Kaleidoscope.jpg</preview>
       <size x="256" y="256" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="4" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-07-28</release>
@@ -2351,8 +2269,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(2)Pridelands.jpg</preview>
       <size x="96" y="96" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="2" island="true" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-08-04</release>
@@ -2377,8 +2294,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(2)Sidewinder.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="desert" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-08-11</release>
@@ -2401,8 +2317,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(4)Ziggurat.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-08-18</release>
@@ -2422,8 +2337,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)End of the Line.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="twilight" minPlayers="2" maxPlayers="6" island="true" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2000-08-25</release>
@@ -2460,8 +2374,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Trade Masters.jpg</preview>
       <size x="128" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="ice" minPlayers="4" maxPlayers="6" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>2000-09-29</release>
@@ -2480,8 +2393,7 @@
         <logo>broodwar-map-of-the-week/(1)Deception Logo.gif</logo>
       </title>
       <size x="192" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="installation" minPlayers="1" maxPlayers="1" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>2000-10-27</release>
@@ -2498,8 +2410,7 @@
         <logo>broodwar-map-of-the-week/(1)Firing Line Logo.gif</logo>
       </title>
       <size x="64" y="64" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="space" minPlayers="1" maxPlayers="1" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>2000-11-30</release>
@@ -2519,8 +2430,7 @@
         <logo>broodwar-map-of-the-week/(2)Operation Claws Logo.gif</logo>
       </title>
       <size x="128" y="256" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="ice" minPlayers="1" maxPlayers="2" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>2001-01-02</release>
@@ -2539,8 +2449,7 @@
         <logo>broodwar-map-of-the-week/(3)Mercenaries II Logo.gif</logo>
       </title>
       <size x="192" y="256" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="twilight" minPlayers="1" maxPlayers="3" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>2001-01-31</release>
@@ -2559,8 +2468,7 @@
         <logo>broodwar-map-of-the-week/(6)Last One Standing Logo.gif</logo>
       </title>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="desert" minPlayers="3" maxPlayers="6" island="false" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>2001-03-19</release>
@@ -2580,8 +2488,7 @@
         <logo>broodwar-map-of-the-week/(6)All Your Base Logo.jpg</logo>
       </title>
       <size x="128" y="128" />
-      <game gameId="sc:1" />
-      <game versionId="sc:1" />
+      <game gameId="sc:1" versionId="sc:1" />
       <features tileset="badlands" minPlayers="4" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth:0" />
       <release>2001-04-02</release>
@@ -2601,8 +2508,7 @@
       </title>
       <preview>broodwar-map-of-the-week/(6)Bazaar.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc:1" />
-      <game versionId="sc:2" />
+      <game gameId="sc:1" versionId="sc:2" />
       <features tileset="jungle" minPlayers="2" maxPlayers="6" teams="2" island="true" useMapSettings="true" />
       <author authorId="auth:0" />
       <release>2001-04-18</release>
