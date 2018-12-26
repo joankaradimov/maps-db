@@ -1,3 +1,11 @@
+function text2xml(xmlString) {
+    try {
+        return text2msxml(xmlString);
+    } catch (error) {
+        return text2domxml(xmlString);
+    }
+}
+
 function text2msxml(xmlString) {
     var msxml = new ActiveXObject('Microsoft.XMLDOM');
     msxml.async = 'false';
@@ -5,22 +13,15 @@ function text2msxml(xmlString) {
     return msxml;
 }
 
-function text2xml(xmlString) {
+function text2domxml(xmlString) {
     var parser = new DOMParser();
     return parser.parseFromString(xmlString, "text/xml");
 }
 
 function loadXml(filename) {
-    return $.ajax({
-        url: filename,
-        dataType: 'text',
-    }).then(function (xmlString) {
-        try {
-            return text2msxml(xmlString);
-        } catch (error) {
-            return text2xml(xmlString);
-        }
-    });
+    return $
+        .ajax({ url: filename, dataType: 'text' })
+        .then(text2xml);
 }
 
 function transform(xsl, xml) {
