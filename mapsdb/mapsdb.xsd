@@ -63,8 +63,8 @@
                       </xs:element>
                       <xs:element maxOccurs="1" name="game">
                         <xs:complexType>
-                          <xs:attribute name="gameId" type="xs:string" use="optional" />
-                          <xs:attribute name="versionId" type="xs:string" use="optional" />
+                          <xs:attribute name="gameId" type="xs:IDREF" use="optional" />
+                          <xs:attribute name="versionId" type="xs:IDREF" use="optional" />
                         </xs:complexType>
                       </xs:element>
                       <xs:element name="features">
@@ -79,7 +79,7 @@
                       </xs:element>
                       <xs:element maxOccurs="unbounded" name="author">
                         <xs:complexType>
-                          <xs:attribute name="authorId" type="xs:string" use="required" />
+                          <xs:attribute name="authorId" type="xs:IDREF" use="required" />
                         </xs:complexType>
                       </xs:element>
                       <xs:element name="downloads" type="downloads" />
@@ -101,7 +101,7 @@
                     <xs:element minOccurs="0" name="url" type="xs:string" />
                     <xs:element minOccurs="0" name="email" type="xs:string" />
                   </xs:sequence>
-                  <xs:attribute name="id" type="xs:string" use="required" />
+                  <xs:attribute name="id" type="xs:ID" use="required" />
                 </xs:complexType>
               </xs:element>
             </xs:sequence>
@@ -125,14 +125,14 @@
                                 <xs:element minOccurs="0" name="downloads" type="downloads" />
                                 <xs:element minOccurs="0" name="release" type="xs:date" />
                               </xs:sequence>
-                              <xs:attribute name="id" type="xs:string" use="required" />
+                              <xs:attribute name="id" type="xs:ID" use="required" />
                             </xs:complexType>
                           </xs:element>
                         </xs:sequence>
                       </xs:complexType>
                     </xs:element>
                   </xs:sequence>
-                  <xs:attribute name="id" type="xs:string" use="required" />
+                  <xs:attribute name="id" type="xs:ID" use="required" />
                 </xs:complexType>
               </xs:element>
             </xs:sequence>

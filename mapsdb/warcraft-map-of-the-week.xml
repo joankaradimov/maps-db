@@ -24,9 +24,9 @@
       </title>
       <preview>w2-maps/(6)Beetle Island.jpg</preview>
       <size x="128" y="128"/>
-      <game versionId="sw2:bne" />
+      <game versionId="w2-bne" />
       <features tileset="Forest" minPlayers="2" maxPlayers="6" />
-      <author authorId="auth:0" />
+      <author authorId="auth-0" />
       <downloads>
         <full name="Get the creeps">w2-maps/(6)Beetle Island.pud</full>
       </downloads>
@@ -50,9 +50,9 @@
       </title>
       <preview>w2-maps/(4)Mountain Pass.jpg</preview>
       <size x="128" y="128"/>
-      <game versionId="sw2:bne" />
+      <game versionId="w2-bne" />
       <features tileset="Swamp" minPlayers="2" maxPlayers="4" teams="2" />
-      <author authorId="auth:0" />
+      <author authorId="auth-0" />
       <downloads>
         <full name="Scale new heights">w2-maps/(4)Mountain Pass.pud</full>
       </downloads>
@@ -74,9 +74,9 @@
       </title>
       <preview>w2-maps/(4)Cliffhanger.jpg</preview>
       <size x="128" y="128"/>
-      <game versionId="sw2:bne" />
+      <game versionId="w2-bne" />
       <features tileset="Snow" minPlayers="2" maxPlayers="4" />
-      <author authorId="auth:0" />
+      <author authorId="auth-0" />
       <downloads>
         <full name="Hang on!">w2-maps/(4)Cliffhanger BNE.pud</full>
       </downloads>
@@ -85,7 +85,7 @@
   </maps>
 
   <authors>
-    <author id="auth:0">
+    <author id="auth-0">
       <title>
         <name>Blizzard</name>
         <logo>authors/blizzard-logo.png</logo>
@@ -102,7 +102,7 @@
         <logo>games/warcraft.png</logo>
       </title>
       <versions>
-        <version id="w">
+        <version id="w-0">
           <title>
             <name>Warcraft: Orcs and Humans</name>
             <description>
@@ -135,7 +135,7 @@
       </title>
       <url>http://classic.battle.net/war2/</url>
       <versions>
-        <version id="w2:td">
+        <version id="w2-td">
           <title>
             <name>Warcraft 2: Tides of Darkness</name>
             <description>
@@ -157,7 +157,7 @@
           </title>
           <release>1995-12-09</release>
         </version>
-        <version id="w2:bdp">
+        <version id="w2-bdp">
           <title>
             <name>Warcraft 2: Beyond the Dark Portal</name>
             <description>
@@ -178,7 +178,7 @@
           </title>
           <release>1996-04-30</release>
         </version>
-        <version id="w2:bne">
+        <version id="w2-bne">
           <title>
             <name>Warcraft 2: Battle.net Edition</name>
             <description>
