@@ -45,7 +45,7 @@ function parsePudData(data) {
     var releaseElement = document.createElement('release');
 
     gameElement.setAttribute('gameId', 'wc2');
-    authorElement.setAttribute('authorId', 'authId:0');
+    authorElement.setAttribute('authorId', 'authId-0');
     mapElement.appendChild(titleElement);
     mapElement.appendChild(featuresElement);
     mapElement.appendChild(gameElement);
@@ -58,10 +58,10 @@ function parsePudData(data) {
             var version = data.getUint16(0, true);
 
             if (version === 17) {
-                gameElement.setAttribute('versionId', 'wc2:td');
+                gameElement.setAttribute('versionId', 'wc2-td');
                 releaseElement.textContent = '1995-12-09';
             } else if (version === 19) {
-                gameElement.setAttribute('versionId', 'wc2:bdp');
+                gameElement.setAttribute('versionId', 'wc2-bdp');
                 releaseElement.textContent = '1996-04-30';
             }
         },
