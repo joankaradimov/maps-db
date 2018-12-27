@@ -757,10 +757,12 @@
       <url>www.blizzard.com</url>
       <email>contact@blizzard.com</email>
     </author>
-    <author id="auth-1">
+    <author id="auth-2">
       <title>
-        <name>John Doe</name>
+        <name>Mass Media Games</name>
+        <logo>authors/mass-media-logo.png</logo>
       </title>
+      <url>http://massmedia.com/</url>
     </author>
   </authors>
 
@@ -783,6 +785,7 @@
             <full name="Beta">http://www.blizzardarchive.com:80/pub/Betas/SCBeta.rar</full>
             <full name="Japanese beta">http://www.blizzardarchive.com:80/pub/Betas/SCJBeta.rar</full>
           </downloads>
+          <author authorId="auth-0" />
         </version>
         <version id="sc-1">
           <title>
@@ -808,6 +811,7 @@
             <patch name="PC 1.16.1">http://ftp.blizzard.com/pub/starcraft/patches/PC/SC-1161.exe</patch>
             <patch name="MAC 1.16.1">http://ftp.blizzard.com/pub/starcraft/patches/Mac/StarCraft_v1161_OSX.zip</patch>
           </downloads>
+          <author authorId="auth-0" />
           <release>1998-03-31</release>
         </version>
         <version id="sc-2">
@@ -824,6 +828,7 @@
             <patch name="PC 1.16.1">http://ftp.blizzard.com/pub/broodwar/patches/PC/BW-1161.exe</patch>
             <patch name="MAC 1.16.1">http://ftp.blizzard.com/pub/broodwar/patches/Mac/Brood_War_v1161_OSX.zip</patch>
           </downloads>
+          <author authorId="auth-0" />
           <release>1998-11-30</release>
         </version>
         <version id="sc-3">
@@ -838,6 +843,7 @@
             </description>
             <logo>games/starcraft-64.png</logo>
           </title>
+          <author authorId="auth-2" />
           <release>2000-06-13</release>
         </version>
         <version id="sc-4">
@@ -857,6 +863,7 @@
             </description>
             <logo>games/starcraft-remastered.png</logo>
           </title>
+          <author authorId="auth-0" />
           <release>2017-07-30</release>
         </version>
       </versions>

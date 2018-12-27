@@ -93,6 +93,13 @@
       <url>www.blizzard.com</url>
       <email>contact@blizzard.com</email>
     </author>
+    <author id="auth-1">
+      <title>
+        <name>Cyberlore Studios</name>
+        <logo>authors/cyberlore-studios.png</logo>
+      </title>
+      <url>http://www.cyberlore.com/</url>
+    </author>
   </authors>
 
   <games>
@@ -124,6 +131,7 @@
             </description>
             <logo>games/warcraft.png</logo>
           </title>
+          <author authorId="auth-0" />
           <release>1994-11-23</release>
         </version>
       </versions>
@@ -155,6 +163,7 @@
             </description>
             <logo>games/warcraft2.png</logo>
           </title>
+          <author authorId="auth-0" />
           <release>1995-12-09</release>
         </version>
         <version id="w2-bdp">
@@ -176,6 +185,7 @@
             </description>
             <logo>games/warcraft2-exp.png</logo>
           </title>
+          <author authorId="auth-1" />
           <release>1996-04-30</release>
         </version>
         <version id="w2-bne">
@@ -192,6 +202,7 @@
             </description>
             <logo>games/warcraft2-bne.png</logo>
           </title>
+          <author authorId="auth-0" />
           <release>1999-09-30</release>
         </version>
       </versions>

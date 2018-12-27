@@ -124,6 +124,11 @@
                               <xs:sequence>
                                 <xs:element minOccurs="1" maxOccurs="1" name="title" type="title" />
                                 <xs:element minOccurs="0" name="downloads" type="downloads" />
+                                <xs:element minOccurs="1" maxOccurs="1" name="author">
+                                  <xs:complexType>
+                                    <xs:attribute name="authorId" type="xs:IDREF" use="required" />
+                                  </xs:complexType>
+                                </xs:element>
                                 <xs:element minOccurs="0" name="release" type="xs:date" />
                               </xs:sequence>
                               <xs:attribute name="id" type="xs:ID" use="required" />
