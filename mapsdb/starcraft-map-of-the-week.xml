@@ -501,7 +501,7 @@
       <preview>starcraft-map-of-the-week/(6)Acropolis.jpg</preview>
       <size x="192" y="192" />
       <game gameId="sc-1" versionId="sc-1" />
-      <features tileset="jungle" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" ladder="true" />
       <author authorId="auth-0" />
       <release>1998-10-09</release>
     </map>
@@ -557,7 +557,7 @@
       <preview>starcraft-map-of-the-week/(6)Polaris Prime.jpg</preview>
       <size x="192" y="192" />
       <game gameId="sc-1" versionId="sc-1" />
-      <features tileset="space" minPlayers="2" maxPlayers="6" island="true" useMapSettings="false" />
+      <features tileset="space" minPlayers="2" maxPlayers="6" island="true" useMapSettings="false" ladder="true" />
       <author authorId="auth-0" />
       <release>1998-10-16</release>
     </map>
@@ -578,7 +578,7 @@
       <preview>starcraft-map-of-the-week/(2)The New Gauntlet.jpg</preview>
       <size x="128" y="96" />
       <game gameId="sc-1" versionId="sc-1" />
-      <features tileset="badlands" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
+      <features tileset="badlands" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" ladder="true" />
       <author authorId="auth-0" />
       <release>1998-10-23</release>
     </map>
@@ -603,7 +603,7 @@
       <preview>starcraft-map-of-the-week/(4)Proving Grounds.jpg</preview>
       <size x="128" y="128" />
       <game gameId="sc-1" versionId="sc-1" />
-      <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" ladder="true" />
       <author authorId="auth-0" />
       <release>1998-10-23</release>
     </map>

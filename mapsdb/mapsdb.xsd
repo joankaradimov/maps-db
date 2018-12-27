@@ -75,6 +75,7 @@
                           <xs:attribute name="teams" type="xs:unsignedByte" use="optional" />
                           <xs:attribute name="island" type="xs:boolean" use="optional" />
                           <xs:attribute name="useMapSettings" type="xs:boolean" use="optional" />
+                          <xs:attribute name="ladder" type="xs:boolean" use="optional" />
                         </xs:complexType>
                       </xs:element>
                       <xs:element maxOccurs="unbounded" name="author">

@@ -78,7 +78,7 @@
       <preview>broodwar-map-of-the-week/(2)Gemini Station.jpg</preview>
       <size x="96" y="128" />
       <game gameId="sc-1" versionId="sc-1" />
-      <features tileset="space" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
+      <features tileset="space" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" ladder="true" />
       <author authorId="auth-0" />
       <release>1998-12-22</release>
     </map>
@@ -146,7 +146,7 @@
       <preview>broodwar-map-of-the-week/(2)Eldrich Lake.jpg</preview>
       <size x="128" y="128" />
       <game gameId="sc-1" versionId="sc-1" />
-      <features tileset="jungle" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" ladder="true" />
       <author authorId="auth-0" />
       <release>1999-01-15</release>
     </map>
