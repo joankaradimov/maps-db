@@ -143,9 +143,105 @@ function displayResult() {
         });
     });
 
-    loadPud('w2-maps/(4)Cliffhanger BNE.pud').then(parsePudData).then(console.log);
-    loadPud('w2-maps/(4)Mountain Pass BNE.pud').then(parsePudData).then(console.log);
-    loadPud('w2-maps/(6)Beetle Island BNE.pud').then(parsePudData).then(console.log);
+    loadPuds([
+        'w2-maps/(4)Cliffhanger BNE.pud',
+        'w2-maps/(4)Mountain Pass BNE.pud',
+        'w2-maps/(6)Beetle Island BNE.pud',
+    ]).then(console.log);
+}
+
+function createElementWithText(tagName, text) {
+    var result = document.createElement(tagName);
+    result.textContent = text;
+    return result;
+}
+
+function createTitleElement(name, description, logo) {
+    var result = document.createElement('title');
+
+    if (name != null) {
+        result.appendChild(createElementWithText('name', name));
+    }
+    if (description != null) {
+        result.appendChild(createElementWithText('description', description));
+    }
+    if (logo != null) {
+        result.appendChild(createElementWithText('logo', logo));
+    }
+
+    return result;
+}
+
+function createAuthorElement(id, name, logo, url) {
+    var result = document.createElement('author');
+    result.setAttribute('authorId', id);
+    result.appendChild(createTitleElement(name, null, logo));
+    result.appendChild(createElementWithText('url', url));
+    return result;
+}
+
+function createGameElement(id, name, description, logo, versionElements) {
+    var result = document.createElement('game');
+    var versionsElement = document.createElement('versions')
+    result.setAttribute('id', id);
+    result.appendChild(createTitleElement(name, description, logo));
+    result.appendChild(versionsElement);
+
+    for (var i in versionElements) {
+        versionsElement.appendChild(versionElements[i]);
+    }
+
+    return result;
+}
+
+function createVersionElement(id, name, description, logo, authorId, releaseDate) {
+    var result = document.createElement('game');
+    var authorElement = document.createElement('author');
+    var releaseElement = document.createElement('release');
+
+    authorElement.setAttribute('authorId', authorId);
+    releaseElement.textContent = releaseDate;
+
+    result.setAttribute('id', id);
+    result.appendChild(createTitleElement(name, description, logo));
+    result.appendChild(authorElement);
+    result.appendChild(releaseElement);
+
+    return result;
+}
+
+function loadPuds(filenames) {
+    var result = $.Deferred();
+
+    var mapdbElement = document.createElement('mapdb');
+    var mapsElement = document.createElement('maps');
+    var authorsElement = document.createElement('authors');
+    var gamesElement = document.createElement('games');
+
+    mapdbElement.appendChild(mapsElement);
+    mapdbElement.appendChild(authorsElement);
+    mapdbElement.appendChild(gamesElement);
+
+    authorsElement.appendChild(createAuthorElement('auth-0', 'Blizzard', 'authors/blizzard-logo.png', 'www.blizzard.com'));
+    authorsElement.appendChild(createAuthorElement('auth-1', 'Cyberlore Studios', 'authors/cyberlore-studios.png', 'http://www.cyberlore.com/'));
+
+    gamesElement.appendChild(createGameElement('wc2', 'Warcraft 2', null, 'games/warcraft2.png', [
+        createVersionElement('wc2-td', 'Warcraft 2: Tides of Darkness', null, 'games/warcraft2.png', 'auth-0', '1995-12-09'),
+        createVersionElement('wc2-bdp', 'Warcraft 2: Beyond the Dark Portal', null, 'games/warcraft2-exp.png', 'auth-1', '1996-04-30'),
+    ]));
+
+    for (var i in filenames) {
+        loadPud(filenames[i]).then(parsePudData).then(loaded).catch(result.reject);
+    }
+
+    function loaded(mapElement) {
+        mapsElement.appendChild(mapElement);
+        if (mapsElement.childElementCount === filenames.length) {
+            result.resolve(mapdbElement);
+        }
+    }
+
+    return result;
 }
 
 function loadPud(filename) {
