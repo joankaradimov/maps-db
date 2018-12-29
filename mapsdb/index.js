@@ -143,12 +143,19 @@ function displayXml(xml) {
             $('#content').html(transformedXml);
         });
     });
+}
 
+function displayPuds() {
     loadPuds([
         'w2-maps/(4)Cliffhanger BNE.pud',
         'w2-maps/(4)Mountain Pass BNE.pud',
         'w2-maps/(6)Beetle Island BNE.pud',
-    ]).then(console.log);
+    ]).then(function (xml) {
+        loadXml("db-to-html.xslt").then(function (xsl) {
+            var transformedXml = transform(xsl, xml);
+            $('#content').html(transformedXml);
+        });
+    });
 }
 
 function createElementWithText(tagName, text) {
@@ -238,7 +245,7 @@ function loadPuds(filenames) {
     function loaded(mapElement) {
         mapsElement.appendChild(mapElement);
         if (mapsElement.childElementCount === filenames.length) {
-            result.resolve(mapdbElement);
+            result.resolve(text2xml(mapdbElement.outerHTML));
         }
     }
 
@@ -265,5 +272,6 @@ $(function () {
     $('#navigation')
         .append($('<a href="#">Brood War maps of the week</a>').click(function () { displayXml('broodwar-map-of-the-week.xml'); }).css('display', 'block'))
         .append($('<a href="#">Starcraft maps of the week</a>').click(function () { displayXml('starcraft-map-of-the-week.xml'); }).css('display', 'block'))
-        .append($('<a href="#">Warcraft 2 maps of the week</a>').click(function () { displayXml('warcraft-map-of-the-week.xml'); }).css('display', 'block'));
+        .append($('<a href="#">Warcraft 2 maps of the week</a>').click(function () { displayXml('warcraft-map-of-the-week.xml'); }).css('display', 'block'))
+        .append($('<a href="#">Warcraft 2 PUDs</a>').click(function () { displayPuds(); }).css('display', 'block'));
 });
