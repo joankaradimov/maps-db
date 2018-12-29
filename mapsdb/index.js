@@ -135,11 +135,11 @@ function parseChunkData(arrayBuffer, chunkCallbacks) {
     }
 }
 
-function displayResult() {
-    loadXml("broodwar-map-of-the-week.xml").then(function (xml) {
+function displayXml(xml) {
+    loadXml(xml).then(function (xml) {
         loadXml("db-to-html.xslt").then(function (xsl) {
             var transformedXml = transform(xsl, xml);
-            $('body').append(transformedXml);
+            $('#content').html(transformedXml);
         });
     });
 
@@ -254,4 +254,9 @@ function loadPud(filename) {
     });
 }
 
-window.onload = displayResult;
+$(function () {
+    $('#navigation')
+        .append($('<a href="#">Brood War maps of the week</a>').click(function () { displayXml('broodwar-map-of-the-week.xml'); }).css('display', 'block'))
+        .append($('<a href="#">Starcraft maps of the week</a>').click(function () { displayXml('starcraft-map-of-the-week.xml'); }).css('display', 'block'))
+        .append($('<a href="#">Warcraft 2 maps of the week</a>').click(function () { displayXml('warcraft-map-of-the-week.xml'); }).css('display', 'block'));
+});
