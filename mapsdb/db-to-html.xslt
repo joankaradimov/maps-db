@@ -50,14 +50,24 @@
   </xsl:template>
 
   <xsl:template match="title">
-    <img>
-      <xsl:attribute name="src">
-        <xsl:value-of select="logo"/>
-      </xsl:attribute>
-      <xsl:attribute name="alt">
-        <xsl:value-of select="name"/>
-      </xsl:attribute>
-    </img>
+    <xsl:choose>
+      <xsl:when test="logo">
+        <img>
+          <xsl:attribute name="src">
+            <xsl:value-of select="logo"/>
+          </xsl:attribute>
+          <xsl:attribute name="alt">
+            <xsl:value-of select="name"/>
+          </xsl:attribute>
+        </img>
+      </xsl:when>
+      <xsl:otherwise>
+        <h2>
+          <xsl:value-of select="name"/>
+        </h2>
+      </xsl:otherwise>
+    </xsl:choose>
+
   </xsl:template>
 
   <xsl:template match="map">
