@@ -44,6 +44,7 @@ function parsePudData(data) {
     var authorElement = document.createElement('author');
     var releaseElement = document.createElement('release');
 
+    titleElement.appendChild(document.createElement('name'));
     gameElement.setAttribute('gameId', 'wc2');
     authorElement.setAttribute('authorId', 'authId-0');
     mapElement.appendChild(titleElement);
@@ -231,7 +232,7 @@ function loadPuds(filenames) {
     ]));
 
     for (var i in filenames) {
-        loadPud(filenames[i]).then(parsePudData).then(loaded).catch(result.reject);
+        loadPud(filenames[i]).then(loaded).catch(result.reject);
     }
 
     function loaded(mapElement) {
@@ -245,13 +246,19 @@ function loadPuds(filenames) {
 }
 
 function loadPud(filename) {
-    return $.ajax({
-        url: filename,
-        dataType: 'native',
-        xhrFields: {
-            responseType: 'arraybuffer',
-        },
-    });
+    return $
+        .ajax({
+            url: filename,
+            dataType: 'native',
+            xhrFields: {
+                responseType: 'arraybuffer',
+            },
+        })
+        .then(parsePudData)
+        .then(function (xml) {
+            xml.querySelector('title name').textContent = filename;
+            return xml;
+        });
 }
 
 $(function () {
