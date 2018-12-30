@@ -263,7 +263,7 @@ function loadPud(filename) {
         })
         .then(parsePudData)
         .then(function (xml) {
-            xml.querySelector('title name').textContent = filename;
+            xml.querySelector('title name').textContent = filename.replace(/^.*\(\d+\)/, '').replace(/\.pud$/, '');
             return xml;
         });
 }
