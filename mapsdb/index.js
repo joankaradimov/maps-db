@@ -69,7 +69,7 @@ function parsePudData(data) {
         'DESC': function (data) {
             var charCodes = new Uint8Array(data.buffer, data.byteOffset, data.byteLength);
             var description = String.fromCharCode.apply(null, charCodes).replace(/[\0\s]*$/, '');
-            var descriptionElement = document.createElement('desciption');
+            var descriptionElement = document.createElement('description');
 
             descriptionElement.appendChild(document.createTextNode(description));
             titleElement.appendChild(descriptionElement);
