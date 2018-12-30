@@ -272,6 +272,6 @@ $(function () {
     $('#navigation')
         .append($('<a href="#">Brood War maps of the week</a>').click(function () { displayXml('broodwar-map-of-the-week.xml'); }).css('display', 'block'))
         .append($('<a href="#">Starcraft maps of the week</a>').click(function () { displayXml('starcraft-map-of-the-week.xml'); }).css('display', 'block'))
-        .append($('<a href="#">Warcraft 2 maps of the week</a>').click(function () { displayXml('warcraft-map-of-the-week.xml'); }).css('display', 'block'))
+        .append($('<a href="#">Warcraft 2 maps of the week</a>').click(function () { displayXml('warcraft2-map-of-the-week.xml'); }).css('display', 'block'))
         .append($('<a href="#">Warcraft 2 PUDs</a>').click(function () { displayPuds(); }).css('display', 'block'));
 });
