@@ -124,6 +124,11 @@
           Island map
         </li>
       </xsl:if>
+      <xsl:if test="features/@ladder='true'">
+        <li>
+          Official Ladder Map
+        </li>
+      </xsl:if>
     </ul>
   </xsl:template>
 
