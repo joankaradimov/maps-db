@@ -265,9 +265,9 @@
           leaders in search of crystals to fuel their ravenous machines of war
           tend to forget the costs of holding such a place...
         </description>
-        <logo>broodwar-map-of-the-week/(8)Meat Grinder Logo.gif</logo>
+        <logo>broodwar-map-of-the-week/(8)Meatgrinder Logo.gif</logo>
       </title>
-      <preview>broodwar-map-of-the-week/(8)Meat Grinder.jpg</preview>
+      <preview>broodwar-map-of-the-week/(8)Meatgrinder.jpg</preview>
       <size x="96" y="96" />
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
@@ -659,9 +659,9 @@
 
           - "One Eye" McAlester, Sales rep for Shipley Enterprises
         </description>
-        <logo>broodwar-map-of-the-week/(3)Slowburn Logo.gif</logo>
+        <logo>broodwar-map-of-the-week/(3)Slow Burn Logo.gif</logo>
       </title>
-      <preview>broodwar-map-of-the-week/(3)Slowburn.jpg</preview>
+      <preview>broodwar-map-of-the-week/(3)Slow Burn.jpg</preview>
       <size x="128" y="128" />
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="ash" minPlayers="2" maxPlayers="3" island="false" useMapSettings="false" />
@@ -1418,7 +1418,7 @@
           Two Terran Wraiths
           And a brand new SCV!
         </description>
-        <logo>broodwar-map-of-the-week/(4)Twelve Days of Starcraft Logo.gif</logo>
+        <logo>broodwar-map-of-the-week/(4)12 Days of SC Logo.gif</logo>
       </title>
       <size x="192" y="256" />
       <game gameId="sc-1" versionId="sc-2" />
@@ -1443,9 +1443,9 @@
 
             - Benjamin Slater, Doctor of Zoology
         </description>
-        <logo>broodwar-map-of-the-week/(3)Mousetrap Logo.gif</logo>
+        <logo>broodwar-map-of-the-week/(3)Mouse Trap Logo.gif</logo>
       </title>
-      <preview>broodwar-map-of-the-week/(3)Mousetrap.jpg</preview>
+      <preview>broodwar-map-of-the-week/(3)Mouse Trap.jpg</preview>
       <size x="128" y="128" />
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="3" island="false" useMapSettings="false" />
@@ -1888,9 +1888,9 @@
             -Final Recorded Words of Usagi Hidalgo before the surface detonation
             of a 20 megaton nuclear device on the planet of Uilila IV
         </description>
-        <logo>broodwar-map-of-the-week/(7)Hotspot Logo.gif</logo>
+        <logo>broodwar-map-of-the-week/(7)Hot Spot Logo.gif</logo>
       </title>
-      <preview>broodwar-map-of-the-week/(7)Hotspot.jpg</preview>
+      <preview>broodwar-map-of-the-week/(7)Hot Spot.jpg</preview>
       <size x="192" y="192" />
       <game gameId="sc-1" versionId="sc-2" />
       <features tileset="desert" minPlayers="2" maxPlayers="7" island="false" useMapSettings="false" />
@@ -1988,9 +1988,9 @@
           to not see my advancement prospects vanish like everything else does
           in this God forsaken place.
         </description>
-        <logo>broodwar-map-of-the-week/(6)The Void Logo.gif</logo>
+        <logo>broodwar-map-of-the-week/(6)Void Logo.gif</logo>
       </title>
-      <preview>broodwar-map-of-the-week/(6)The Void.jpg</preview>
+      <preview>broodwar-map-of-the-week/(6)Void.jpg</preview>
       <size x="192" y="128" />
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="space" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
