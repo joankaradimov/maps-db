@@ -39,7 +39,7 @@
         color: inherit;
       }
 
-      .features {
+      .map {
         padding-bottom: 60px;
       }
     </style>
@@ -71,65 +71,67 @@
   </xsl:template>
 
   <xsl:template match="map">
-    <xsl:apply-templates select="title" />
-    <div class="row">
-      <div class="release-date">
-        <xsl:value-of select="release" />
-      </div>
+    <div class="map">
+      <xsl:apply-templates select="title" />
+      <div class="row">
+        <div class="release-date">
+          <xsl:value-of select="release" />
+        </div>
 
-      <xsl:if test="preview">
-        <a class="view-map" target="_blank">
-          <xsl:attribute name="href">
-            <xsl:value-of select="preview" />
-          </xsl:attribute>
-          View Map
-        </a>
-      </xsl:if>
+        <xsl:if test="preview">
+          <a class="view-map" target="_blank">
+            <xsl:attribute name="href">
+              <xsl:value-of select="preview" />
+            </xsl:attribute>
+            View Map
+          </a>
+        </xsl:if>
+      </div>
+      <div>
+        <xsl:value-of select="title/description" />
+      </div>
+      <ul>
+        <li>
+          Size: <xsl:value-of select="size/@x"/>&#xd7;<xsl:value-of select="size/@y" />
+        </li>
+        <li>
+          Tileset: <xsl:value-of select="features/@tileset" />
+        </li>
+        <li>
+          Players:
+          <xsl:choose>
+            <xsl:when test="features/@minPlayers = features/@maxPlayers">
+              <xsl:value-of select="features/@minPlayers" />
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:value-of select="features/@minPlayers" />
+              -
+              <xsl:value-of select="features/@maxPlayers" />
+            </xsl:otherwise>
+          </xsl:choose>
+        </li>
+        <xsl:if test="features/@teams">
+          <li>
+            Teams: <xsl:value-of select="features/@teams" />
+          </li>
+        </xsl:if>
+        <xsl:if test="features/@useMapSettings='true'">
+          <li>
+            Use map settings
+          </li>
+        </xsl:if>
+        <xsl:if test="features/@island='true'">
+          <li>
+            Island map
+          </li>
+        </xsl:if>
+        <xsl:if test="features/@ladder='true'">
+          <li>
+            Official Ladder Map
+          </li>
+        </xsl:if>
+      </ul>
     </div>
-    <div>
-      <xsl:value-of select="title/description" />
-    </div>
-    <ul class="features">
-      <li>
-        Size: <xsl:value-of select="size/@x"/>&#xd7;<xsl:value-of select="size/@y" />
-      </li>
-      <li>
-        Tileset: <xsl:value-of select="features/@tileset" />
-      </li>
-      <li>
-        Players:
-        <xsl:choose>
-          <xsl:when test="features/@minPlayers = features/@maxPlayers">
-            <xsl:value-of select="features/@minPlayers" />
-          </xsl:when>
-          <xsl:otherwise>
-            <xsl:value-of select="features/@minPlayers" />
-            -
-            <xsl:value-of select="features/@maxPlayers" />
-          </xsl:otherwise>
-        </xsl:choose>
-      </li>
-      <xsl:if test="features/@teams">
-        <li>
-          Teams: <xsl:value-of select="features/@teams" />
-        </li>
-      </xsl:if>
-      <xsl:if test="features/@useMapSettings='true'">
-        <li>
-          Use map settings
-        </li>
-      </xsl:if>
-      <xsl:if test="features/@island='true'">
-        <li>
-          Island map
-        </li>
-      </xsl:if>
-      <xsl:if test="features/@ladder='true'">
-        <li>
-          Official Ladder Map
-        </li>
-      </xsl:if>
-    </ul>
   </xsl:template>
 
   <xsl:template match="authors" />
