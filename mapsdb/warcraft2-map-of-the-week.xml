@@ -103,39 +103,6 @@
   </authors>
 
   <games>
-    <game id="w">
-      <title>
-        <name>Warcraft</name>
-        <logo>games/warcraft.png</logo>
-      </title>
-      <versions>
-        <version id="w-0">
-          <title>
-            <name>Warcraft: Orcs and Humans</name>
-            <description>
-              Warcraft: Orcs &amp; Humans is the real-time fantasy strategy game
-              from Blizzard Entertainment that quickly became a best seller.
-              Warcraft has not only become a classic, winning many awards, but
-              it has set new standards for multiplayer games. Set in the mythic
-              kingdom of Azeroth, players are given the task of maintaining a
-              thriving economy while building a war machine with which to destroy
-              the enemy.
-
-              By playing either the Humans or the Orcs in this saga, two separate
-              story lines evolve with 12 scenarios per side telling the tale of
-              the battle for Azeroth. From swords to sorcery, all the elements of
-              classic fantasy are here to explore: rich forests, dark dungeons
-              and bubbling swamps await the stalwart troops amassed to fight for
-              dominance. Command many unique armies and creatures including
-              Knights, Archers, Clerics, Warlocks, Daemons, Elementals, and the Dead.
-            </description>
-            <logo>games/warcraft.png</logo>
-          </title>
-          <author authorId="auth-0" />
-          <release>1994-11-23</release>
-        </version>
-      </versions>
-    </game>
     <game id="w2">
       <title>
         <name>Warcraft 2</name>
