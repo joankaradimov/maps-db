@@ -147,9 +147,9 @@ function displayXml(xml) {
 
 function displayPuds() {
     loadPuds([
-        'w2-maps/(4)Cliffhanger BNE.pud',
-        'w2-maps/(4)Mountain Pass BNE.pud',
-        'w2-maps/(6)Beetle Island BNE.pud',
+        'warcraft2-maps-of-the-week/(4)Cliffhanger BNE.pud',
+        'warcraft2-maps-of-the-week/(4)Mountain Pass BNE.pud',
+        'warcraft2-maps-of-the-week/(6)Beetle Island BNE.pud',
     ]).then(function (xml) {
         loadXml("db-to-html.xslt").then(function (xsl) {
             var transformedXml = transform(xsl, xml);

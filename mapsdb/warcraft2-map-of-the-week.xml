@@ -20,15 +20,15 @@
           Once the greater threat was destroyed, the two armies quickly set upon
           each other again, of course...
         </description>
-        <logo>w2-maps/(6)Beetle Island Logo.gif</logo>
+        <logo>warcraft2-maps-of-the-week/(6)Beetle Island Logo.gif</logo>
       </title>
-      <preview>w2-maps/(6)Beetle Island.jpg</preview>
+      <preview>warcraft2-maps-of-the-week/(6)Beetle Island.jpg</preview>
       <size x="128" y="128"/>
       <game versionId="w2-bne" />
       <features tileset="Forest" minPlayers="2" maxPlayers="6" />
       <author authorId="auth-0" />
       <downloads>
-        <full name="Get the creeps">w2-maps/(6)Beetle Island.pud</full>
+        <full name="Get the creeps">warcraft2-maps-of-the-week/(6)Beetle Island.pud</full>
       </downloads>
       <release>1999-10-29</release>
     </map>
@@ -46,15 +46,15 @@
           "specialized mining techniques" of the Goblin Sappers has made the mountain
           passes very difficult to hold...
         </description>
-        <logo>w2-maps/(4)Mountain Pass Logo.gif</logo>
+        <logo>warcraft2-maps-of-the-week/(4)Mountain Pass Logo.gif</logo>
       </title>
-      <preview>w2-maps/(4)Mountain Pass.jpg</preview>
+      <preview>warcraft2-maps-of-the-week/(4)Mountain Pass.jpg</preview>
       <size x="128" y="128"/>
       <game versionId="w2-bne" />
       <features tileset="Swamp" minPlayers="2" maxPlayers="4" teams="2" />
       <author authorId="auth-0" />
       <downloads>
-        <full name="Scale new heights">w2-maps/(4)Mountain Pass.pud</full>
+        <full name="Scale new heights">warcraft2-maps-of-the-week/(4)Mountain Pass.pud</full>
       </downloads>
       <release>1999-11-12</release>
     </map>
@@ -70,15 +70,15 @@
           the valley, but the foreboding crags and horrific ice storms that sweep over
           the area have claimed the lives of many who would chart this remote place.
         </description>
-        <logo>w2-maps/(4)Cliffhanger Logo.gif</logo>
+        <logo>warcraft2-maps-of-the-week/(4)Cliffhanger Logo.gif</logo>
       </title>
-      <preview>w2-maps/(4)Cliffhanger.jpg</preview>
+      <preview>warcraft2-maps-of-the-week/(4)Cliffhanger.jpg</preview>
       <size x="128" y="128"/>
       <game versionId="w2-bne" />
       <features tileset="Snow" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <downloads>
-        <full name="Hang on!">w2-maps/(4)Cliffhanger BNE.pud</full>
+        <full name="Hang on!">warcraft2-maps-of-the-week/(4)Cliffhanger BNE.pud</full>
       </downloads>
       <release>2000-01-14</release>
     </map>
