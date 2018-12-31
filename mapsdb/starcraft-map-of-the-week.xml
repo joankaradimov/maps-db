@@ -780,6 +780,7 @@
             <description>
               An online-only version of Starcraft open for public beta testing.
             </description>
+            <logo>games/starcraft-beta.jpg</logo>
           </title>
           <downloads>
             <full name="Beta">http://www.blizzardarchive.com:80/pub/Betas/SCBeta.rar</full>
