@@ -188,6 +188,21 @@
           <author authorId="auth-1" />
           <release>1996-04-30</release>
         </version>
+        <version id="w2-ds">
+          <title>
+            <name>Warcraft 2: The Dark Saga</name>
+            <description>
+              Warcraft II: The Dark Saga is a console version of Warcraft II: Tides of Darkness,
+              with the expansion Warcraft II: Beyond the Dark Portal included. It was released
+              in North America on January 6, 1997 for the Sony PlayStation and August 31, 1997
+              for the Sega Saturn. It is essentially the same as Tides of Darkness and the
+              expansion Beyond the Dark Portal, but it has some upgrades and slight differences.
+            </description>
+            <logo>games/warcraft2-ds.png</logo>
+          </title>
+          <author authorId="auth-0" />
+          <release>1997-01-06</release>
+        </version>
         <version id="w2-bne">
           <title>
             <name>Warcraft 2: Battle.net Edition</name>
