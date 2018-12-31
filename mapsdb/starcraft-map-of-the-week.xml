@@ -824,6 +824,7 @@
               Earth — decides to send an expeditionary force to secure the
               sector and prevent the aliens from finding Earth.
             </description>
+            <logo>games/starcraft-bw.jpg</logo>
           </title>
           <downloads>
             <patch name="PC 1.16.1">http://ftp.blizzard.com/pub/broodwar/patches/PC/BW-1161.exe</patch>
