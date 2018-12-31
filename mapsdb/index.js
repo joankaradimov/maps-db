@@ -45,8 +45,8 @@ function parsePudData(data) {
     var releaseElement = document.createElement('release');
 
     titleElement.appendChild(document.createElement('name'));
-    gameElement.setAttribute('gameId', 'wc2');
-    authorElement.setAttribute('authorId', 'authId-0');
+    gameElement.setAttributeNS(null, 'gameId', 'wc2');
+    authorElement.setAttributeNS(null, 'authorId', 'authId-0');
     mapElement.appendChild(titleElement);
     mapElement.appendChild(featuresElement);
     mapElement.appendChild(gameElement);
@@ -59,10 +59,10 @@ function parsePudData(data) {
             var version = data.getUint16(0, true);
 
             if (version === 17) {
-                gameElement.setAttribute('versionId', 'wc2-td');
+                gameElement.setAttributeNS(null, 'versionId', 'wc2-td');
                 releaseElement.textContent = '1995-12-09';
             } else if (version === 19) {
-                gameElement.setAttribute('versionId', 'wc2-bdp');
+                gameElement.setAttributeNS(null, 'versionId', 'wc2-bdp');
                 releaseElement.textContent = '1996-04-30';
             }
         },
@@ -87,8 +87,8 @@ function parsePudData(data) {
                 }
             }
 
-            featuresElement.setAttribute('minPlayers', computers > 0 ? 1 : 2);
-            featuresElement.setAttribute('maxPlayers', humans);
+            featuresElement.setAttributeNS(null, 'minPlayers', computers > 0 ? 1 : 2);
+            featuresElement.setAttributeNS(null, 'maxPlayers', humans);
         },
         'ERA': function (data) {
             var tileset = {
@@ -98,15 +98,15 @@ function parsePudData(data) {
                 3: 'Swamp',
             }[data.getUint16(0, true)];
 
-            featuresElement.setAttribute('tileset', tileset);
+            featuresElement.setAttributeNS(null, 'tileset', tileset);
         },
         'DIM': function (data) {
             var x = data.getUint16(0, true);
             var y = data.getUint16(2, true);
             var sizeElement = document.createElement('size');
 
-            sizeElement.setAttribute('x', x);
-            sizeElement.setAttribute('y', y);
+            sizeElement.setAttributeNS(null, 'x', x);
+            sizeElement.setAttributeNS(null, 'y', y);
             mapElement.appendChild(sizeElement);
         },
     });
@@ -182,7 +182,7 @@ function createTitleElement(name, description, logo) {
 
 function createAuthorElement(id, name, logo, url) {
     var result = document.createElement('author');
-    result.setAttribute('authorId', id);
+    result.setAttributeNS(null, 'authorId', id);
     result.appendChild(createTitleElement(name, null, logo));
     result.appendChild(createElementWithText('url', url));
     return result;
@@ -191,7 +191,7 @@ function createAuthorElement(id, name, logo, url) {
 function createGameElement(id, name, description, logo, versionElements) {
     var result = document.createElement('game');
     var versionsElement = document.createElement('versions')
-    result.setAttribute('id', id);
+    result.setAttributeNS(null, 'id', id);
     result.appendChild(createTitleElement(name, description, logo));
     result.appendChild(versionsElement);
 
@@ -207,10 +207,10 @@ function createVersionElement(id, name, description, logo, authorId, releaseDate
     var authorElement = document.createElement('author');
     var releaseElement = document.createElement('release');
 
-    authorElement.setAttribute('authorId', authorId);
+    authorElement.setAttributeNS(null, 'authorId', authorId);
     releaseElement.textContent = releaseDate;
 
-    result.setAttribute('id', id);
+    result.setAttributeNS(null, 'id', id);
     result.appendChild(createTitleElement(name, description, logo));
     result.appendChild(authorElement);
     result.appendChild(releaseElement);
