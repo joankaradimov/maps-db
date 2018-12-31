@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mapdb>
+  <maps>
+    <map>
+      <title>
+        <name>Dungeon 1</name>
+      </title>
+      <preview>warcraft-maps/Dungeon1.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Dungeon" minPlayers="2" maxPlayers="3" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Dungeon 2</name>
+      </title>
+      <preview>warcraft-maps/Dungeon2.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Dungeon" minPlayers="2" maxPlayers="3" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Dungeon 3</name>
+      </title>
+      <preview>warcraft-maps/Dungeon3.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Dungeon" minPlayers="2" maxPlayers="3" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Dungeon 4</name>
+      </title>
+      <preview>warcraft-maps/Dungeon4.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Dungeon" minPlayers="2" maxPlayers="3" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Dungeon 5</name>
+      </title>
+      <preview>warcraft-maps/Dungeon5.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Dungeon" minPlayers="2" maxPlayers="3" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Dungeon 6</name>
+      </title>
+      <preview>warcraft-maps/Dungeon6.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Dungeon" minPlayers="2" maxPlayers="3" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Dungeon 7</name>
+      </title>
+      <preview>warcraft-maps/Dungeon7.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Dungeon" minPlayers="2" maxPlayers="3" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Forest 2</name>
+      </title>
+      <preview>warcraft-maps/Forest2.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Forest" minPlayers="2" maxPlayers="4" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Forest 2</name>
+      </title>
+      <preview>warcraft-maps/Forest2.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Forest" minPlayers="2" maxPlayers="4" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Forest 3</name>
+      </title>
+      <preview>warcraft-maps/Forest3.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Forest" minPlayers="2" maxPlayers="4" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Forest 4</name>
+      </title>
+      <preview>warcraft-maps/Forest4.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Forest" minPlayers="2" maxPlayers="4" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Forest 5</name>
+      </title>
+      <preview>warcraft-maps/Forest5.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Forest" minPlayers="2" maxPlayers="4" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Forest 6</name>
+      </title>
+      <preview>warcraft-maps/Forest6.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Forest" minPlayers="2" maxPlayers="4" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Forest 7</name>
+      </title>
+      <preview>warcraft-maps/Forest7.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Forest" minPlayers="2" maxPlayers="4" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+
+    <map>
+      <title>
+        <name>Swamp 1</name>
+      </title>
+      <preview>warcraft-maps/Swamp1.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Swamp" minPlayers="2" maxPlayers="4" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Swamp 2</name>
+      </title>
+      <preview>warcraft-maps/Swamp2.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Swamp" minPlayers="2" maxPlayers="4" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Swamp 3</name>
+      </title>
+      <preview>warcraft-maps/Swamp3.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Swamp" minPlayers="2" maxPlayers="4" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Swamp 4</name>
+      </title>
+      <preview>warcraft-maps/Swamp4.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Swamp" minPlayers="2" maxPlayers="4" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Swamp 5</name>
+      </title>
+      <preview>warcraft-maps/Swamp5.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Swamp" minPlayers="2" maxPlayers="4" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Swamp 6</name>
+      </title>
+      <preview>warcraft-maps/Swamp6.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Swamp" minPlayers="2" maxPlayers="4" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+    <map>
+      <title>
+        <name>Swamp 7</name>
+      </title>
+      <preview>warcraft-maps/Swamp7.png</preview>
+      <size x="64" y="64" />
+      <game versionId="w-0" />
+      <features tileset="Swamp" minPlayers="2" maxPlayers="4" />
+      <author authorId="auth-0" />
+      <release>1994-11-23</release>
+    </map>
+  </maps>
+
+  <authors>
+    <author id="auth-0">
+      <title>
+        <name>Blizzard</name>
+        <logo>authors/blizzard-logo.png</logo>
+      </title>
+      <url>www.blizzard.com</url>
+      <email>contact@blizzard.com</email>
+    </author>
+  </authors>
+
+  <games>
+    <game id="w">
+      <title>
+        <name>Warcraft</name>
+        <logo>games/warcraft.png</logo>
+      </title>
+      <versions>
+        <version id="w-0">
+          <title>
+            <name>Warcraft: Orcs and Humans</name>
+            <description>
+              Warcraft: Orcs &amp; Humans is the real-time fantasy strategy game
+              from Blizzard Entertainment that quickly became a best seller.
+              Warcraft has not only become a classic, winning many awards, but
+              it has set new standards for multiplayer games. Set in the mythic
+              kingdom of Azeroth, players are given the task of maintaining a
+              thriving economy while building a war machine with which to destroy
+              the enemy.
+
+              By playing either the Humans or the Orcs in this saga, two separate
+              story lines evolve with 12 scenarios per side telling the tale of
+              the battle for Azeroth. From swords to sorcery, all the elements of
+              classic fantasy are here to explore: rich forests, dark dungeons
+              and bubbling swamps await the stalwart troops amassed to fight for
+              dominance. Command many unique armies and creatures including
+              Knights, Archers, Clerics, Warlocks, Daemons, Elementals, and the Dead.
+            </description>
+            <logo>games/warcraft.png</logo>
+          </title>
+          <author authorId="auth-0" />
+          <release>1994-11-23</release>
+        </version>
+      </versions>
+    </game>
+  </games>
+</mapdb>
