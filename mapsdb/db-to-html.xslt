@@ -70,6 +70,29 @@
 
   </xsl:template>
 
+  <xsl:template match="downloads">
+    <xsl:for-each select="full">
+      <div>
+        <a target="_blank">
+          <xsl:attribute name="href">
+            <xsl:value-of select="text()" />
+          </xsl:attribute>
+
+          <xsl:choose>
+            <xsl:when test="@name">
+              <xsl:value-of select="@name" />
+            </xsl:when>
+            <xsl:otherwise>
+              Download
+            </xsl:otherwise>
+          </xsl:choose>
+        </a>
+      </div>
+    </xsl:for-each>
+
+    <!-- TODO: other download types -->
+  </xsl:template>
+
   <xsl:template match="map">
     <div class="map">
       <xsl:apply-templates select="title" />
@@ -131,6 +154,8 @@
           </li>
         </xsl:if>
       </ul>
+
+      <xsl:apply-templates select="downloads" />
     </div>
   </xsl:template>
 
