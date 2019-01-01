@@ -20,6 +20,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(4)Brushfire.scm</full>
+      </downloads>
       <release>1998-05-22</release>
     </map>
     <map>
@@ -41,6 +44,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="space" minPlayers="4" maxPlayers="6" teams="2" island="true" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(6)Divided Factions.scm</full>
+      </downloads>
       <release>1998-05-29</release>
     </map>
 
@@ -62,6 +68,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="ash" minPlayers="4" maxPlayers="8" teams="2" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(8)Eruption.scm</full>
+      </downloads>
       <release>1998-06-05</release>
     </map>
     <map>
@@ -82,6 +91,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="2" useMapSettings="false" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(2)Jacobs Ladder.scm</full>
+      </downloads>
       <release>1998-06-12</release>
     </map>
     <map>
@@ -99,6 +111,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="badlands" minPlayers="4" maxPlayers="6" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(6)Bunker Command.scm</full>
+      </downloads>
       <release>1998-06-19</release>
     </map>
     <map>
@@ -120,6 +135,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="4" maxPlayers="8" teams="4" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(8)Elderlands.scm</full>
+      </downloads>
       <release>1998-06-26</release>
     </map>
 
@@ -142,6 +160,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="badlands" minPlayers="4" maxPlayers="8" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(8)Backwoods.scm</full>
+      </downloads>
       <release>1998-07-03</release>
     </map>
     <map>
@@ -162,6 +183,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(2)Zerg Soccer.scm</full>
+      </downloads>
       <release>1998-07-10</release>
     </map>
     <map>
@@ -185,6 +209,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="4" maxPlayers="8" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(8)Expedition.scm</full>
+      </downloads>
       <release>1998-07-17</release>
     </map>
     <map>
@@ -208,6 +235,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="space" minPlayers="2" maxPlayers="4" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(4)Nova Station.scm</full>
+      </downloads>
       <release>1998-07-24</release>
     </map>
     <map>
@@ -227,6 +257,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="space" minPlayers="2" maxPlayers="5" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(5)Predators.scm</full>
+      </downloads>
       <release>1998-07-31</release>
     </map>
 
@@ -250,6 +283,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="4" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(4)Warp Gates.scm</full>
+      </downloads>
       <release>1998-08-07</release>
     </map>
     <map>
@@ -271,6 +307,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(6)Ghost Town.scm</full>
+      </downloads>
       <release>1998-08-14</release>
     </map>
     <map>
@@ -298,6 +337,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="space" minPlayers="2" maxPlayers="8" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(8)Enigma.scm</full>
+      </downloads>
       <release>1998-08-21</release>
     </map>
     <map>
@@ -317,6 +359,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="4" maxPlayers="8" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(8)Friends98.scm</full>
+      </downloads>
       <release>1998-08-21</release>
     </map>
 
@@ -341,6 +386,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="6" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(6)Legacy.scm</full>
+      </downloads>
       <release>1998-09-04</release>
     </map>
     <map>
@@ -364,6 +412,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="installation" minPlayers="2" maxPlayers="4" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(4)Steal the Beacon.scm</full>
+      </downloads>
       <release>1998-09-04</release>
     </map>
     <map>
@@ -383,6 +434,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="6" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(6)Chain Lightning.scm</full>
+      </downloads>
       <release>1998-09-11</release>
     </map>
     <map>
@@ -403,6 +457,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="space" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(8)Aurora.scm</full>
+      </downloads>
       <release>1998-09-18</release>
     </map>
     <map>
@@ -424,6 +481,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="ash" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(4)Inferno.scm</full>
+      </downloads>
       <release>1998-09-25</release>
     </map>
 
@@ -451,6 +511,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(8)Labyrinth.scm</full>
+      </downloads>
       <release>1998-10-02</release>
     </map>
     <map>
@@ -478,6 +541,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(8)Big Game Hunters.scm</full>
+      </downloads>
       <release>1998-10-09</release>
     </map>
     <map>
@@ -503,6 +569,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" ladder="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(6)Acropolis.scm</full>
+      </downloads>
       <release>1998-10-09</release>
     </map>
     <map>
@@ -535,6 +604,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="space" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(4)Catwalk Alley.scm</full>
+      </downloads>
       <release>1998-10-09</release>
     </map>
     <map>
@@ -559,6 +631,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="space" minPlayers="2" maxPlayers="6" island="true" useMapSettings="false" ladder="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(6)Polaris Prime.scm</full>
+      </downloads>
       <release>1998-10-16</release>
     </map>
     <map>
@@ -580,6 +655,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" ladder="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(2)New Gauntlet.scm</full>
+      </downloads>
       <release>1998-10-23</release>
     </map>
     <map>
@@ -605,6 +683,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" ladder="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(4)Proving Grounds.scm</full>
+      </downloads>
       <release>1998-10-23</release>
     </map>
     <map>
@@ -627,6 +708,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="ash" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(6)Blast Furnace.scm</full>
+      </downloads>
       <release>1998-10-30</release>
     </map>
 
@@ -651,6 +735,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="8" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(8)Turbo.scm</full>
+      </downloads>
       <release>1998-11-06</release>
     </map>
     <map>
@@ -673,6 +760,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="4" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(4)The Highway.scm</full>
+      </downloads>
       <release>1998-11-06</release>
     </map>
     <map>
@@ -695,6 +785,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="8" teams="4" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(8)Garden Of Aiur.scm</full>
+      </downloads>
       <release>1998-11-20</release>
     </map>
     <map>
@@ -719,6 +812,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="5" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(5)Typhoon.scm</full>
+      </downloads>
       <release>1998-11-25</release>
     </map>
 
@@ -744,6 +840,9 @@
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
+      <downloads>
+        <full>starcraft-map-of-the-week/(4)Crossroads.scm</full>
+      </downloads>
       <release>1998-12-04</release>
     </map>
   </maps>
