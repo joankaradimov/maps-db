@@ -264,6 +264,9 @@ function loadPud(filename) {
         .then(parsePudData)
         .then(function (xml) {
             xml.querySelector('title name').textContent = filename.replace(/^.*\(\d+\)/, '').replace(/\.pud$/, '');
+            xml.appendChild(document.createElement('downloads'));
+            xml.querySelector('downloads').appendChild(document.createElement('full'));
+            xml.querySelector('downloads full').textContent = filename;
             return xml;
         });
 }
