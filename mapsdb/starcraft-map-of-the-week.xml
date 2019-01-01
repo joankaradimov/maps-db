@@ -245,7 +245,7 @@
         </description>
         <logo>starcraft-map-of-the-week/(4)Warp Gates Logo.jpg</logo>
       </title>
-      <preview>starcraft-map-of-the-week/(4)Warp Gates.gif</preview>
+      <!-- TODO: preview -->
       <size x="128" y="128" />
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="4" teams="2" island="false" useMapSettings="true" />
@@ -310,9 +310,9 @@
           civilization of truth, honor and beauty. We will forge a new and
           lasting peace... a peace through superior firepower...
         </description>
-        <logo>starcraft-map-of-the-week/(8)Friends 98 Logo.jpg</logo>
+        <logo>starcraft-map-of-the-week/(8)Friends98 Logo.jpg</logo>
       </title>
-      <preview>starcraft-map-of-the-week/(8)Friends 98.jpg</preview>
+      <preview>starcraft-map-of-the-week/(8)Friends98.jpg</preview>
       <size x="192" y="192" />
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="jungle" minPlayers="4" maxPlayers="8" teams="2" island="false" useMapSettings="true" />
@@ -573,9 +573,9 @@
           doubt that some minor but nevertheless important differences crept into
           its construction.
         </description>
-        <logo>starcraft-map-of-the-week/(2)The New Gauntlet Logo.gif</logo>
+        <logo>starcraft-map-of-the-week/(2)New Gauntlet Logo.gif</logo>
       </title>
-      <preview>starcraft-map-of-the-week/(2)The New Gauntlet.jpg</preview>
+      <preview>starcraft-map-of-the-week/(2)New Gauntlet.jpg</preview>
       <size x="128" y="96" />
       <game gameId="sc-1" versionId="sc-1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" ladder="true" />
