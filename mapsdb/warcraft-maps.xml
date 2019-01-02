@@ -276,6 +276,15 @@
             </description>
             <logo>games/warcraft.png</logo>
           </title>
+          <downloads>
+            <demo name="Demo 1">http://www.blizzardarchive.com/pub/Demos/War1Demo1.rar</demo>
+            <demo name="Demo 2">http://www.blizzardarchive.com/pub/Demos/War1Demo2.rar</demo>
+            <patch name="Patch 1.15">http://www.blizzardarchive.com/pub/Patches/war1/pc/War115.rar</patch>
+            <patch name="Patch 1.16">http://www.blizzardarchive.com/pub/Patches/war1/pc/War116.rar</patch>
+            <patch name="Patch 1.20">http://www.blizzardarchive.com/pub/Patches/war1/pc/War120.rar</patch>
+            <patch name="Patch 1.21 (1)">http://www.blizzardarchive.com/pub/Patches/war1/pc/War121_1.rar</patch>
+            <patch name="Patch 1.21 (2)">http://www.blizzardarchive.com/pub/Patches/war1/pc/War121_2.rar</patch>
+          </downloads>
           <author authorId="auth-0" />
           <release>1994-11-23</release>
         </version>

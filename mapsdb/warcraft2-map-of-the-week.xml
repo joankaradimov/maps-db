@@ -130,6 +130,14 @@
             </description>
             <logo>games/warcraft2.png</logo>
           </title>
+          <downloads>
+            <demo name="Shareware 1.08sh">http://www.blizzardarchive.com/pub/Demos/War2Demo108sh.rar</demo>
+            <demo name="Shareware beta 1.02elc">http://www.blizzardarchive.com/pub/Demos/War2Demo102elc.rar</demo>
+            <demo name="Shareware 1.20es">http://www.blizzardarchive.com/pub/Demos/War2Demo120es.rar</demo>
+            <demo name="Shareware 1.20elc">http://www.blizzardarchive.com/pub/Demos/War2Demo120elc.rar</demo>
+            <patch name="Patch 1.12">http://www.blizzardarchive.com/pub/Patches/war2/W2PATCH112.rar</patch>
+            <patch name="Patch 1.20">http://www.blizzardarchive.com/pub/Patches/war2/W2PATCH120.rar</patch>
+          </downloads>
           <author authorId="auth-0" />
           <release>1995-12-09</release>
         </version>
@@ -152,6 +160,10 @@
             </description>
             <logo>games/warcraft2-exp.png</logo>
           </title>
+          <downloads>
+            <patch name="Patch 1.33">http://www.blizzardarchive.com/pub/Patches/war2x/war2x133.exe</patch>
+            <patch name="Patch 1.50">http://www.blizzardarchive.com/pub/Patches/war2x/W2XPTCH.EXE</patch>
+          </downloads>
           <author authorId="auth-1" />
           <release>1996-04-30</release>
         </version>
