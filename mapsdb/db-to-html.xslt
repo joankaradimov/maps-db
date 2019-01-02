@@ -164,6 +164,9 @@
             </xsl:otherwise>
           </xsl:choose>
         </li>
+        <li>
+          Author: <xsl:value-of select="//authors/author[@id=current()/author/@authorId]/title/name" />
+        </li>
       </ul>
 
       <xsl:apply-templates select="downloads" />
