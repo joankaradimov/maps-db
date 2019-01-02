@@ -24,7 +24,7 @@
       </title>
       <preview>warcraft2-maps-of-the-week/(6)Beetle Island.jpg</preview>
       <size x="128" y="128"/>
-      <game versionId="w2-bne" />
+      <game gameId="w2" versionId="w2-bne" />
       <features tileset="Forest" minPlayers="2" maxPlayers="6" />
       <author authorId="auth-0" />
       <downloads>
@@ -50,7 +50,7 @@
       </title>
       <preview>warcraft2-maps-of-the-week/(4)Mountain Pass.jpg</preview>
       <size x="128" y="128"/>
-      <game versionId="w2-bne" />
+      <game gameId="w2" versionId="w2-bne" />
       <features tileset="Swamp" minPlayers="2" maxPlayers="4" teams="2" />
       <author authorId="auth-0" />
       <downloads>
@@ -74,7 +74,7 @@
       </title>
       <preview>warcraft2-maps-of-the-week/(4)Cliffhanger.jpg</preview>
       <size x="128" y="128"/>
-      <game versionId="w2-bne" />
+      <game gameId="w2" versionId="w2-bne" />
       <features tileset="Snow" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <downloads>

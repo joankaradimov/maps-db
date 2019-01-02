@@ -61,9 +61,9 @@
                           <xs:attribute name="y" type="xs:unsignedShort" use="required" />
                         </xs:complexType>
                       </xs:element>
-                      <xs:element maxOccurs="1" name="game">
+                      <xs:element minOccurs="1" maxOccurs="1" name="game">
                         <xs:complexType>
-                          <xs:attribute name="gameId" type="xs:IDREF" use="optional" />
+                          <xs:attribute name="gameId" type="xs:IDREF" use="required" />
                           <xs:attribute name="versionId" type="xs:IDREF" use="optional" />
                         </xs:complexType>
                       </xs:element>

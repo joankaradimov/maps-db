@@ -7,7 +7,7 @@
       </title>
       <preview>warcraft-maps/Dungeon1.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Dungeon" minPlayers="2" maxPlayers="3" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -18,7 +18,7 @@
       </title>
       <preview>warcraft-maps/Dungeon2.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Dungeon" minPlayers="2" maxPlayers="3" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -29,7 +29,7 @@
       </title>
       <preview>warcraft-maps/Dungeon3.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Dungeon" minPlayers="2" maxPlayers="3" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -40,7 +40,7 @@
       </title>
       <preview>warcraft-maps/Dungeon4.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Dungeon" minPlayers="2" maxPlayers="3" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -51,7 +51,7 @@
       </title>
       <preview>warcraft-maps/Dungeon5.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Dungeon" minPlayers="2" maxPlayers="3" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -62,7 +62,7 @@
       </title>
       <preview>warcraft-maps/Dungeon6.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Dungeon" minPlayers="2" maxPlayers="3" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -73,7 +73,7 @@
       </title>
       <preview>warcraft-maps/Dungeon7.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Dungeon" minPlayers="2" maxPlayers="3" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -85,7 +85,7 @@
       </title>
       <preview>warcraft-maps/Forest2.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Forest" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -96,7 +96,7 @@
       </title>
       <preview>warcraft-maps/Forest2.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Forest" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -107,7 +107,7 @@
       </title>
       <preview>warcraft-maps/Forest3.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Forest" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -118,7 +118,7 @@
       </title>
       <preview>warcraft-maps/Forest4.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Forest" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -129,7 +129,7 @@
       </title>
       <preview>warcraft-maps/Forest5.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Forest" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -140,7 +140,7 @@
       </title>
       <preview>warcraft-maps/Forest6.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Forest" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -151,7 +151,7 @@
       </title>
       <preview>warcraft-maps/Forest7.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Forest" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -163,7 +163,7 @@
       </title>
       <preview>warcraft-maps/Swamp1.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Swamp" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -174,7 +174,7 @@
       </title>
       <preview>warcraft-maps/Swamp2.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Swamp" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -185,7 +185,7 @@
       </title>
       <preview>warcraft-maps/Swamp3.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Swamp" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -196,7 +196,7 @@
       </title>
       <preview>warcraft-maps/Swamp4.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Swamp" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -207,7 +207,7 @@
       </title>
       <preview>warcraft-maps/Swamp5.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Swamp" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -218,7 +218,7 @@
       </title>
       <preview>warcraft-maps/Swamp6.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Swamp" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
@@ -229,7 +229,7 @@
       </title>
       <preview>warcraft-maps/Swamp7.png</preview>
       <size x="64" y="64" />
-      <game versionId="w-0" />
+      <game gameId="w" versionId="w-0" />
       <features tileset="Swamp" minPlayers="2" maxPlayers="4" />
       <author authorId="auth-0" />
       <release>1994-11-23</release>
