@@ -153,6 +153,17 @@
             Official Ladder Map
           </li>
         </xsl:if>
+        <li>
+          Game:
+          <xsl:choose>
+            <xsl:when test="game/@versionId">
+              <xsl:value-of select="//versions/version[@id=current()/game/@versionId]/title/name" />
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:value-of select="//games/game[@id=current()/game/@gameId]/title/name" />
+            </xsl:otherwise>
+          </xsl:choose>
+        </li>
       </ul>
 
       <xsl:apply-templates select="downloads" />
