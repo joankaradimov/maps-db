@@ -17,7 +17,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(4)Brushfire.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
       <downloads>
@@ -41,7 +41,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(6)Divided Factions.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="space" minPlayers="4" maxPlayers="6" teams="2" island="true" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -65,7 +65,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(8)Eruption.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="ash" minPlayers="4" maxPlayers="8" teams="2" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -88,7 +88,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(2)Jacobs Ladder.jpg</preview>
       <size x="96" y="96" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="2" useMapSettings="false" />
       <author authorId="auth-0" />
       <downloads>
@@ -108,7 +108,7 @@
         <logo>starcraft-map-of-the-week/(6)Bunker Command Logo.gif</logo>
       </title>
       <size x="96" y="96" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="badlands" minPlayers="4" maxPlayers="6" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -132,7 +132,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(8)Elderlands.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="jungle" minPlayers="4" maxPlayers="8" teams="4" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -157,7 +157,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(8)Backwoods.jpg</preview>
       <size x="192" y="128" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="badlands" minPlayers="4" maxPlayers="8" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -180,7 +180,7 @@
         <logo>starcraft-map-of-the-week/(2)Zerg Soccer Logo.gif</logo>
       </title>
       <size x="192" y="128" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -206,7 +206,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(8)Expedition.jpg</preview>
       <size x="256" y="256" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="jungle" minPlayers="4" maxPlayers="8" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -232,7 +232,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(4)Nova Station.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="space" minPlayers="2" maxPlayers="4" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -254,7 +254,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(5)Predators.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="space" minPlayers="2" maxPlayers="5" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
       <downloads>
@@ -280,7 +280,7 @@
       </title>
       <!-- TODO: preview -->
       <size x="128" y="128" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="4" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -304,7 +304,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(6)Ghost Town.jpg</preview>
       <size x="192" y="128" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
       <downloads>
@@ -334,7 +334,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(8)Enigma.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="space" minPlayers="2" maxPlayers="8" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -356,7 +356,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(8)Friends98.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="jungle" minPlayers="4" maxPlayers="8" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -383,7 +383,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(6)Legacy.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="6" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -409,7 +409,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(4)Steal the Beacon.jpg</preview>
       <size x="96" y="96" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="installation" minPlayers="2" maxPlayers="4" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -431,7 +431,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(6)Chain Lightning.jpg</preview>
       <size x="128" y="96" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="6" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -454,7 +454,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(8)Aurora.jpg</preview>
       <size x="256" y="192" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="space" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
       <downloads>
@@ -478,7 +478,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(4)Inferno.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="ash" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
       <downloads>
@@ -508,7 +508,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(8)Labyrinth.jpg</preview>
       <size x="192" y="256" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
       <downloads>
@@ -538,7 +538,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(8)Big Game Hunters.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="8" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
       <downloads>
@@ -566,7 +566,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(6)Acropolis.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" ladder="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -601,7 +601,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(4)Catwalk Alley.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="space" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
       <downloads>
@@ -628,7 +628,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(6)Polaris Prime.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="space" minPlayers="2" maxPlayers="6" island="true" useMapSettings="false" ladder="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -652,7 +652,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(2)New Gauntlet.jpg</preview>
       <size x="128" y="96" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" ladder="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -680,7 +680,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(4)Proving Grounds.jpg</preview>
       <size x="128" y="128" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" ladder="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -705,7 +705,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(6)Blast Furnace.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="ash" minPlayers="2" maxPlayers="6" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
       <downloads>
@@ -732,7 +732,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(8)Turbo.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="8" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -757,7 +757,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(4)The Highway.jpg</preview>
       <size x="192" y="128" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="4" teams="2" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -782,7 +782,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(8)Garden Of Aiur.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="8" teams="4" island="false" useMapSettings="true" />
       <author authorId="auth-0" />
       <downloads>
@@ -809,7 +809,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(5)Typhoon.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="badlands" minPlayers="2" maxPlayers="5" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
       <downloads>
@@ -837,7 +837,7 @@
       </title>
       <preview>starcraft-map-of-the-week/(4)Crossroads.jpg</preview>
       <size x="192" y="192" />
-      <game gameId="sc-1" versionId="sc-1" />
+      <game gameId="sc" versionId="sc-1" />
       <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
       <author authorId="auth-0" />
       <downloads>
