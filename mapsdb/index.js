@@ -51,7 +51,7 @@ function parsePudData(data) {
 
     titleElement.appendChild(document.createElement('name'));
     gameElement.setAttributeNS(null, 'gameId', 'wc2');
-    authorElement.setAttributeNS(null, 'authorId', 'authId-0');
+    authorElement.setAttributeNS(null, 'authorId', 'auth-0');
     mapElement.appendChild(titleElement);
     mapElement.appendChild(featuresElement);
     mapElement.appendChild(gameElement);
@@ -208,7 +208,7 @@ function createGameElement(id, name, description, logo, versionElements) {
 }
 
 function createVersionElement(id, name, description, logo, authorId, releaseDate) {
-    var result = document.createElement('game');
+    var result = document.createElement('version');
     var authorElement = document.createElement('author');
     var releaseElement = document.createElement('release');
 
