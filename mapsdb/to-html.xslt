@@ -84,6 +84,7 @@
             </xsl:when>
             <xsl:otherwise>
               Download
+              <xsl:value-of select="../../title/name" />
             </xsl:otherwise>
           </xsl:choose>
         </a>
