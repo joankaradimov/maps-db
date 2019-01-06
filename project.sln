@@ -10,6 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mapsdb", "mapsdb", "{4F942F
 		mapsdb\index.js = mapsdb\index.js
 		mapsdb\mapsdb.xsd = mapsdb\mapsdb.xsd
 		mapsdb\starcraft-map-of-the-week.xml = mapsdb\starcraft-map-of-the-week.xml
+		mapsdb\starcraft-tournament-maps.xml = mapsdb\starcraft-tournament-maps.xml
 		mapsdb\to-html.xslt = mapsdb\to-html.xslt
 		mapsdb\to-plain-text.xslt = mapsdb\to-plain-text.xslt
 		mapsdb\warcraft-maps.xml = mapsdb\warcraft-maps.xml

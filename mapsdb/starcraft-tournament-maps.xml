@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mapdb>
+  <maps>
+    <map>
+      <title>
+        <name>Fighting Spirit</name>
+        <description>
+          Formerly known as Silver Wing, Fighting Spirit was one of the maps introduced for the 2009-2010 Proleague season. It is by far the most popular map on Fish Server, to the point many casual players will only play Fighting Spirit because it is the only map they have memorized.
+
+          Fighting Spirit is one of the five maps used in the 2009-10 PokerStrategy.com TSL.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(4)Fighting Spirit.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
+      <author authorId="auth-3" />
+      <downloads>
+        <full>starcraft-tournament-maps/(4)Fighting Spirit.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Jade</name>
+        <description>
+          At first glance, (Neo) Jade in many ways resembles standard four-corner main base maps like Fighting Spirit or Circuit Breaker, which also share the nearby third base, but NJ does exhibit some notable features of its own. For example, the main is located on a lower elevation, making it vulnerable to attack, particularly from range units. This forces players to take their naturals early lest they run the risk of being contained in their main and fighting up a ramp.[1]
+
+          A long natural ridge connects the natural to the third, making it easy to take an expansion and to defend alongside the natural, because the ramp typically contains reinforcement troops. The main attack path is a single narrow ramp that can be defended if not blocked. While they are easy to take, these thirds have low value gas geysers (only 1500 gas).
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(4)Jade.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="twilight" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
+      <author authorId="auth-3" />
+      <downloads>
+        <full>starcraft-tournament-maps/(4)Jade.scx</full>
+        <full name="Download Neo Jade">starcraft-tournament-maps/(4)Neo Jade.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Jade</name>
+        <description>
+          At first glance, (Neo) Jade in many ways resembles standard four-corner main base maps like Fighting Spirit or Circuit Breaker, which also share the nearby third base, but NJ does exhibit some notable features of its own. For example, the main is located on a lower elevation, making it vulnerable to attack, particularly from range units. This forces players to take their naturals early lest they run the risk of being contained in their main and fighting up a ramp.[1]
+
+          A long natural ridge connects the natural to the third, making it easy to take an expansion and to defend alongside the natural, because the ramp typically contains reinforcement troops. The main attack path is a single narrow ramp that can be defended if not blocked. While they are easy to take, these thirds have low value gas geysers (only 1500 gas).
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(4)Jade.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="twilight" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
+      <author authorId="auth-3" />
+      <downloads>
+        <full>starcraft-tournament-maps/(4)Jade.scx</full>
+        <full name="Download Neo Jade">starcraft-tournament-maps/(4)Neo Jade.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Circuit Breaker</name>
+        <description>
+          Circuit Breaker was one of the new maps for the 2010-2011 season of the Shinhan Bank Proleague. It is one of the most statistically balanced maps in history.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(4)Circuit Breaker.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="space" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
+      <author authorId="auth-4" />
+      <downloads>
+        <full>starcraft-tournament-maps/(4)Circuit Breaker.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Electric Circuit</name>
+      </title>
+      <preview>starcraft-tournament-maps/(4)Circuit Breaker.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="space" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
+      <author authorId="auth-5" />
+      <downloads>
+        <full>starcraft-tournament-maps/(4)Electric Circuit.scx</full>
+        <full name="Download Neo Electric Circuit">starcraft-tournament-maps/(4)Neo Electric Circuit.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Wind and Cloud</name>
+        <description>
+          Wind and Cloud is a four-player map that was commissioned by Sonic for use in the SonicTV BJ Starleagues and was designed by Rose.Of.Dream.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(4)Wind and Cloud.jpeg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
+      <author authorId="auth-3" />
+      <downloads>
+        <full>starcraft-tournament-maps/(4)Wind and Cloud 2.2_iCCup.scx</full>
+        <full name="Download Wind and Cloud (with obervers)">starcraft-tournament-maps/(4)Wind and Cloud 2.2_iccOB</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Sniper Ridge</name>
+        <description>
+          Sniper Ridge was a map released in late 2011. Since the release of the revised version a few months later for the 2012 Tving OSL, New Sniper Ridge has largely replaced the original in terms of frequency of use. TLPD records show Sniper Ridge was used approximately 60 times, largely for Proleague games, while New Sniper Ridge has accumulated over 260 games as of October 2014. New Sniper Ridge is one of the more popular maps in terms of organized competitions and show matches.
+
+          In reviewing the cumulative history of games played across TLPD Korean, International, and SOSPA, the map shows remarkable balance between the races:
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(4)Sniper Ridge.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
+      <author authorId="auth-6" />
+      <downloads>
+        <full>starcraft-tournament-maps/(4)Sniper Ridge.scx</full>
+        <full name="Download New Sniper Ridge">starcraft-tournament-maps/(4)New Sniper Ridge.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Match Point</name>
+        <description>
+          This map was used in the 2009-2010 Shinhan Bank Proleague, 2010 Hana Daetoo Securities MSL, 2010 WCG Korea and several offline preliminaries.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(2)Match Point.jpg</preview>
+      <size x="112" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="space" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
+      <author authorId="auth-4" />
+      <downloads>
+        <full>starcraft-tournament-maps/(2)Match Point.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Blue Storm</name>
+        <description>
+          This map was used in the 2009-2010 Shinhan Bank Proleague, 2010 Hana Daetoo Securities MSL, 2010 WCG Korea and several offline preliminaries.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(2)Blue Storm.jpg</preview>
+      <size x="128" y="96" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="twilight" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
+      <author authorId="auth-4" />
+      <downloads>
+        <full>starcraft-tournament-maps/(2)Blue Storm.scx</full>
+        <full name="Download Blue Storm 1.1">starcraft-tournament-maps/(2)Blue Storm 1.1.scx</full>
+        <full name="Download Blue Storm 1.2">starcraft-tournament-maps/(2)Blue Storm 1.2.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Mist</name>
+        <description>
+          Mist was introduced in the 9th SonicTV Starleague.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(2)Mist.jpg</preview>
+      <size x="112" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
+      <author authorId="auth-4" />
+      <downloads>
+        <full>starcraft-tournament-maps/(2)Mist.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>815</name>
+        <description>
+          815 was the first map to introduce small ramps where only small units can pass through. Strategies used on this map were varied greatly due to the uniqueness of the map. Zerg tended to play similarly as on land maps, whereas Terran and Protoss played a more defensive island style games. Even though games tend to be drawn out, rushing and cheesing was also very popular on 815. The map name 815 comes from the date August the 15th (8/15), Liberation Day in Korea.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(4)815.jpg</preview>
+      <size x="112" y="128" />
+      <game gameId="sc" versionId="sc-1" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
+      <author authorId="auth-7" />
+      <downloads>
+        <full>starcraft-tournament-maps/(4)815.scm</full>
+        <full name="Download Sin 815">starcraft-tournament-maps/(4)Sin 815 2.0(o).scx</full>
+        <full name="Download 815 III">starcraft-tournament-maps/(4)815 III.scm</full>
+      </downloads>
+    </map>
+  </maps>
+
+  <authors>
+    <author id="auth-0">
+      <title>
+        <name>Blizzard</name>
+        <logo>authors/blizzard-logo.png</logo>
+      </title>
+      <url>www.blizzard.com</url>
+      <email>contact@blizzard.com</email>
+    </author>
+    <author id="auth-2">
+      <title>
+        <name>Mass Media Games</name>
+        <logo>authors/mass-media-logo.png</logo>
+      </title>
+      <url>http://massmedia.com/</url>
+    </author>
+    <author id="auth-3">
+      <title>
+        <name>변종석 (Rose.of.Dream.)</name>
+      </title>
+    </author>
+    <author id="auth-4">
+      <title>
+        <name>김응서 (Earthattack)</name>
+      </title>
+    </author>
+    <author id="auth-5">
+      <title>
+        <name>우상희 (Str18-02)</name>
+      </title>
+    </author>
+    <author id="auth-6">
+      <title>
+        <name>[Ragnarok]Valkyrie</name>
+      </title>
+    </author>
+    <author id="auth-7">
+      <title>
+        <name>조승연 (Forgotten_)</name>
+      </title>
+    </author>
+  </authors>
+
+  <games>
+    <game id="sc">
+      <title>
+        <name>Starcraft</name>
+        <logo>games/starcraft.png</logo>
+      </title>
+      <url>https://starcraft.com/</url>
+      <versions>
+        <version id="sc-0">
+          <title>
+            <name>Starcraft beta</name>
+            <description>
+              An online-only version of Starcraft open for public beta testing.
+            </description>
+            <logo>games/starcraft-beta.jpg</logo>
+          </title>
+          <downloads>
+            <full name="Beta">http://www.blizzardarchive.com:80/pub/Betas/SCBeta.rar</full>
+            <full name="Japanese beta">http://www.blizzardarchive.com:80/pub/Betas/SCJBeta.rar</full>
+          </downloads>
+          <author authorId="auth-0" />
+        </version>
+        <version id="sc-1">
+          <title>
+            <name>Starcraft</name>
+            <description>
+              StarCraft is set around the early 26th century. Terran exiles from
+              Earth have colonized a distant area of the Milky Way galaxy called
+              the Koprulu Sector, having established several governments.
+              Eventually, a civil war breaks out and ends with the formation of
+              the Terran Dominion.
+
+              However, humanity soon becomes caught in a war between the Protoss
+              and the Zerg, which culminates at the end of StarCraft with the death
+              of the Zerg leader, the Overmind, on the Protoss homeworld of Aiur.
+              Without the Overmind to command, the Zerg rampage mindlessly across
+              Aiur, while the cerebrates—the secondary commanders of the
+              Swarm—attempt to regain control.
+            </description>
+            <logo>games/starcraft.png</logo>
+          </title>
+          <downloads>
+            <demo name="Starcraft demo">http://ftp.blizzard.com/pub/starcraft/demos/SCDemo.exe</demo>
+            <patch name="PC 1.16.1">http://ftp.blizzard.com/pub/starcraft/patches/PC/SC-1161.exe</patch>
+            <patch name="MAC 1.16.1">http://ftp.blizzard.com/pub/starcraft/patches/Mac/StarCraft_v1161_OSX.zip</patch>
+          </downloads>
+          <author authorId="auth-0" />
+          <release>1998-03-31</release>
+        </version>
+        <version id="sc-2">
+          <title>
+            <name>Starcraft: Brood War</name>
+            <description>
+              After the discovery of alien life in the Koprulu Sector, the
+              United Earth Directorate (UED) — the international body governing
+              Earth — decides to send an expeditionary force to secure the
+              sector and prevent the aliens from finding Earth.
+            </description>
+            <logo>games/starcraft-bw.jpg</logo>
+          </title>
+          <downloads>
+            <patch name="PC 1.16.1">http://ftp.blizzard.com/pub/broodwar/patches/PC/BW-1161.exe</patch>
+            <patch name="MAC 1.16.1">http://ftp.blizzard.com/pub/broodwar/patches/Mac/Brood_War_v1161_OSX.zip</patch>
+          </downloads>
+          <author authorId="auth-0" />
+          <release>1998-11-30</release>
+        </version>
+        <version id="sc-3">
+          <title>
+            <name>Starcraft 64</name>
+            <description>
+              In 2000, StarCraft 64 was released In North America for the Nintendo 64,
+              co-developed by Blizzard Entertainment and Mass Media Inc. and published
+              by Nintendo. The game featured all of the missions from both StarCraft
+              and the expansion Brood War, as well as some exclusive missions, such as
+              two different tutorials and a new secret mission, Resurrection IV.
+            </description>
+            <logo>games/starcraft-64.png</logo>
+          </title>
+          <author authorId="auth-2" />
+          <release>2000-06-13</release>
+        </version>
+        <version id="sc-4">
+          <title>
+            <name>Starcraft: Remastered</name>
+            <description>
+              StarCraft®: Remastered upgrades the essential sci-fi strategy
+              experience from beginning to end. Welcome back to the original
+              game and its award-winning expansion, StarCraft: Brood War.
+
+              We’ve remastered our units, buildings, and environments, improved
+              game audio, and broadened our supported resolutions. Illustrated
+              interludes bring the struggles and victories of heroes like Artanis,
+              Fenix, Tassadar, Raynor and Kerrigan to life like never before.
+              Most importantly, the strategy gameplay that StarCraft perfected
+              years ago remains unchanged.
+            </description>
+            <logo>games/starcraft-remastered.png</logo>
+          </title>
+          <author authorId="auth-0" />
+          <release>2017-07-30</release>
+        </version>
+      </versions>
+    </game>
+  </games>
+</mapdb>
