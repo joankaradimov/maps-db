@@ -8,7 +8,7 @@
   </xsl:template>
 
   <xsl:template match="map">
-Картата "<xsl:apply-templates select="title" />" е създадена на дата <xsl:value-of select="release" /> от <xsl:apply-templates select="//authors/author[@id=current()/author/@authorId]/title" /> за играта <xsl:choose>
+Картата "<xsl:apply-templates select="title" />" е създадена<xsl:if test="release"> на дата <xsl:value-of select="release" /></xsl:if> от <xsl:apply-templates select="//authors/author[@id=current()/author/@authorId]/title" /> за играта <xsl:choose>
       <xsl:when test="game/@versionId">
         <xsl:apply-templates select="//versions/version[@id=current()/game/@versionId]/title" />
       </xsl:when>
