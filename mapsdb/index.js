@@ -187,7 +187,7 @@ function createTitleElement(name, description, logo) {
 
 function createAuthorElement(id, name, logo, url) {
     var result = document.createElement('author');
-    result.setAttributeNS(null, 'authorId', id);
+    result.setAttribute('id', id);
     result.appendChild(createTitleElement(name, null, logo));
     result.appendChild(createElementWithText('url', url));
     return result;
@@ -196,7 +196,7 @@ function createAuthorElement(id, name, logo, url) {
 function createGameElement(id, name, description, logo, versionElements) {
     var result = document.createElement('game');
     var versionsElement = document.createElement('versions')
-    result.setAttributeNS(null, 'id', id);
+    result.setAttribute('id', id);
     result.appendChild(createTitleElement(name, description, logo));
     result.appendChild(versionsElement);
 
