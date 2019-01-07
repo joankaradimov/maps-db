@@ -13,7 +13,7 @@
       <preview>starcraft-tournament-maps/(4)Fighting Spirit.jpg</preview>
       <size x="128" y="128" />
       <game gameId="sc" versionId="sc-2" />
-      <features tileset="jungle" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="4" ladder="true" island="false" useMapSettings="false" />
       <author authorId="auth-3" />
       <downloads>
         <full>starcraft-tournament-maps/(4)Fighting Spirit.scx</full>
@@ -32,7 +32,7 @@
       <preview>starcraft-tournament-maps/(4)Jade.jpg</preview>
       <size x="128" y="128" />
       <game gameId="sc" versionId="sc-2" />
-      <features tileset="twilight" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
+      <features tileset="twilight" minPlayers="2" maxPlayers="4" ladder="true" island="false" useMapSettings="false" />
       <author authorId="auth-3" />
       <downloads>
         <full>starcraft-tournament-maps/(4)Jade.scx</full>
@@ -50,7 +50,7 @@
       <preview>starcraft-tournament-maps/(4)Circuit Breaker.jpg</preview>
       <size x="128" y="128" />
       <game gameId="sc" versionId="sc-2" />
-      <features tileset="space" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
+      <features tileset="space" minPlayers="2" maxPlayers="4" ladder="true" island="false" useMapSettings="false" />
       <author authorId="auth-4" />
       <downloads>
         <full>starcraft-tournament-maps/(4)Circuit Breaker.scx</full>
@@ -120,7 +120,7 @@
       <preview>starcraft-tournament-maps/(2)Match Point.jpg</preview>
       <size x="112" y="128" />
       <game gameId="sc" versionId="sc-2" />
-      <features tileset="space" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
+      <features tileset="space" minPlayers="2" maxPlayers="2" ladder="true" island="false" useMapSettings="false" />
       <author authorId="auth-4" />
       <downloads>
         <full>starcraft-tournament-maps/(2)Match Point.scx</full>
@@ -137,7 +137,7 @@
       <preview>starcraft-tournament-maps/(2)Blue Storm.jpg</preview>
       <size x="128" y="96" />
       <game gameId="sc" versionId="sc-2" />
-      <features tileset="twilight" minPlayers="2" maxPlayers="2" island="false" useMapSettings="false" />
+      <features tileset="twilight" minPlayers="2" maxPlayers="2" ladder="true" island="false" useMapSettings="false" />
       <author authorId="auth-4" />
       <downloads>
         <full>starcraft-tournament-maps/(2)Blue Storm.scx</full>
