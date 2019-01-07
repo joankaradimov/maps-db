@@ -42,26 +42,6 @@
 
     <map>
       <title>
-        <name>Jade</name>
-        <description>
-          At first glance, (Neo) Jade in many ways resembles standard four-corner main base maps like Fighting Spirit or Circuit Breaker, which also share the nearby third base, but NJ does exhibit some notable features of its own. For example, the main is located on a lower elevation, making it vulnerable to attack, particularly from range units. This forces players to take their naturals early lest they run the risk of being contained in their main and fighting up a ramp.[1]
-
-          A long natural ridge connects the natural to the third, making it easy to take an expansion and to defend alongside the natural, because the ramp typically contains reinforcement troops. The main attack path is a single narrow ramp that can be defended if not blocked. While they are easy to take, these thirds have low value gas geysers (only 1500 gas).
-        </description>
-      </title>
-      <preview>starcraft-tournament-maps/(4)Jade.jpg</preview>
-      <size x="128" y="128" />
-      <game gameId="sc" versionId="sc-2" />
-      <features tileset="twilight" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
-      <author authorId="auth-3" />
-      <downloads>
-        <full>starcraft-tournament-maps/(4)Jade.scx</full>
-        <full name="Download Neo Jade">starcraft-tournament-maps/(4)Neo Jade.scx</full>
-      </downloads>
-    </map>
-
-    <map>
-      <title>
         <name>Circuit Breaker</name>
         <description>
           Circuit Breaker was one of the new maps for the 2010-2011 season of the Shinhan Bank Proleague. It is one of the most statistically balanced maps in history.
