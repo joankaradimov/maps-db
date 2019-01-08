@@ -275,34 +275,3 @@ function loadPud(filename) {
             return xml;
         });
 }
-
-$(function () {
-    $('#navigation')
-        .append($('<a href="#">Brood War maps of the week (JSON)</a>').click(function () { displayXml('broodwar-map-of-the-week.xml', 'to-json.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Starcraft maps of the week (JSON)</a>').click(function () { displayXml('starcraft-map-of-the-week.xml', 'to-json.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Starcraft tournament maps (JSON)</a>').click(function () { displayXml('starcraft-tournament-maps.xml', 'to-json.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Warcraft maps (JSON)</a>').click(function () { displayXml('warcraft-maps.xml', 'to-json.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Warcraft 2 maps of the week (JSON)</a>').click(function () { displayXml('warcraft2-map-of-the-week.xml', 'to-json.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Warcraft 2 PUDs (JSON)</a>').click(function () { displayPuds('to-json.xslt'); }).css('display', 'block'))
-
-        .append($('<a href="#">Brood War maps of the week (text)</a>').click(function () { displayXml('broodwar-map-of-the-week.xml', 'to-plain-text.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Starcraft maps of the week (text)</a>').click(function () { displayXml('starcraft-map-of-the-week.xml', 'to-plain-text.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Starcraft tournament maps(text)</a>').click(function () { displayXml('starcraft-tournament-maps.xml', 'to-plain-text.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Warcraft maps (text)</a>').click(function () { displayXml('warcraft-maps.xml', 'to-plain-text.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Warcraft 2 maps of the week (text)</a>').click(function () { displayXml('warcraft2-map-of-the-week.xml', 'to-plain-text.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Warcraft 2 PUDs (text)</a>').click(function () { displayPuds('to-plain-text.xslt'); }).css('display', 'block'))
-
-        .append($('<a href="#">Brood War maps of the week (simple)</a>').click(function () { displayXml('broodwar-map-of-the-week.xml', 'to-simple-html.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Starcraft maps of the week (simple)</a>').click(function () { displayXml('starcraft-map-of-the-week.xml', 'to-simple-html.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Starcraft tournament maps (simple)</a>').click(function () { displayXml('starcraft-tournament-maps.xml', 'to-simple-html.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Warcraft maps (simple)</a>').click(function () { displayXml('warcraft-maps.xml', 'to-simple-html.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Warcraft 2 maps of the week (simple)</a>').click(function () { displayXml('warcraft2-map-of-the-week.xml', 'to-simple-html.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Warcraft 2 PUDs (simple)</a>').click(function () { displayPuds('to-simple-html.xslt'); }).css('display', 'block'))
-
-        .append($('<a href="#">Brood War maps of the week</a>').click(function () { displayXml('broodwar-map-of-the-week.xml', 'to-html.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Starcraft maps of the week</a>').click(function () { displayXml('starcraft-map-of-the-week.xml', 'to-html.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Starcraft tournament maps</a>').click(function () { displayXml('starcraft-tournament-maps.xml', 'to-html.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Warcraft maps</a>').click(function () { displayXml('warcraft-maps.xml', 'to-html.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Warcraft 2 maps of the week</a>').click(function () { displayXml('warcraft2-map-of-the-week.xml', 'to-html.xslt'); }).css('display', 'block'))
-        .append($('<a href="#">Warcraft 2 PUDs</a>').click(function () { displayPuds('to-html.xslt'); }).css('display', 'block'));
-});

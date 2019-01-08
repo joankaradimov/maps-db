@@ -6,7 +6,40 @@
     <script src="jquery-ajax-native.js"></script>
 </head>
 <body>
-    <div id="navigation"></div>
+    <table>
+        <tr>
+            <td><a href="#" onclick="displayXml('broodwar-map-of-the-week.xml', 'to-json.xslt')">Brood War maps of the week (JSON)</a></td>
+            <td><a href="#" onclick="displayXml('starcraft-map-of-the-week.xml', 'to-json.xslt')">Starcraft maps of the week (JSON)</a></td>
+            <td><a href="#" onclick="displayXml('starcraft-tournament-maps.xml', 'to-json.xslt')">Starcraft tournament maps (JSON)</a></td>
+            <td><a href="#" onclick="displayXml('warcraft-maps.xml', 'to-json.xslt')">Warcraft maps (JSON)</a></td>
+            <td><a href="#" onclick="displayXml('warcraft2-map-of-the-week.xml', 'to-json.xslt')">Warcraft 2 maps of the week (JSON)</a></td>
+            <td><a href="#" onclick="displayPuds('to-json.xslt')">Warcraft 2 PUDs (JSON)</a></td>
+        </tr>
+        <tr>
+            <td><a href="#" onclick="displayXml('broodwar-map-of-the-week.xml', 'to-html.xslt')">Brood War maps of the week (html)</a></td>
+            <td><a href="#" onclick="displayXml('starcraft-map-of-the-week.xml', 'to-html.xslt')">Starcraft maps of the week (html)</a></td>
+            <td><a href="#" onclick="displayXml('starcraft-tournament-maps.xml', 'to-html.xslt')">Starcraft tournament maps (html)</a></td>
+            <td><a href="#" onclick="displayXml('warcraft-maps.xml', 'to-html.xslt')">Warcraft maps (html)</a></td>
+            <td><a href="#" onclick="displayXml('warcraft2-map-of-the-week.xml', 'to-html.xslt')">Warcraft 2 maps of the week (html)</a></td>
+            <td><a href="#" onclick="displayPuds('to-html.xslt')">Warcraft 2 PUDs (html)</a></td>
+        </tr>
+        <tr>
+            <td><a href="#" onclick="displayXml('broodwar-map-of-the-week.xml', 'to-simple-html.xslt')">Brood War maps of the week (simple)</a></td>
+            <td><a href="#" onclick="displayXml('starcraft-map-of-the-week.xml', 'to-simple-html.xslt')">Starcraft maps of the week (simple)</a></td>
+            <td><a href="#" onclick="displayXml('starcraft-tournament-maps.xml', 'to-simple-html.xslt')">Starcraft tournament maps (simple)</a></td>
+            <td><a href="#" onclick="displayXml('warcraft-maps.xml', 'to-simple-html.xslt')">Warcraft maps (simple)</a></td>
+            <td><a href="#" onclick="displayXml('warcraft2-map-of-the-week.xml', 'to-simple-html.xslt')">Warcraft 2 maps of the week (simple)</a></td>
+            <td><a href="#" onclick="displayPuds('to-simple-html.xslt')">Warcraft 2 PUDs (simple)</a></td>
+        </tr>
+        <tr>
+            <td><a href="#" onclick="displayXml('broodwar-map-of-the-week.xml', 'to-plain-text.xslt')">Brood War maps of the week (text)</a></td>
+            <td><a href="#" onclick="displayXml('starcraft-map-of-the-week.xml', 'to-plain-text.xslt')">Starcraft maps of the week (text)</a></td>
+            <td><a href="#" onclick="displayXml('starcraft-tournament-maps.xml', 'to-plain-text.xslt')">Starcraft tournament maps (text)</a></td>
+            <td><a href="#" onclick="displayXml('warcraft-maps.xml', 'to-plain-text.xslt')">Warcraft maps (text)</a></td>
+            <td><a href="#" onclick="displayXml('warcraft2-map-of-the-week.xml', 'to-plain-text.xslt')">Warcraft 2 maps of the week (text)</a></td>
+            <td><a href="#" onclick="displayPuds('to-plain-text.xslt')">Warcraft 2 PUDs (text)</a></td>
+        </tr>
+    </table>
     <div id="content"></div>
 </body>
 </html>
