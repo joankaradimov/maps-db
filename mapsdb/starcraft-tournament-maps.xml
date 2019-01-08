@@ -181,6 +181,89 @@
         <full name="Download 815 III">starcraft-tournament-maps/(4)815 III.scm</full>
       </downloads>
     </map>
+
+    <map>
+      <title>
+        <name>Outsider</name>
+        <description>
+          Outsider was introduced in the fourth round of the 2008-09 Shinhan Bank Proleague season as one of four new maps for the round. The main feature of the map is the ring of expansions along the edge of the map; with two ramps in the back of each main giving access to one side and a mineral only. However, what looks like a mineral only from the side of your main can be acquired as a Gas Expansion on the other side of the Mineral line, right next to this is the expansion accessible from one of the adjacent main bases. A player can also opt to place their expansion in between the two Gas geysers to increase Gas income while sacrificing the ability to easily mine Minerals. Most games involve some sort of harassment at the many expansions along the edge; Terran can drop Siege Tanks, Protoss can drop Reavers or build Cannons behind the Minerals, and Zerg can drop Lurkers or Hydras.
+
+          When Outsider was first released in Proleague Round 4, many progamers jumped workers over the mineral lines to set up a relatively safe (from ground units) expansion. Without access from ground units, though, these expansions proved too vulnerable to drops, and many have settled with accessing the mineral-only first, then expanding between 2 vespene geysers late-game.
+
+          Outsider SE is one of the five maps used in the 2009-10 PokerStrategy.com TSL.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(3)Outsider.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="ash" minPlayers="2" maxPlayers="3" ladder="true" island="false" useMapSettings="false" />
+      <author authorId="auth-4" />
+      <downloads>
+        <full>starcraft-tournament-maps/(3)Outsider.scx</full>
+        <full name="Download Outsider SE">starcraft-tournament-maps/(3)Outsider SE.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Arcadia</name>
+        <description>
+          Arcadia is a macro-oriented map with a wide center and most notably a very easy to take Mineral only expansion that is nestled near each start location's natural. Overall it is a very standard 4 player map. It was fairly balanced when used between 2006 and 2007, but is argued to be in favor of Terran for modern play (circa 2008).
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(4)Arcadia.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="badlands" minPlayers="2" maxPlayers="4" ladder="true" island="false" useMapSettings="false" />
+      <author authorId="auth-8" />
+      <downloads>
+        <full>starcraft-tournament-maps/(4)Arcadia.scx</full>
+        <full name="Download Arcadia 2">starcraft-tournament-maps/(4)Arcadia 2.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Python</name>
+        <description>
+          Arcadia is a macro-oriented map with a wide center and most notably a very easy to take Mineral only expansion that is nestled near each start location's natural. Overall it is a very standard 4 player map. It was fairly balanced when used between 2006 and 2007, but is argued to be in favor of Terran for modern play (circa 2008).
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(4)Python.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="4" ladder="true" island="false" useMapSettings="false" />
+      <author authorId="auth-9" />
+      <downloads>
+        <full>starcraft-tournament-maps/(4)Python.scx</full>
+        <full name="Download Python 1.1">starcraft-tournament-maps/(4)Python 1.1.scx</full>
+        <full name="Download Python 1.2">starcraft-tournament-maps/(4)Python 1.2.scx</full>
+        <full name="Download Python 1.3">starcraft-tournament-maps/(4)Python 1.3.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Nostalgia</name>
+        <description>
+          Nostalgia is recognised as one of the most iconic "old school" maps, known to be a difficult map to strategize for. PvZ was the most famous match-up on this map as it required both sides to play a low gas style; Nostalgia was the first major map whose natural expansion did not have a Vespene geyser.
+
+          There have also been many memorable TvZs played upon the map, involving many inventive plays by both sides, as well as groundbreaking series such as the end of [1] iloveoov's 27-0 TvZ streak and used in the XellOs vs YellOw 2003 Olympus OSL final.
+
+          PvT is also not to be neglected, as many famous games were played on the map, including an infamous "mine daebak" by Reach versus Control on the last set of the 2004 Gillette OSL semifinal.
+
+          Nostalgia is one of the maps with the most balanced records in all match-ups.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(4)Nostalgia.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-1" />
+      <features tileset="badlands" minPlayers="2" maxPlayers="4" ladder="true" island="false" useMapSettings="false" />
+      <author authorId="auth-3" />
+      <downloads>
+        <full>starcraft-tournament-maps/(4)Nostalgia.scm</full>
+      </downloads>
+    </map>
   </maps>
 
   <authors>
@@ -222,6 +305,16 @@
     <author id="auth-7">
       <title>
         <name>조승연 (Forgotten_)</name>
+      </title>
+    </author>
+    <author id="auth-8">
+      <title>
+        <name>송기범 (skb9728_CyGnus)</name>
+      </title>
+    </author>
+    <author id="auth-9">
+      <title>
+        <name>Terrance</name>
       </title>
     </author>
   </authors>
