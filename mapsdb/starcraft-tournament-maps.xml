@@ -61,7 +61,7 @@
       <title>
         <name>Electric Circuit</name>
       </title>
-      <preview>starcraft-tournament-maps/(4)Circuit Breaker.jpg</preview>
+      <preview>starcraft-tournament-maps/(4)Electric Circuit.jpg</preview>
       <size x="128" y="128" />
       <game gameId="sc" versionId="sc-2" />
       <features tileset="space" minPlayers="2" maxPlayers="4" island="false" useMapSettings="false" />
