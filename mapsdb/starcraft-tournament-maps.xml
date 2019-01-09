@@ -264,6 +264,156 @@
         <full>starcraft-tournament-maps/(4)Nostalgia.scm</full>
       </downloads>
     </map>
+
+    <map>
+      <title>
+        <name>Nostalgia</name>
+        <description>
+          Nostalgia is recognised as one of the most iconic "old school" maps, known to be a difficult map to strategize for. PvZ was the most famous match-up on this map as it required both sides to play a low gas style; Nostalgia was the first major map whose natural expansion did not have a Vespene geyser.
+
+          There have also been many memorable TvZs played upon the map, involving many inventive plays by both sides, as well as groundbreaking series such as the end of [1] iloveoov's 27-0 TvZ streak and used in the XellOs vs YellOw 2003 Olympus OSL final.
+
+          PvT is also not to be neglected, as many famous games were played on the map, including an infamous "mine daebak" by Reach versus Control on the last set of the 2004 Gillette OSL semifinal.
+
+          Nostalgia is one of the maps with the most balanced records in all match-ups.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(4)Nostalgia.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-1" />
+      <features tileset="badlands" minPlayers="2" maxPlayers="4" ladder="true" island="false" useMapSettings="false" />
+      <author authorId="auth-3" />
+      <downloads>
+        <full>starcraft-tournament-maps/(4)Nostalgia.scm</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Longinus</name>
+        <description>
+          Longinus was introduced into the StarCraft scene in 2006 - when it appeared in the 2006 SKY Proleague, the Pringles MSL and the MBCGame Survivor League. In the second half of 2006, Longinus II was released, fixing balance issues such as natural expansion mineral placements, while also adding a second vespene geyser at the 1, 5, and 9 o'clock positions.
+
+          Since then, Longinus has remained a popular map and is still often played in ladders such as iCCup and in special events. Longinus II is considered slightly imbalanced ZvP, as Protoss gets a big advantage with the double gas and easily securable expansions (whereas in Longinus I, the lack of a double gas expansion made it imbalanced in favor of Zerg). While it is balanced in TvP at the professional level, the balance is much worse in ZvT. The fact that it still has somewhat passable statistics in ZvT has largely been attributed to sAviOr; without him the map stands at a grim 11-27 ZvT (29%).
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(3)Longinus.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="3" ladder="true" island="false" useMapSettings="false" />
+      <author authorId="auth-10" />
+      <downloads>
+        <full>starcraft-tournament-maps/(3)Longinus.scx</full>
+        <full name="Download Longinus 2">starcraft-tournament-maps/(3)Longinus 2.scm</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Tau Cross</name>
+        <description>
+          Tau Cross made its debut in 2006 SKY Proleague and the 2006 Shinhan Bank OSL Season 2. It quickly became one of the most popular maps played due to its simplicity and macro focused game play. Tau Cross was also a Courage map. It remained popular long after it was discontinued from Progaming use. Tau Cross was brought back for the 2009 Shinhan Bank Winners League and following GOMTV's policy of using only Proleague maps also subsequently used in the 2009 GOMTV Averatec-Intel Classic Season 3. The World Cyber Games also used Tau Cross for their Grand Final in Cologne in 2008.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(3)Tau Cross.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="ice" minPlayers="2" maxPlayers="3" ladder="true" island="false" useMapSettings="false" />
+      <author authorId="auth-3" />
+      <downloads>
+        <full>starcraft-tournament-maps/(3)Tau Cross.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Destination</name>
+        <description>
+          Destination is a fairly standard two player map that was introduced in the 2008 ClubDay MBCGame Starleague. This map was also used in the 2008-2009 Shinhan Bank Proleague, and the GomTV Avaratec-Intel Classic Season 2. The map is known to host many mech TvZ's as it favors Mech over standard Bionic play.
+
+          This map is very popular for cheeses as well as proxies because of the short rush distances between the bases, as well as the fact that it is a two player map.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(2)Destination.jpg</preview>
+      <size x="128" y="96" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="badlands" minPlayers="2" maxPlayers="2" ladder="true" island="false" useMapSettings="false" />
+      <author authorId="auth-4" />
+      <downloads>
+        <full>starcraft-tournament-maps/(2)Destination.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Heartbreak Ridge</name>
+        <description>
+          Heartbreak Ridge was introduced in the fourth round of the 2008-09 Shinhan Bank Proleague season as one of four new maps for the round, and modified for the second round of the 2009-10 Shinhan Bank Proleague season. It continued to see action all the way up until 2010, leaving a string of memorable games behind.
+
+          The third can be somewhat difficult to take as the walking distance is rather far, but the backdoor route into the third makes this a less drastic effect than it would otherwise be. Taking a fourth is a bigger problem, as the options for a fourth gas are directly above your opponent's base, in the center, or along a direct line from your opponent's natural. Map control is extremely important to securing resources on this map. Counters are relatively common, with a more mobile army counterattacking into the natural instead of directly engaging a less mobile army pushing along the other path.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(2)Heartbreak Ridge.jpg</preview>
+      <size x="128" y="96" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="2" ladder="true" island="false" useMapSettings="false" />
+      <author authorId="auth-6" />
+      <downloads>
+        <full>starcraft-tournament-maps/(2)Heartbreak Ridge.scx</full>
+        <full name="Download New Heartbreak Ridge">starcraft-tournament-maps/(2)New Heartbreak Ridge.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Polaris Rhapsody</name>
+        <description>
+          Polaris Rhapsody was selected as a new map for the 2010 Shinhan Bank Proleague Round 4, together with Grand Line. They replaced Neo Moon Glaive and New Tornado.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(2)Polaris Rhapsody.jpg</preview>
+      <size x="112" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="twilight" minPlayers="2" maxPlayers="2" ladder="true" island="false" useMapSettings="false" />
+      <author authorId="auth-5" />
+      <downloads>
+        <full>starcraft-tournament-maps/(2)Polaris Rhapsody.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Aztec</name>
+        <description>
+          Aztec is a three-player map for the 2010-2011 season of the Shinhan Bank Proleague. As Terran had been struggling on the map, it was modified for Round 5 of Proleague to help balance the TvP match-up.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(3)Aztec.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="jungle" minPlayers="2" maxPlayers="3" ladder="true" island="false" useMapSettings="false" />
+      <author authorId="auth-5" />
+      <downloads>
+        <full>starcraft-tournament-maps/(3)Aztec.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>Roadkill</name>
+        <description>
+          Roadkill is a map which was added to the iCCup map pack in v33. It is a four player map with low ground mains and high ground nats. Unlike typical 4-player maps, where the players mains are located around the corners of the map, this map uses a similar layout to the map (4) Icarus, where the mains are situated around the midths of the map's sides.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(4)Roadkill.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-1" />
+      <features tileset="badlands" minPlayers="2" maxPlayers="4" ladder="true" island="false" useMapSettings="false" />
+      <author authorId="auth-11" />
+      <downloads>
+        <full>starcraft-tournament-maps/(4)Roadkill.scm</full>
+      </downloads>
+    </map>
   </maps>
 
   <authors>
@@ -315,6 +465,16 @@
     <author id="auth-9">
       <title>
         <name>Terrance</name>
+      </title>
+    </author>
+    <author id="auth-10">
+      <title>
+        <name>이한빈 (KuKulZa)</name>
+      </title>
+    </author>
+    <author id="auth-11">
+      <title>
+        <name>Freakling</name>
       </title>
     </author>
   </authors>
