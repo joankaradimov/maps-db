@@ -99,7 +99,43 @@
       </div>
     </xsl:for-each>
 
-    <!-- TODO: other download types -->
+    <xsl:for-each select="demo">
+      <div>
+        <a target="_blank">
+          <xsl:attribute name="href">
+            <xsl:value-of select="text()" />
+          </xsl:attribute>
+
+          <xsl:choose>
+            <xsl:when test="@name">
+              <xsl:value-of select="@name" />
+            </xsl:when>
+            <xsl:otherwise>
+              Download <xsl:value-of select="../../title/name" /> demo
+            </xsl:otherwise>
+          </xsl:choose>
+        </a>
+      </div>
+    </xsl:for-each>
+
+    <xsl:for-each select="patch">
+      <div>
+        <a target="_blank">
+          <xsl:attribute name="href">
+            <xsl:value-of select="text()" />
+          </xsl:attribute>
+
+          <xsl:choose>
+            <xsl:when test="@name">
+              <xsl:value-of select="@name" />
+            </xsl:when>
+            <xsl:otherwise>
+              Download <xsl:value-of select="../../title/name" /> patch
+            </xsl:otherwise>
+          </xsl:choose>
+        </a>
+      </div>
+    </xsl:for-each>
   </xsl:template>
 
   <xsl:template match="map">
