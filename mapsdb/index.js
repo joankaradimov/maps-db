@@ -24,23 +24,6 @@ function loadXml(filename) {
         .then(text2xml);
 }
 
-function transform(xsl, xml) {
-    try {
-        // code for IE
-        var stringOutput = xml.transformNode(xsl);
-        try {
-            return $(stringOutput);
-        } catch (error) {
-            return $('<span>').text(stringOutput);
-        }
-    } catch (error) {
-        // code for Chrome, Firefox, Opera, etc.
-        var xsltProcessor = new XSLTProcessor();
-        xsltProcessor.importStylesheet(xsl);
-        return $(xsltProcessor.transformToFragment(xml, document));
-    }
-}
-
 function parsePudData(data) {
     var mapElement = document.createElement('map');
     var titleElement = document.createElement('title');
@@ -141,26 +124,52 @@ function parseChunkData(arrayBuffer, chunkCallbacks) {
     }
 }
 
-function displayXml(xml, xslt) {
+function processXml(xml, xslt, displayCallback) {
     loadXml(xml).then(function (xml) {
         loadXml(xslt).then(function (xsl) {
-            var transformedXml = transform(xsl, xml);
-            $('#content').html(transformedXml);
+            displayCallback(xsl, xml);
         });
     });
 }
 
-function displayPuds(xslt) {
+function processPuds(xslt, displayCallback) {
     loadPuds([
         'warcraft2-maps-of-the-week/(4)Cliffhanger BNE.pud',
         'warcraft2-maps-of-the-week/(4)Mountain Pass BNE.pud',
         'warcraft2-maps-of-the-week/(6)Beetle Island BNE.pud',
     ]).then(function (xml) {
         loadXml(xslt).then(function (xsl) {
-            var transformedXml = transform(xsl, xml);
-            $('#content').html(transformedXml);
+            displayCallback(xsl, xml);
         });
     });
+}
+
+function displayHtml(xsl, xml) {
+    try {
+        // code for IE
+        var stringOutput = xml.transformNode(xsl);
+        $('#content').html(stringOutput);
+    } catch (error) {
+        // code for Chrome, Firefox, Opera, etc.
+        var xsltProcessor = new XSLTProcessor();
+        xsltProcessor.importStylesheet(xsl);
+        $('#content').html(xsltProcessor.transformToFragment(xml, document));
+    }
+}
+
+function displayText(xsl, xml) {
+    var stringOutput;
+    try {
+        // code for IE
+        stringOutput = xml.transformNode(xsl);
+    } catch (error) {
+        // code for Chrome, Firefox, Opera, etc.
+        var xsltProcessor = new XSLTProcessor();
+        xsltProcessor.importStylesheet(xsl);
+        stringOutput = xsltProcessor.transformToFragment(xml, document).textContent;
+    }
+    $('#content').empty().append('<pre>');
+    $('#content pre').text(stringOutput);
 }
 
 function createElementWithText(tagName, text) {
