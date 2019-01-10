@@ -134,10 +134,10 @@
       </div>
 
       <div class="row">
-        <div class="col-sm-offset-1 col-md-offset-2 col-lg-offset-3 col-sm-6 col-md-5 col-lg-4">
+        <div class="col-sm-offset-1 col-md-offset-2 col-sm-6 col-md-5">
           <xsl:value-of select="title/description" />
         </div>
-        <ul class="col-sm-4 col-md-3 col-lg-2">
+        <ul class="col-sm-4 col-md-3">
           <li>
             Size: <xsl:value-of select="size/@x"/>&#xd7;<xsl:value-of select="size/@y" />
           </li>
