@@ -52,40 +52,38 @@
               <xs:element maxOccurs="unbounded" name="map">
                 <xs:complexType>
                   <xs:sequence>
-                    <xs:choice maxOccurs="unbounded">
-                      <xs:element minOccurs="1" maxOccurs="1" name="title" type="title" />
-                      <xs:element minOccurs="0" maxOccurs="1" name="preview" type="xs:anyURI" />
-                      <xs:element name="size">
-                        <xs:complexType>
-                          <xs:attribute name="x" type="xs:unsignedShort" use="required" />
-                          <xs:attribute name="y" type="xs:unsignedShort" use="required" />
-                        </xs:complexType>
-                      </xs:element>
-                      <xs:element minOccurs="1" maxOccurs="1" name="game">
-                        <xs:complexType>
-                          <xs:attribute name="gameId" type="xs:IDREF" use="required" />
-                          <xs:attribute name="versionId" type="xs:IDREF" use="optional" />
-                        </xs:complexType>
-                      </xs:element>
-                      <xs:element name="features">
-                        <xs:complexType>
-                          <xs:attribute name="tileset" type="xs:string" use="required" />
-                          <xs:attribute name="minPlayers" type="xs:unsignedByte" use="required" />
-                          <xs:attribute name="maxPlayers" type="xs:unsignedByte" use="required" />
-                          <xs:attribute name="teams" type="xs:unsignedByte" use="optional" />
-                          <xs:attribute name="island" type="xs:boolean" use="optional" />
-                          <xs:attribute name="useMapSettings" type="xs:boolean" use="optional" />
-                          <xs:attribute name="ladder" type="xs:boolean" use="optional" />
-                        </xs:complexType>
-                      </xs:element>
-                      <xs:element maxOccurs="unbounded" name="author">
-                        <xs:complexType>
-                          <xs:attribute name="authorId" type="xs:IDREF" use="required" />
-                        </xs:complexType>
-                      </xs:element>
-                      <xs:element name="downloads" type="downloads" />
-                      <xs:element minOccurs="0" name="release" type="xs:date" />
-                    </xs:choice>
+                    <xs:element minOccurs="1" maxOccurs="1" name="title" type="title" />
+                    <xs:element minOccurs="0" maxOccurs="1" name="preview" type="xs:anyURI" />
+                    <xs:element minOccurs="1" maxOccurs="1" name="size">
+                      <xs:complexType>
+                        <xs:attribute name="x" type="xs:unsignedShort" use="required" />
+                        <xs:attribute name="y" type="xs:unsignedShort" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="1" maxOccurs="1" name="game">
+                      <xs:complexType>
+                        <xs:attribute name="gameId" type="xs:IDREF" use="required" />
+                        <xs:attribute name="versionId" type="xs:IDREF" use="optional" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="features">
+                      <xs:complexType>
+                        <xs:attribute name="tileset" type="xs:string" use="required" />
+                        <xs:attribute name="minPlayers" type="xs:unsignedByte" use="required" />
+                        <xs:attribute name="maxPlayers" type="xs:unsignedByte" use="required" />
+                        <xs:attribute name="teams" type="xs:unsignedByte" use="optional" />
+                        <xs:attribute name="island" type="xs:boolean" use="optional" />
+                        <xs:attribute name="useMapSettings" type="xs:boolean" use="optional" />
+                        <xs:attribute name="ladder" type="xs:boolean" use="optional" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element maxOccurs="unbounded" name="author">
+                      <xs:complexType>
+                        <xs:attribute name="authorId" type="xs:IDREF" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="downloads" type="downloads" />
+                    <xs:element minOccurs="0" name="release" type="xs:date" />
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
