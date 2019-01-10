@@ -7,7 +7,7 @@
         <xs:element name="demo">
           <xs:complexType>
             <xs:simpleContent>
-              <xs:extension base="xs:string">
+              <xs:extension base="xs:anyURI">
                 <xs:attribute name="name" type="xs:string" use="optional" />
               </xs:extension>
             </xs:simpleContent>
@@ -16,7 +16,7 @@
         <xs:element name="full">
           <xs:complexType>
             <xs:simpleContent>
-              <xs:extension base="xs:string">
+              <xs:extension base="xs:anyURI">
                 <xs:attribute name="name" type="xs:string" use="optional" />
               </xs:extension>
             </xs:simpleContent>
@@ -25,7 +25,7 @@
         <xs:element name="patch">
           <xs:complexType>
             <xs:simpleContent>
-              <xs:extension base="xs:string">
+              <xs:extension base="xs:anyURI">
                 <xs:attribute name="name" type="xs:string" use="optional" />
               </xs:extension>
             </xs:simpleContent>
@@ -99,7 +99,7 @@
                 <xs:complexType>
                   <xs:sequence>
                     <xs:element minOccurs="1" maxOccurs="1" name="title" type="title" />
-                    <xs:element minOccurs="0" name="url" type="xs:string" />
+                    <xs:element minOccurs="0" name="url" type="xs:anyURI" />
                     <xs:element minOccurs="0" name="email" type="xs:string" />
                   </xs:sequence>
                   <xs:attribute name="id" type="xs:ID" use="required" />
@@ -115,7 +115,7 @@
                 <xs:complexType>
                   <xs:sequence>
                     <xs:element minOccurs="1" maxOccurs="1" name="title" type="title" />
-                    <xs:element minOccurs="0" name="url" type="xs:string" />
+                    <xs:element minOccurs="0" name="url" type="xs:anyURI" />
                     <xs:element name="versions">
                       <xs:complexType>
                         <xs:sequence>
