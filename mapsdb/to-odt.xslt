@@ -84,7 +84,7 @@
       <xsl:value-of select="title/name" />
     </text:h>
     <text:p text:style-name="P1">
-      <xsl:value-of select="title/description" />  
+      <xsl:value-of select="title/description" />
     </text:p>
     <text:list xml:id="list171931995956714" text:continue-numbering="true" text:style-name="L1">
       <text:list-item>
