@@ -241,6 +241,24 @@
                 </xsl:attribute>
               </img>
             </xsl:if>
+            <div>
+              <a target="_blank">
+                <xsl:attribute name="href">
+                  <xsl:value-of select="url"/>
+                </xsl:attribute>
+                Official site
+              </a>
+            </div>
+            <xsl:if test="email">
+              <div>
+                <a>
+                  <xsl:attribute name="href">
+                    mailto:<xsl:value-of select="email"/>
+                  </xsl:attribute>
+                  Send mail
+                </a>
+              </div>
+            </xsl:if>
           </div>
         </div>
       </div>
@@ -276,6 +294,16 @@
                   <xsl:value-of select="title/name"/>
                 </xsl:attribute>
               </img>
+            </xsl:if>
+            <xsl:if test="url">
+              <div>
+                <a target="_blank">
+                  <xsl:attribute name="href">
+                    <xsl:value-of select="url"/>
+                  </xsl:attribute>
+                  Official site
+                </a>
+              </div>
             </xsl:if>
             <xsl:apply-templates select="downloads" />
           </div>
@@ -316,6 +344,16 @@
                   <xsl:value-of select="title/name"/>
                 </xsl:attribute>
               </img>
+            </xsl:if>
+            <xsl:if test="../../url">
+              <div>
+                <a target="_blank">
+                  <xsl:attribute name="href">
+                    <xsl:value-of select="../../url"/>
+                  </xsl:attribute>
+                  Official site
+                </a>
+              </div>
             </xsl:if>
             <xsl:apply-templates select="downloads" />
           </div>
