@@ -107,7 +107,7 @@
             <xsl:attribute name="data-target">#modal-<xsl:value-of select="generate-id(preview)" /></xsl:attribute>
             Map Preview
           </a>
-      
+
           <div class="modal fade" tabindex="-1" role="dialog">
             <xsl:attribute name="aria-labelledby">modal-label-<xsl:value-of select="generate-id(preview)" /></xsl:attribute>
             <xsl:attribute name="id">modal-<xsl:value-of select="generate-id(preview)" /></xsl:attribute>
@@ -254,8 +254,7 @@
   <xsl:template match="game">
     <div class="modal fade" tabindex="-1" role="dialog">
       <xsl:attribute name="aria-labelledby">modal-label-<xsl:value-of select="@id" /></xsl:attribute>
-      <xsl:attribute name="id">modal-<xsl:value-of select="@id" />
-      </xsl:attribute>
+      <xsl:attribute name="id">modal-<xsl:value-of select="@id" /></xsl:attribute>
       <div class="modal-dialog" role="document">
         <div class="modal-content">
           <div class="modal-header">
