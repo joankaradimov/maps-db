@@ -853,7 +853,7 @@
         <name>Blizzard</name>
         <logo>authors/blizzard-logo.png</logo>
       </title>
-      <url>www.blizzard.com</url>
+      <url>http://www.blizzard.com</url>
       <email>contact@blizzard.com</email>
     </author>
     <author id="auth-2">
