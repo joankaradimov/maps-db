@@ -414,6 +414,42 @@
         <full>starcraft-tournament-maps/(4)Roadkill.scm</full>
       </downloads>
     </map>
+
+    <map>
+      <title>
+        <name>Benzene</name>
+        <description>
+          Benzene was one of the new maps for the 2010-2011 season of the Shinhan Bank Proleague.
+
+          The current version used in Proleague is 1.1.
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(2)Benzene.jpg</preview>
+      <size x="128" y="112" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="space" minPlayers="2" maxPlayers="2" ladder="true" island="false" useMapSettings="false" />
+      <author authorId="auth-5" />
+      <downloads>
+        <full>starcraft-tournament-maps/(2)Benzene.scx</full>
+      </downloads>
+    </map>
+
+    <map>
+      <title>
+        <name>In the Way of an Eddy</name>
+        <description>
+          Eddy, aka. In the Way of an Eddy is a four player map that was added to the iCCup map pack on March 3, 2015
+        </description>
+      </title>
+      <preview>starcraft-tournament-maps/(4)In the Way of an Eddy.jpg</preview>
+      <size x="128" y="128" />
+      <game gameId="sc" versionId="sc-2" />
+      <features tileset="twilight" minPlayers="2" maxPlayers="4" ladder="true" island="false" useMapSettings="false" />
+      <author authorId="auth-11" />
+      <downloads>
+        <full>starcraft-tournament-maps/(4)In the Way of an Eddy(n).scx</full>
+      </downloads>
+    </map>
   </maps>
 
   <authors>
